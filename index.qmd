@@ -1,12 +1,68 @@
 ---
-title: "R for Social Good"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: false
+title: "About"
+image: profile.jpg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Kevin_Gilds
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kevingilds/
+    - icon: github
+      text: Github
+      href: https://github.com/kgilds
 ---
+
+# Kevin Gilds
+
+### Hi there {{< fa handshake >}} my name is Kevin
+
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+
+I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.
+
+{{< fa face-smile >}} Pronouns: he/him
+
+{{< fa binoculars >}} I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.
+
+{{< fa seedling >}} I’m currently learning Bash and SQL
+
+{{< fa people-group >}} I’m looking to collaborate on Shiny Applications.
+
+{{< fa comment-dots >}} Ask me about data in the nonprofit sector.
+
+{{< fa inbox >}} How to reach me: kevin.gilds@hey.com
+
+### Technical Skills
+
+![R](https://img.shields.io/badge/r-%2523276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%2523000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### {{< fa brands github >}} Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=kgilds&amp;show_icons=true&amp;hide_border=true&amp;&amp;count_private=true&amp;include_all_commits=true" height="180em"/>
+
+### {{< fa blog >}} Blog Posts
+
+[Shiny Posts](https://kgilds.rbind.io/tags/shiny/)
+
+[R Posts](https://kgilds.rbind.io/categories/r/)
+
+### {{< fa brands kaggle >}} Courses
+
+<details>
+
+<summary>Click to Expand</summary>
+
+Intro to Python \| 2021-08-09 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/python)
+
+Intro to Machine Learning \| 2021-08-10 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/intro-to-machine-learning)
+
+Intermediate Machine Learning \| 2021-08-14 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/intermediate-machine-learning)
+
+Feature Engineering \| 2021-09-18 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/feature-engineering)
+
+Pandas \| 2021-09-23 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/pandas)
+
+</details>
