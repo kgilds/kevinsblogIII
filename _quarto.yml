@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "R for Social Good"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/kgilds
+      - icon: twitter
+        href: https://twitter.com/Kevin_Gilds
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

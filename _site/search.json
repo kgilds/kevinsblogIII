@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R for Social Good",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 8, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Freelancer\n\n\nI am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate"
+  }
+]
