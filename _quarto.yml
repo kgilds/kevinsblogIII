@@ -5,7 +5,7 @@ website:
   title: "R for Social Good"
   navbar:
     right:
-      - about.qmd
+      - blog.qmd
       - icon: github
         href: https://github.com/kgilds
       - icon: twitter
