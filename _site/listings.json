@@ -9,6 +9,11 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/remedy/addins.html",
+      "/posts/sql_cert/sql_cert.html",
+      "/posts/bash/bash.html",
+      "/posts/foreign-keys/sql-foreign-keys.html",
+      "/posts/sql/learn-sql.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]

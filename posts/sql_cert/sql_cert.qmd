@@ -1,0 +1,10 @@
+---
+title: "sql cert"
+editor: visual
+title-block-banner: false
+date: 2022-09-27
+---
+
+I have enjoyed taking the courses from this learning track.https://www.freecodecamp.org/learn/relational-database/
+
+What I have liked thus far is that the courses emphasize using the command line and using Bash. The courses have been well designed. The skills build on each other and there is a lot of repetition to reinforce concepts. The hints in the course also provide an opportunity for the student to work out the problem before the solution is provided.

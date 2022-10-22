@@ -1,0 +1,14 @@
+---
+title: "SQL Form "
+editor: visual
+title-block-banner: false
+date: 2022-09-23
+---
+
+## Add table
+
+`ALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;`
+
+## Add column to a table
+
+`ALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;`

@@ -1,0 +1,14 @@
+---
+title: "foreign keys"
+editor: visual
+title-block-banner: false
+date: 2022-09-23
+---
+
+I have been working on a SQL certification course from Freecode Camp. The most important thing that I learned today was adding a Foreign Key to a table in Postgres.
+
+It drives me batty not to use commas and appreciate the parantheses.
+
+`ALTER TABLE <table_name> ADD FOREIGN KEY(<column_name>)`
+
+`REFERENCES <referenced_table_name>(<referenced_column_name>);`

@@ -1,0 +1,8 @@
+---
+title: "addins"
+editor: visual
+title-block-banner: false
+date: 2022-10-12
+---
+
+I downloaded the [`remedy`](https://thinkr-open.github.io/remedy/) package today. 

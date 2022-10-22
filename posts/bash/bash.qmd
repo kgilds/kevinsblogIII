@@ -1,0 +1,60 @@
+---
+title: "bash"
+editor: visual
+title-block-banner: false
+date: 2022-09-25
+---
+
+Using a bash script with Postgres database.
+
+## Make it executable
+
+`chomd +x <filename>`
+
+At the top of the file add a shebang
+
+`#!/bin/bash`
+
+### Read Data from CSV File
+
+The script below reads the csv file and reads
+
+    cat courses.csv | while IFS="," read MAJOR COURSE
+    do
+      echo $MAJOR
+    done
+
+### Connect to Database
+
+    PSQL="psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c"
+
+### Database Variable
+
+`MAJOR_ID=$($PSQL "<query_here>")`
+
+`MAJOR_ID=$($PSQL "SELECT major_id FROM majors WHERE major='$MAJOR'")`
+
+### Code Planning
+
+I liked this approach of using comments as a place holder for what to do next.
+
+    do
+      # get major_id
+
+      # if not found
+
+      # insert major
+
+      # get new major_id
+
+      # get course_id
+
+      # if not found
+
+      # insert course
+
+      # get new course_id
+
+      # insert into majors_courses
+
+    done

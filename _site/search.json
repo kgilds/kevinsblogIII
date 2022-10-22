@@ -32,6 +32,55 @@
     "href": "blog.html",
     "title": "R for Social Good",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 8, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Oct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 8, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/foreign-keys/sql-foreign-keys.html",
+    "href": "posts/foreign-keys/sql-foreign-keys.html",
+    "title": "foreign keys",
+    "section": "",
+    "text": "It drives me batty not to use commas and appreciate the parantheses.\nALTER TABLE <table_name> ADD FOREIGN KEY(<column_name>)\nREFERENCES <referenced_table_name>(<referenced_column_name>);"
+  },
+  {
+    "objectID": "posts/sql/learn-sql.html",
+    "href": "posts/sql/learn-sql.html",
+    "title": "SQL Form",
+    "section": "",
+    "text": "ALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
+  },
+  {
+    "objectID": "posts/sql/learn-sql.html#add-column-to-a-table",
+    "href": "posts/sql/learn-sql.html#add-column-to-a-table",
+    "title": "SQL Form",
+    "section": "Add column to a table",
+    "text": "Add column to a table\nALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
+  },
+  {
+    "objectID": "posts/bash/bash.html",
+    "href": "posts/bash/bash.html",
+    "title": "bash",
+    "section": "",
+    "text": "Using a bash script with Postgres database."
+  },
+  {
+    "objectID": "posts/bash/bash.html#make-it-executable",
+    "href": "posts/bash/bash.html#make-it-executable",
+    "title": "bash",
+    "section": "Make it executable",
+    "text": "Make it executable\nchomd +x <filename>\nAt the top of the file add a shebang\n#!/bin/bash\n\nRead Data from CSV File\nThe script below reads the csv file and reads\ncat courses.csv | while IFS=\",\" read MAJOR COURSE\ndo\n  echo $MAJOR\ndone\n\n\nConnect to Database\nPSQL=\"psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c\"\n\n\nDatabase Variable\nMAJOR_ID=$($PSQL \"<query_here>\")\nMAJOR_ID=$($PSQL \"SELECT major_id FROM majors WHERE major='$MAJOR'\")\n\n\nCode Planning\nI liked this approach of using comments as a place holder for what to do next.\ndo\n  # get major_id\n\n  # if not found\n\n  # insert major\n\n  # get new major_id\n\n  # get course_id\n\n  # if not found\n\n  # insert course\n\n  # get new course_id\n\n  # insert into majors_courses\n\ndone"
+  },
+  {
+    "objectID": "posts/sql_cert/sql_cert.html",
+    "href": "posts/sql_cert/sql_cert.html",
+    "title": "sql cert",
+    "section": "",
+    "text": "What I have liked thus far is that the courses emphasize using the command line and using Bash. The courses have been well designed. The skills build on each other and there is a lot of repetition to reinforce concepts. The hints in the course also provide an opportunity for the student to work out the problem before the solution is provided."
+  },
+  {
+    "objectID": "posts/remedy/addins.html",
+    "href": "posts/remedy/addins.html",
+    "title": "addins",
+    "section": "",
+    "text": "I downloaded the remedy package today."
   }
 ]
