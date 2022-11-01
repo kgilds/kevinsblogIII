@@ -1,14 +1,9 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": [
+      "/posts/joins/joins.html",
+      "/posts/r-packages/r-packages.html",
       "/posts/remedy/addins.html",
       "/posts/sql_cert/sql_cert.html",
       "/posts/bash/bash.html",
@@ -17,5 +12,13 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": []
   }
 ]

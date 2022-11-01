@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "Freelancer\n\n\nI am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate"
+    "text": "Freelancer\n\n\nI am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate\n\n\n\n\n\n\n\nmy chromebook\n\n\n\n\nClick to Expand\n\nIntroduction to Chromebook Data Science\nHow to use a Chromebook\nGoogle and the Cloud\nOrganizing Data Science Projects\nVersion Control\nData Tidying\nData Visualization\nGetting Data"
+  },
+  {
+    "objectID": "posts/joins/joins.html",
+    "href": "posts/joins/joins.html",
+    "title": "joins",
+    "section": "",
+    "text": "SELECT * FROM <TABLE 1> JOIN TYPE <TABLE 2> ON <TABLE 1.KEY> <TABLE 2.KEY>\nIf the two keys are the same, one can use the Using function.\n{eval= FALSE} SELECT * FROM <table_1> FULL JOIN <table_2> USING(<column>);"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -12,48 +19,6 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Freelancer\n\n\nI am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "R for Social Good",
-    "section": "",
-    "text": "Oct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 8, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/foreign-keys/sql-foreign-keys.html",
-    "href": "posts/foreign-keys/sql-foreign-keys.html",
-    "title": "foreign keys",
-    "section": "",
-    "text": "It drives me batty not to use commas and appreciate the parantheses.\nALTER TABLE <table_name> ADD FOREIGN KEY(<column_name>)\nREFERENCES <referenced_table_name>(<referenced_column_name>);"
-  },
-  {
-    "objectID": "posts/sql/learn-sql.html",
-    "href": "posts/sql/learn-sql.html",
-    "title": "SQL Form",
-    "section": "",
-    "text": "ALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
-  },
-  {
-    "objectID": "posts/sql/learn-sql.html#add-column-to-a-table",
-    "href": "posts/sql/learn-sql.html#add-column-to-a-table",
-    "title": "SQL Form",
-    "section": "Add column to a table",
-    "text": "Add column to a table\nALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
   },
   {
     "objectID": "posts/bash/bash.html",
@@ -70,6 +35,27 @@
     "text": "Make it executable\nchomd +x <filename>\nAt the top of the file add a shebang\n#!/bin/bash\n\nRead Data from CSV File\nThe script below reads the csv file and reads\ncat courses.csv | while IFS=\",\" read MAJOR COURSE\ndo\n  echo $MAJOR\ndone\n\n\nConnect to Database\nPSQL=\"psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c\"\n\n\nDatabase Variable\nMAJOR_ID=$($PSQL \"<query_here>\")\nMAJOR_ID=$($PSQL \"SELECT major_id FROM majors WHERE major='$MAJOR'\")\n\n\nCode Planning\nI liked this approach of using comments as a place holder for what to do next.\ndo\n  # get major_id\n\n  # if not found\n\n  # insert major\n\n  # get new major_id\n\n  # get course_id\n\n  # if not found\n\n  # insert course\n\n  # get new course_id\n\n  # insert into majors_courses\n\ndone"
   },
   {
+    "objectID": "posts/remedy/addins.html",
+    "href": "posts/remedy/addins.html",
+    "title": "addins",
+    "section": "",
+    "text": "I downloaded the remedy package today."
+  },
+  {
+    "objectID": "posts/foreign-keys/sql-foreign-keys.html",
+    "href": "posts/foreign-keys/sql-foreign-keys.html",
+    "title": "foreign keys",
+    "section": "",
+    "text": "It drives me batty not to use commas and appreciate the parantheses.\nALTER TABLE <table_name> ADD FOREIGN KEY(<column_name>)\nREFERENCES <referenced_table_name>(<referenced_column_name>);"
+  },
+  {
+    "objectID": "posts/r-packages/r-packages.html",
+    "href": "posts/r-packages/r-packages.html",
+    "title": "R-packages",
+    "section": "",
+    "text": "The QualtRics pakcage is a key r package I utilize. The package provides an API access from Qualtrics to a R environment. If you manage separate Qualtrics accounts, set your credentials to project environmental settings. See below\n\n usethis::edit_r_environ(\"project\")"
+  },
+  {
     "objectID": "posts/sql_cert/sql_cert.html",
     "href": "posts/sql_cert/sql_cert.html",
     "title": "sql cert",
@@ -77,10 +63,31 @@
     "text": "What I have liked thus far is that the courses emphasize using the command line and using Bash. The courses have been well designed. The skills build on each other and there is a lot of repetition to reinforce concepts. The hints in the course also provide an opportunity for the student to work out the problem before the solution is provided."
   },
   {
-    "objectID": "posts/remedy/addins.html",
-    "href": "posts/remedy/addins.html",
-    "title": "addins",
+    "objectID": "posts/sql/learn-sql.html",
+    "href": "posts/sql/learn-sql.html",
+    "title": "SQL Form",
     "section": "",
-    "text": "I downloaded the remedy package today."
+    "text": "ALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
+  },
+  {
+    "objectID": "posts/sql/learn-sql.html#add-column-to-a-table",
+    "href": "posts/sql/learn-sql.html#add-column-to-a-table",
+    "title": "SQL Form",
+    "section": "Add column to a table",
+    "text": "Add column to a table\nALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "R for Social Good",
+    "section": "",
+    "text": "Oct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 8, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
