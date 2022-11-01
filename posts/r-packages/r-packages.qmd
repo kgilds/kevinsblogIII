@@ -1,0 +1,17 @@
+---
+title: "R-packages"
+editor: visual
+title-block-banner: false
+date: 2022-10-21
+---
+
+# QualtRics
+
+The [QualtRics pakcage](https://docs.ropensci.org/qualtRics/) is a key r package I utilize. The package provides an API access from Qualtrics to a R environment. If you manage separate Qualtrics accounts, set your credentials to project environmental settings. See below
+
+```{r eval= FALSE}
+
+ usethis::edit_r_environ("project")
+
+```
+
