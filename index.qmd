@@ -66,3 +66,29 @@ Feature Engineering \| 2021-09-18 \| [Certificate](https://www.kaggle.com/learn/
 Pandas \| 2021-09-23 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/pandas)
 
 </details>
+
+## Chromebook Date Science
+
+![my chromebook](chromebook.png){fig-alt="picture of chromebook"}
+
+<details>
+
+<summary>Click to Expand</summary>
+
+[Introduction to Chromebook Data Science](https://drive.google.com/file/d/1rd0sYH9yIUhSSANvVHkjKqpPl5lgQDqY/)
+
+[How to use a Chromebook](https://drive.google.com/file/d/1gW0ptvvhQPtmARnEBWl2DHPjRUrg8AMQ/view?usp=sharing)
+
+[Google and the Cloud](https://drive.google.com/file/d/1SIQUNa_b37VA_HFG0iuX9MTsP2zd0jCF/view?usp=sharing)
+
+[Organizing Data Science Projects](https://drive.google.com/file/d/1qy38DLzwtZ0eypWiZt6YGAqrpWMY9AIr/view?usp=sharing)
+
+[Version Control](https://drive.google.com/file/d/1o7rQRuEydmAukUvriTXLR3oJZIixfaKy/view?usp=sharing)
+
+[Data Tidying](https://drive.google.com/file/d/12kM3QtOk9qloZFvB39O9pXawPMuubsKn/view?usp=sharing)
+
+[Data Visualization](https://drive.google.com/file/d/1kQKtEsKJza0xKm9qEdBLPdbTARhK6L0I/view?usp=sharing)
+
+[Getting Data](https://drive.google.com/file/d/1d9B2xkHsQ0o5ipLIRv7YWOPifbrdsNn7/view?usp=sharing)
+
+</details>
