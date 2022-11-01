@@ -22,13 +22,8 @@ description: |
 Gallery
 :::
 
-Quarto can produce a wide variety of output formats. Here are some examples:
+Fun and open projects to explore!
 
--   [Articles & Reports](#articles-reports)
--   [Presentations](#presentations)
--   [Interactive Docs](#interactive-docs)
--   [Websites](#websites)
--   [Books](#books)
 :::
 
 ```{r echo=FALSE, eval=FALSE}
