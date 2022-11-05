@@ -13,10 +13,15 @@ website:
         href: https://github.com/kgilds
       - icon: twitter
         href: https://twitter.com/Kevin_Gilds
+
+body-footer: | 
+  This page brought to you by <https://example.com>
+margin-footer: |
+  ![Logo image](/img/logo.png)
+
 format:
   html:
     theme: cosmo
     css: styles.css
-
 editor: visual
 
