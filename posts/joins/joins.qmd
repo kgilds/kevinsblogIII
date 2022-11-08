@@ -13,6 +13,4 @@ SELECT * FROM <TABLE 1> JOIN TYPE <TABLE 2> ON <TABLE 1.KEY> <TABLE 2.KEY>
 
 If the two keys are the same, one can use the `Using` function.
 
-```{eval= FALSE}
-SELECT * FROM <table_1> FULL JOIN <table_2> USING(<column>);
-```
+`{eval= FALSE} SELECT * FROM <table_1> FULL JOIN <table_2> USING(<column>);`
