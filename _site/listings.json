@@ -2,13 +2,15 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/move/move.html",
       "/posts/joins/joins.html",
       "/posts/r-packages/r-packages.html",
       "/posts/remedy/addins.html",
       "/posts/sql_cert/sql_cert.html",
       "/posts/bash/bash.html",
       "/posts/foreign-keys/sql-foreign-keys.html",
-      "/posts/sql/learn-sql.html"
+      "/posts/sql/learn-sql.html",
+      "/posts/2019-03-27-Pets/index.html"
     ]
   },
   {

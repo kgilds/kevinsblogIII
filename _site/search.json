@@ -49,6 +49,20 @@
     "text": "The QualtRics pakcage is a key r package I utilize. The package provides an API access from Qualtrics to a R environment. If you manage separate Qualtrics accounts, set your credentials to project environmental settings. See below\n\n usethis::edit_r_environ(\"project\")"
   },
   {
+    "objectID": "posts/2019-03-27-Pets/index.html",
+    "href": "posts/2019-03-27-Pets/index.html",
+    "title": "Pets",
+    "section": "",
+    "text": "Conclusion\nI played with the five_thirtyeight theme and it worked well. I think it would work better with some colors in the bar plot but I am not sure how I would want to color this graph."
+  },
+  {
+    "objectID": "posts/move/move.html",
+    "href": "posts/move/move.html",
+    "title": "move",
+    "section": "",
+    "text": "I moved to Quarto and not sure how I feel about it. I know how Blogdown and Hugo can be burdensome. I just kept waiting for things to break on me. I miss my add new post Addins but I guess I should just make it myself. I will slowly port over worthwhile post to this new version of the site."
+  },
+  {
     "objectID": "posts/sql_cert/sql_cert.html",
     "href": "posts/sql_cert/sql_cert.html",
     "title": "sql cert",
@@ -74,6 +88,6 @@
     "href": "blog.html",
     "title": "R for Social Good",
     "section": "",
-    "text": "Oct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Nov 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\nKevin\n\n\n\n\n\n\nNo matching items"
   }
 ]

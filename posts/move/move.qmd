@@ -1,0 +1,8 @@
+---
+title: "move"
+editor: visual
+title-block-banner: false
+date: 2022-11-07
+---
+
+I moved to [Quarto](https://quarto.org/) and not sure how I feel about it. I know how Blogdown and Hugo can be burdensome. I just kept waiting for things to break on me. I miss my add new post Addins but I guess I should just make it myself. I will slowly port over worthwhile post to this new version of the site. 
