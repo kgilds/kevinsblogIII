@@ -1,0 +1,64 @@
+---
+title: Shaking up Mental Models
+author: 'Kevin '
+date: '2021-09-14'
+slug: []
+categories:
+  - R
+tags:
+  - dplyr
+  - select
+  - pandas
+  - kaggle
+  - qualtrics
+image:
+  caption: ''
+  focal_point: ''
+---
+
+```{r echo=FALSE}
+library(tidyverse)
+```
+
+> Once you see it; you can't unsee it.🤔
+
+One benefit of learning a new framework is that it gives you the opportunity to compare and contrast with an established mental model.
+
+I have been taking a [Pandas Course](https://www.kaggle.com/learn/pandas) from Kaggle and the lesson in Pandas involved establishing new variables in order to extract information from the data frame.
+
+```{python, eval = FALSE}
+
+indices = [0, 1, 10, 100]
+var = ['country', 'province', 'region_1', 'region_2']
+df = reviews.loc[indices, var]
+
+```
+
+This seemed like a pain in order to select certain rows and columns, but it did open my perspective to a challenge I was having.
+
+I have been working on reading data from a Qualtrics survey and there are nearly 147 columns and only about 117 are needed. (Long story on templated survey tools). To parse the data frame down, I had been using indexes for selections. Using an index is okay but frustrating as you are testing because the index selection breaks when there is a change to the survey. It was also a pain to write out all those terrible column names. The python script above made me think to create a vector to reference in a select statement.
+
+> Is this possible--yes it is, and now I seem to see it everywhere.
+
+Below is a minimal example with the 'mtcars' data set.
+
+```{r}
+
+remove <- mtcars %>%
+  dplyr::select(drat, wt, qsec)
+
+remove <- names(remove) #create a vector with the names of the columns you eventually want to exclude
+
+
+new_mtcars <- mtcars %>%
+  dplyr::select(-all_of(remove))  #within the select statement us the helper 'all_of' with the - operator to deselect the vector of interest. 
+
+
+new_mtcars
+
+
+```
+
+### Conclusion
+
+Learning python helped me shake up my mental model and apply it to my R workflow.

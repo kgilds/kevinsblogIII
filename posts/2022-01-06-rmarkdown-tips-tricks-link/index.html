@@ -1,0 +1,28 @@
+---
+title: Rmarkdown Tips & Tricks Link
+author: Kevin
+date: '2022-01-06'
+slug: []
+categories:
+  - R
+tags:
+  - Rmarkdown
+image:
+  caption: 'featured'
+  focal_point: ''
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Here is a useful <a href="https://www.rstudio.com/blog/r-markdown-tips-tricks-2-cleaning-up-your-code/">post</a>. What caught my attention was this tip</p>
+<p>Look at how the chunk options are presented.</p>
+<pre class="r"><code>#| echo = TRUE,
+#| message = FALSE,
+#| fig.width = 6, fig.height = 6,
+#| fig.caption = &quot;This is a long caption that fits better inside of a code chunk&quot;
+#| fig.alt = &quot;This is a long description that conveys the meaning of the visual.&quot;
+
+ggplot(data = mtcars, aes(x = wt, y = mpg)) +
+  geom_point()</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/plot-options-1.png" width="672" /></p>

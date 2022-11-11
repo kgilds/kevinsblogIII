@@ -1,0 +1,11 @@
+---
+title: "playing"
+description: |
+  Playing with addins
+author: Kevn Gilds, MPA
+date: 2022-11-10
+---
+
+This is a helpful [post](https://themockup.blog/posts/2022-11-08-use-r-to-generate-a-quarto-blogpost/) from Thomas Mock about how to write a function to automate blog post. Thus far, I have truly missed my blogdown addin.
+
+Maybe I should try to write my own addin. I manged to get an addin in place but does not work. I need to feed the function arguments.

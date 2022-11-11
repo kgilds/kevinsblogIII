@@ -1,0 +1,110 @@
+---
+title: Give me some Base R
+author: 'Kevin '
+date: '2021-06-23'
+slug: []
+categories:
+  - R
+tags:
+  - '"base"'
+  - '"dplyr"'
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+
+# Introduction
+
+```{r library, echo=FALSE, message = FALSE}
+library(dplyr)
+```
+
+> Yikes, I need to subset with base R 😅
+
+ I blog to help me remember things for future me so here we go. 🤠 
+ 
+Rarely are we presented with a raw data that is ready for analysis. See this [article](https://en.wikipedia.org/wiki/Data_wrangling) regarding data wrangling.  This post will demonstrate techniques for subseting with the tidyverse and base R.
+
+
+Here is an example with the tidyverse using the mtcars dataset. 
+
+With [`dplyr`](https://dplyr.tidyverse.org/) the emphasis is on verbs ie., `select` to boss the computer and select the columns of interest. 
+
+```{r dplyr-example}
+head(mtcars)
+
+mtcars %>% dplyr::select(1:3)
+
+mtcars %>% dplyr::select(mpg, cyl, disp)
+```
+
+
+
+
+### Some base R
+
+Base R: Subset the first 3 columns
+
+Sometimes, I like to index the column selections.
+
+```{r base-r}
+
+mtcars[, c(1:3)]
+
+```
+
+Key points:
+
+-   Need to use brackets with the date frame up against the first bracket
+
+-   Need the `c` function to grab multiple columns.
+
+-   The `:` lets you select column 1 through 3
+
+Sometimes, you need to name your columns---here it is important to quote the column names. Notice with dplyr you do not.
+
+```{r base-r2}
+mtcars[, c("mpg", "cyl", "disp")]
+
+
+```
+
+## What if we want to write a function?
+
+Below are examples with both dplyr and base R.
+
+```{r tidyfun}
+
+tidy_select <- function(df, col){
+	df %>%
+		dplyr::select({{col}}, cyl, disp)
+		
+}
+
+```
+
+```{r tidyexample}
+tidy_select(mtcars, mpg)
+```
+
+```{r base-fun}
+
+base_select <- function(df, col){
+	df1 <- df[, c (col, "cyl", "disp")] #col is variable you pick cyl and disp is hard coded in
+	df1
+}
+
+
+```
+
+```{r base-example}
+base_test <- base_select(mtcars, "mpg")
+
+base_test
+```
+
+# Conclusion
+
+Here is a [good resource](https://www.r-bloggers.com/2020/08/how-to-subset-a-data-frame-column-data-in-r/) for additional subseting needs. I hope this helps. 

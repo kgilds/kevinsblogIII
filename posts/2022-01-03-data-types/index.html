@@ -1,0 +1,46 @@
+---
+title: data-types
+author: Kevin
+date: '2022-01-03'
+slug: []
+categories:
+  - R
+tags:
+  - Infer
+image:
+  caption: ''
+  focal_point: ''
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Common errors emerge from mix matched data types but the error ouput rarely tell you this-if ever.</p>
+<p>In the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the <code>str</code> function on the <code>mtcars</code> data set</p>
+<pre class="r"><code>str(mtcars)</code></pre>
+<pre><code>## &#39;data.frame&#39;:    32 obs. of  11 variables:
+##  $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...
+##  $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...
+##  $ disp: num  160 160 108 258 360 ...
+##  $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...
+##  $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...
+##  $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...
+##  $ qsec: num  16.5 17 18.6 19.4 17 ...
+##  $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...
+##  $ am  : num  1 1 1 0 0 0 0 0 0 0 ...
+##  $ gear: num  4 4 4 3 3 3 3 4 4 4 ...
+##  $ carb: num  4 4 1 1 2 1 4 2 2 4 ...</code></pre>
+<p>Yesterday I was working with the <a href="https://infer.netlify.app/"><code>infer</code></a> package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the <a href="https://infer.netlify.app/reference/specify.html"><code>specify</code></a> function would not work.</p>
+<blockquote>
+<p>I needed a factor variable and I had a factor variable but not the right type of factor variable.</p>
+</blockquote>
+<p>I had the data type <code>&lt;ord&gt;</code>and it was not working. The <code>&lt;ord&gt;</code> data type is an ordered factor.</p>
+<p>It did not work to simply convert from an <code>&lt;ord&gt;</code> to a regular factor.</p>
+<pre class="r"><code>questions &lt;- questions %&gt;%
+  dplyr::mutate(last_year = as.factor(last_year))%&gt;%</code></pre>
+<p>It stayed the same <code>&lt;ord&gt;</code></p>
+<p>However this worked– I converted the variable to a character type and then convert it to a regular factor!</p>
+<pre class="r"><code>questions &lt;- questions %&gt;%
+  dplyr::mutate(last_year = as.character.factor(last_year))%&gt;%
+  dplyr::mutate(last_year = as.factor(last_year)) %&gt;%</code></pre>
+<p>I will have update this post with some updated data.</p>

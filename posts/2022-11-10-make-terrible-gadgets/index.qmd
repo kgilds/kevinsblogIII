@@ -1,0 +1,9 @@
+---
+title: "Make terrible gadgets"
+description: |
+  To make good gadgets you have to make some stinkers
+author: Kevn Gilds, MPA
+date: 2022-11-10
+---
+
+To make a good gadgets, you have to make some terrible ones. Actually the one I just made seems to have worked very well. Other than I need to load my own package, Shiny and MiniUI\--but I think that is fixable.
