@@ -1,0 +1,16 @@
+{
+  "hash": "1f56beeb115bfba6ba959417f7ce6e0e",
+  "result": {
+    "markdown": "---\ntitle: data-types\nauthor: Kevin\ndate: '2022-01-03'\nslug: []\ncategories:\n  - R\ntags:\n  - Infer\n---\n\n\n\n\nCommon errors emerge from mix matched data types but the error ouput rarely tell you this-if ever.\n\nIn the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the `str` function on the `mtcars` data set\n\n\n::: {.cell}\n\n```{.r .cell-code}\nstr(mtcars)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n'data.frame':\t32 obs. of  11 variables:\n $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...\n $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...\n $ disp: num  160 160 108 258 360 ...\n $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...\n $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...\n $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...\n $ qsec: num  16.5 17 18.6 19.4 17 ...\n $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...\n $ am  : num  1 1 1 0 0 0 0 0 0 0 ...\n $ gear: num  4 4 4 3 3 3 3 4 4 4 ...\n $ carb: num  4 4 1 1 2 1 4 2 2 4 ...\n```\n:::\n:::\n\n\nYesterday I was working with the [`infer`](https://infer.netlify.app/) package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the [`specify`](https://infer.netlify.app/reference/specify.html) function would not work.\n\n> I needed a factor variable and I had a factor variable but not the right type of factor variable.\n\nI had the data type `<ord>`and it was not working. The `<ord>` data type is an ordered factor.\n\nIt did not work to simply convert from an `<ord>` to a regular factor.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nquestions <- questions %>%\n  dplyr::mutate(last_year = as.factor(last_year))%>%\n```\n:::\n\n\nIt stayed the same `<ord>`\n\nHowever this worked-- I converted the variable to a character type and then convert it to a regular factor!\n\n\n::: {.cell}\n\n```{.r .cell-code}\nquestions <- questions %>%\n  dplyr::mutate(last_year = as.character.factor(last_year))%>%\n  dplyr::mutate(last_year = as.factor(last_year)) %>%\n```\n:::\n\n\nI will have update this post with some updated data.\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
