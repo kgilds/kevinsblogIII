@@ -7,19 +7,15 @@ categories:
   - R
 tags:
   - Infer
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Common errors emerge from mix matched data types but the error ouput rarely tell you this-if ever.
 
-Common errors emerge from mix matched data types but the error ouput rarely tell you this-if ever.  
-
-In the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the `str` function on the `mtcars` data set				
+In the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the `str` function on the `mtcars` data set
 
 ```{r}
 
@@ -27,15 +23,14 @@ str(mtcars)
 
 ```
 
+Yesterday I was working with the [`infer`](https://infer.netlify.app/) package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the [`specify`](https://infer.netlify.app/reference/specify.html) function would not work.
 
+> I needed a factor variable and I had a factor variable but not the right type of factor variable.
 
-Yesterday I was working with the [`infer`](https://infer.netlify.app/) package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the [`specify`](https://infer.netlify.app/reference/specify.html) function would not work. 
+I had the data type `<ord>`and it was not working. The `<ord>` data type is an ordered factor.
 
-> I needed a factor variable and I had a factor variable but not the right type of factor variable. 
+It did not work to simply convert from an `<ord>` to a regular factor.
 
-I had the data type `<ord>`and it was not working. The `<ord>` data type is an ordered factor.  
-
-It did not work to simply convert from an `<ord>` to a regular factor. 
 ```{r eval = FALSE}
 questions <- questions %>%
   dplyr::mutate(last_year = as.factor(last_year))%>%
@@ -44,8 +39,8 @@ questions <- questions %>%
 
 It stayed the same `<ord>`
 
-
 However this worked-- I converted the variable to a character type and then convert it to a regular factor!
+
 ```{r eval=FALSE}
 questions <- questions %>%
   dplyr::mutate(last_year = as.character.factor(last_year))%>%
@@ -53,5 +48,4 @@ questions <- questions %>%
   
 ```
 
-
-I will have update this post with some updated data. 
+I will have update this post with some updated data.
