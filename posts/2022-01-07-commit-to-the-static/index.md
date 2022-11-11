@@ -7,9 +7,6 @@ categories:
   - R
 tags:
   - blogdown
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 > Note to self

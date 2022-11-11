@@ -9,9 +9,6 @@ tags:
   - shiny
   - renv
   - bs4dashboard
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 > There were warnings!🤕
@@ -20,4 +17,4 @@ Every August after a big grant report is complete, I update R and my packages an
 
 This year I learned the importance of the [`renv`](https://rstudio.github.io/renv/) 📦. I had an important Shiny Application fail because of the changes in the [`bs4Dash`](https://rinterface.github.io/bs4Dash). (Yes, I recall reading the warnings but I forgot).
 
-Honestly, I was intimidated to try the `renv` package because of trying `packrat`📦 in the past Thus far, it does not seem to hard to work with. 
+Honestly, I was intimidated to try the `renv` package because of trying `packrat`📦 in the past Thus far, it does not seem to hard to work with.

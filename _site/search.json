@@ -7,11 +7,53 @@
     "text": "I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate\n\n\n\n\n\n\n\nmy chromebook\n\n\n\n\nClick to Expand\n\nIntroduction to Chromebook Data Science\nHow to use a Chromebook\nGoogle and the Cloud\nOrganizing Data Science Projects\nVersion Control\nData Tidying\nData Visualization\nGetting Data"
   },
   {
+    "objectID": "posts/2021-11-01-issue-templates/index.html",
+    "href": "posts/2021-11-01-issue-templates/index.html",
+    "title": "Issue-Templates",
+    "section": "",
+    "text": "Yes, I really needed an issue template and recalled this tweet\n\n\nBeen revamping some SOPs :: code review checklists. Learned about GitHub Issue templates which are awesome for this. Here’s an #rstats specific one https://t.co/VN0mkmHjQ7 pic.twitter.com/FvEpgHRCPL\n\n— Travis Gerke (@travisgerke) September 29, 2021\n\n\nHowever, for this project I started using gitlab as I wanted to try the updated gitlabr package. I found this issue-templates. The directions are okay, but I found that I had to use the web ‘ide’ to create the directory in the gitlab directory.\nAnd like I figured, issue templates have been super helpful."
+  },
+  {
+    "objectID": "posts/2021-12-08-linux-twitter/index.html",
+    "href": "posts/2021-12-08-linux-twitter/index.html",
+    "title": "Linux-Twitter",
+    "section": "",
+    "text": "Linux shell script to reduce PDF file sizeHere is a handy and useful Linux and Unix shell script that reduce PDF file size using Ghostscript. No need to upload your PDF file to the shady third-party website.https://t.co/h1l60vHwOb\n\n— howtopam (@howtopam) December 6, 2021"
+  },
+  {
     "objectID": "posts/joins/joins.html",
     "href": "posts/joins/joins.html",
     "title": "joins",
     "section": "",
     "text": "SELECT * FROM <TABLE 1> JOIN TYPE <TABLE 2> ON <TABLE 1.KEY> <TABLE 2.KEY>\nIf the two keys are the same, one can use the Using function.\n{eval= FALSE} SELECT * FROM <table_1> FULL JOIN <table_2> USING(<column>);"
+  },
+  {
+    "objectID": "posts/2022-01-03-data-types/index.html",
+    "href": "posts/2022-01-03-data-types/index.html",
+    "title": "data-types",
+    "section": "",
+    "text": "In the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the str function on the mtcars data set\n\nstr(mtcars)\n\n'data.frame':   32 obs. of  11 variables:\n $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...\n $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...\n $ disp: num  160 160 108 258 360 ...\n $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...\n $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...\n $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...\n $ qsec: num  16.5 17 18.6 19.4 17 ...\n $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...\n $ am  : num  1 1 1 0 0 0 0 0 0 0 ...\n $ gear: num  4 4 4 3 3 3 3 4 4 4 ...\n $ carb: num  4 4 1 1 2 1 4 2 2 4 ...\n\n\nYesterday I was working with the infer package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the specify function would not work.\n\nI needed a factor variable and I had a factor variable but not the right type of factor variable.\n\nI had the data type <ord>and it was not working. The <ord> data type is an ordered factor.\nIt did not work to simply convert from an <ord> to a regular factor.\n\nquestions <- questions %>%\n  dplyr::mutate(last_year = as.factor(last_year))%>%\n\nIt stayed the same <ord>\nHowever this worked– I converted the variable to a character type and then convert it to a regular factor!\n\nquestions <- questions %>%\n  dplyr::mutate(last_year = as.character.factor(last_year))%>%\n  dplyr::mutate(last_year = as.factor(last_year)) %>%\n\nI will have update this post with some updated data."
+  },
+  {
+    "objectID": "posts/2022-01-01-docker-tutorial/index.html",
+    "href": "posts/2022-01-01-docker-tutorial/index.html",
+    "title": "Docker Tutorial",
+    "section": "",
+    "text": "I even had to change the Python version in the Docker file to make the Flask App work. When I received the original error–I copied the error code and did a search. This post helped me realize the error was in fact in the code and not in the docker file."
+  },
+  {
+    "objectID": "posts/2022-01-09-nano/index.html",
+    "href": "posts/2022-01-09-nano/index.html",
+    "title": "Nano",
+    "section": "",
+    "text": "Let try this again"
+  },
+  {
+    "objectID": "posts/2021-12-28-shiny-proxy-fun/index.html",
+    "href": "posts/2021-12-28-shiny-proxy-fun/index.html",
+    "title": "Shiny Proxy Fun",
+    "section": "",
+    "text": "This article got me thinking about other hosting possibilities such as html files and bookdown reports."
   },
   {
     "objectID": "posts/bash/bash.html",
@@ -28,11 +70,74 @@
     "text": "Make it executable\nchomd +x <filename>\nAt the top of the file add a shebang\n#!/bin/bash\n\nRead Data from CSV File\nThe script below reads the csv file and reads\ncat courses.csv | while IFS=\",\" read MAJOR COURSE\ndo\n  echo $MAJOR\ndone\n\n\nConnect to Database\nPSQL=\"psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c\"\n\n\nDatabase Variable\nMAJOR_ID=$($PSQL \"<query_here>\")\nMAJOR_ID=$($PSQL \"SELECT major_id FROM majors WHERE major='$MAJOR'\")\n\n\nCode Planning\nI liked this approach of using comments as a place holder for what to do next.\ndo\n  # get major_id\n\n  # if not found\n\n  # insert major\n\n  # get new major_id\n\n  # get course_id\n\n  # if not found\n\n  # insert course\n\n  # get new course_id\n\n  # insert into majors_courses\n\ndone"
   },
   {
+    "objectID": "posts/2021-06-16-side-benefits-of-learning-r/index.html",
+    "href": "posts/2021-06-16-side-benefits-of-learning-r/index.html",
+    "title": "Side Benefits of Learning R",
+    "section": "",
+    "text": "In my experience learning R has opened up many other content areas for me. Granted there are many paths to learning new things but I am not sure how I get to my list below if I stayed with a learning path emphasizing spreadsheets.\n\nLinux\nGit\nWeb-development\nCSSS\nHTML"
+  },
+  {
+    "objectID": "posts/2021-08-31-lessons/index.html",
+    "href": "posts/2021-08-31-lessons/index.html",
+    "title": "Lessons",
+    "section": "",
+    "text": "Every August after a big grant report is complete, I update R and my packages and that can be a pain but usually not too bad. However, last year there was the crashed laptop but that was an Ubuntu version update.\nThis year I learned the importance of the renv 📦. I had an important Shiny Application fail because of the changes in the bs4Dash. (Yes, I recall reading the warnings but I forgot).\nHonestly, I was intimidated to try the renv package because of trying packrat📦 in the past Thus far, it does not seem to hard to work with."
+  },
+  {
+    "objectID": "posts/2021-12-19-til/index.html",
+    "href": "posts/2021-12-19-til/index.html",
+    "title": "TIL",
+    "section": "",
+    "text": "I am not sure why I could not recall how to filter multiple values under on variable but here we are! The slice function is also becoming one of my favorite tools.\npre_numeric <- pre_summary %>%\n  dplyr::filter(skim_type == \"numeric\") %>%\n  dplyr::slice_tail(n = 6) %>%\n  dplyr::filter(skim_variable == \"var2_avg\" |\n                  skim_variable == \"var1_avg\" |\n                  skim_variable == \"var3_avg\") \n                  \nIn this function, I have to make sure that NA values are converted to zero before I can determine success or failure. The df has to be called first and then start the new dplyr statement.\nget_var_score <- function(df){\n  \n    df <- dplyr::mutate(df, var_adjusted = 4 - sc1) \n    df <- dplyr::mutate(df, var_avg = sc0 / var_adjusted) \n    df$var_avg <- tidyr::replace_na(df$var_avg, 0)\n    df \n    dplyr::mutate(df, var_success = if_else(var_avg >= 4.45, TRUE, FALSE))\n    \n    \n}\nHere I needed to actually filter navalues in this column to see troubled records.\nissue_13 <- survey %>%\n  dplyr::filter(is.na(initials_1))"
+  },
+  {
+    "objectID": "posts/2022-01-07-commit-to-the-static/index.html",
+    "href": "posts/2022-01-07-commit-to-the-static/index.html",
+    "title": "commit to the static",
+    "section": "",
+    "text": "You need commit the static folder to get plots to render in blogdown.post"
+  },
+  {
+    "objectID": "posts/2022-01-08-git-hooks/index.html",
+    "href": "posts/2022-01-08-git-hooks/index.html",
+    "title": "Git Hooks",
+    "section": "",
+    "text": "I came here for an article on a .gitlab-ci.yml example and came away with an article on githooks. I think the githook is what I need!"
+  },
+  {
     "objectID": "posts/remedy/addins.html",
     "href": "posts/remedy/addins.html",
     "title": "addins",
     "section": "",
     "text": "I downloaded the remedy package today."
+  },
+  {
+    "objectID": "posts/2022-01-04-a-readme-tale/index.html",
+    "href": "posts/2022-01-04-a-readme-tale/index.html",
+    "title": "A README Tale",
+    "section": "",
+    "text": "today i share some #rstats adventures that challenged me 🧗most of it was probably self-inflicted from not reading documentation thoroughly 😬rmarkdown::render(“README.Rmd”, “github_document”) in GitHub Actions really got me tho 🥴https://t.co/FcqAS43i2o\n\n— Shannon Pileggi (@PipingHotData) December 13, 2021\n\n\nI loved the tweet because I wanted to follow up on the automated testing components. I am hoping to still get there, but thus far I have learned a lot on the web scraping elements of my website and see some other possibilities. It will need a weekend post to illuminate more…………\nHowever, check out the README for this site."
+  },
+  {
+    "objectID": "posts/2021-12-30-docker/index.html",
+    "href": "posts/2021-12-30-docker/index.html",
+    "title": "Docker",
+    "section": "",
+    "text": "Docker Deep Dive was recommended to me yesterday. I start using Docker and then I stop and lose the momentum. Kind of like programming, I suspect you have to do Docker in order to learn it. I just need to do it and hopefully this book can help me sustain."
+  },
+  {
+    "objectID": "posts/2021-09-24-communication-toolbox-with-shiny/index.html",
+    "href": "posts/2021-09-24-communication-toolbox-with-shiny/index.html",
+    "title": "Communication Toolbox with Shiny",
+    "section": "",
+    "text": "Validation\nI depend on the validation function in shiny to communicate to my users when there is no data entry for a given grant or within a given time frame.\noutput$grant_level_tbl <- DT::renderDT({\n      tbl <- source_level()\n      if(source_level() %>% nrow() < 1) {\n        validate(\"Sorry, no data available\") ##the order of this matters\n      }\n      tbl <- outcome_tbl(tbl) %>%\n        janitor::adorn_ns() %>%\n      DT::datatable(tbl, rownames = FALSE,\n                    extensions = \"Buttons\",\n                    options = list(\n                      dom = 'tB',\n                      buttons = c('copy', 'print', 'csv')\n                    ))\n    })\nThe source_level() is reactive data and given input there may be hundreds of data points or none. My validation line states if the reactive value has less than 1 row the following message is displayed\n\nSorry, no data available.\n\nThis communicates to the program manager that surveys have not been entered yet. Most likely this is expected, but the message communicates that there is no data here to display.\nThe alternative to a validation statement is a blank graph canvas and a ugly error message with table the output.\n\n\nConclusion\nI was thinking of the validation function in terms of a practical tool but I see the importance of it as a communication tool as well. What I enjoy most about participating in the book club, is picking up detail and the opportunity for reflection."
+  },
+  {
+    "objectID": "posts/2021-09-14-learning/index.html",
+    "href": "posts/2021-09-14-learning/index.html",
+    "title": "Shaking up Mental Models",
+    "section": "",
+    "text": "Once you see it; you can’t unsee it.🤔\n\nOne benefit of learning a new framework is that it gives you the opportunity to compare and contrast with an established mental model.\nI have been taking a Pandas Course from Kaggle and the lesson in Pandas involved establishing new variables in order to extract information from the data frame.\n\nindices = [0, 1, 10, 100]\nvar = ['country', 'province', 'region_1', 'region_2']\ndf = reviews.loc[indices, var]\n\nThis seemed like a pain in order to select certain rows and columns, but it did open my perspective to a challenge I was having.\nI have been working on reading data from a Qualtrics survey and there are nearly 147 columns and only about 117 are needed. (Long story on templated survey tools). To parse the data frame down, I had been using indexes for selections. Using an index is okay but frustrating as you are testing because the index selection breaks when there is a change to the survey. It was also a pain to write out all those terrible column names. The python script above made me think to create a vector to reference in a select statement.\n\nIs this possible–yes it is, and now I seem to see it everywhere.\n\nBelow is a minimal example with the ‘mtcars’ data set.\n\nremove <- mtcars %>%\n  dplyr::select(drat, wt, qsec)\n\nremove <- names(remove) #create a vector with the names of the columns you eventually want to exclude\n\n\nnew_mtcars <- mtcars %>%\n  dplyr::select(-all_of(remove))  #within the select statement us the helper 'all_of' with the - operator to deselect the vector of interest. \n\n\nnew_mtcars\n\n                     mpg cyl  disp  hp vs am gear carb\nMazda RX4           21.0   6 160.0 110  0  1    4    4\nMazda RX4 Wag       21.0   6 160.0 110  0  1    4    4\nDatsun 710          22.8   4 108.0  93  1  1    4    1\nHornet 4 Drive      21.4   6 258.0 110  1  0    3    1\nHornet Sportabout   18.7   8 360.0 175  0  0    3    2\nValiant             18.1   6 225.0 105  1  0    3    1\nDuster 360          14.3   8 360.0 245  0  0    3    4\nMerc 240D           24.4   4 146.7  62  1  0    4    2\nMerc 230            22.8   4 140.8  95  1  0    4    2\nMerc 280            19.2   6 167.6 123  1  0    4    4\nMerc 280C           17.8   6 167.6 123  1  0    4    4\nMerc 450SE          16.4   8 275.8 180  0  0    3    3\nMerc 450SL          17.3   8 275.8 180  0  0    3    3\nMerc 450SLC         15.2   8 275.8 180  0  0    3    3\nCadillac Fleetwood  10.4   8 472.0 205  0  0    3    4\nLincoln Continental 10.4   8 460.0 215  0  0    3    4\nChrysler Imperial   14.7   8 440.0 230  0  0    3    4\nFiat 128            32.4   4  78.7  66  1  1    4    1\nHonda Civic         30.4   4  75.7  52  1  1    4    2\nToyota Corolla      33.9   4  71.1  65  1  1    4    1\nToyota Corona       21.5   4 120.1  97  1  0    3    1\nDodge Challenger    15.5   8 318.0 150  0  0    3    2\nAMC Javelin         15.2   8 304.0 150  0  0    3    2\nCamaro Z28          13.3   8 350.0 245  0  0    3    4\nPontiac Firebird    19.2   8 400.0 175  0  0    3    2\nFiat X1-9           27.3   4  79.0  66  1  1    4    1\nPorsche 914-2       26.0   4 120.3  91  0  1    5    2\nLotus Europa        30.4   4  95.1 113  1  1    5    2\nFord Pantera L      15.8   8 351.0 264  0  1    5    4\nFerrari Dino        19.7   6 145.0 175  0  1    5    6\nMaserati Bora       15.0   8 301.0 335  0  1    5    8\nVolvo 142E          21.4   4 121.0 109  1  1    4    2\n\n\n\nConclusion\nLearning python helped me shake up my mental model and apply it to my R workflow."
   },
   {
     "objectID": "posts/foreign-keys/sql-foreign-keys.html",
@@ -42,11 +147,60 @@
     "text": "It drives me batty not to use commas and appreciate the parantheses.\nALTER TABLE <table_name> ADD FOREIGN KEY(<column_name>)\nREFERENCES <referenced_table_name>(<referenced_column_name>);"
   },
   {
+    "objectID": "posts/2022-01-02-flextable/index.html",
+    "href": "posts/2022-01-02-flextable/index.html",
+    "title": "flextable",
+    "section": "",
+    "text": "I am preparing to complete a report using officedown due at the end of the month. I was checking out the package out today and was happy to see I could at least open the output file in a LibreOffice Writer. I was worried about tables in the document but it looks like flextable seems to produce great looking tables and seems pretty straightforward to implement."
+  },
+  {
+    "objectID": "posts/2022-11-10-make-terrible-gadgets/index.html",
+    "href": "posts/2022-11-10-make-terrible-gadgets/index.html",
+    "title": "Make terrible gadgets",
+    "section": "",
+    "text": "To make a good gadgets, you have to make some terrible ones. Actually the one I just made seems to have worked very well. Other than I need to load my own package, Shiny and MiniUI--but I think that is fixable."
+  },
+  {
+    "objectID": "posts/2021-12-23-writing-in-community/index.html",
+    "href": "posts/2021-12-23-writing-in-community/index.html",
+    "title": "Writing in Community",
+    "section": "",
+    "text": "Books topics\n\nMetallica and the practice\nAutobiography\nNonprofit Evaluation."
+  },
+  {
     "objectID": "posts/r-packages/r-packages.html",
     "href": "posts/r-packages/r-packages.html",
     "title": "R-packages",
     "section": "",
     "text": "The QualtRics pakcage is a key r package I utilize. The package provides an API access from Qualtrics to a R environment. If you manage separate Qualtrics accounts, set your credentials to project environmental settings. See below\n\n usethis::edit_r_environ(\"project\")"
+  },
+  {
+    "objectID": "posts/2021-12-27-automated-testing-links/index.html",
+    "href": "posts/2021-12-27-automated-testing-links/index.html",
+    "title": "Automated Testing Links",
+    "section": "",
+    "text": "I have been looking for this article; the article covers automated testing and deploying a Shiny Application. I suspect one could write the manifest to send to shinyapps.io.\nI liked the tips and tricks of this post"
+  },
+  {
+    "objectID": "posts/2021-12-18-abstraction/index.html",
+    "href": "posts/2021-12-18-abstraction/index.html",
+    "title": "Abstraction",
+    "section": "",
+    "text": "Function based approach\n\nI was once had an analysis pipeline that I compared to a worn down car. You turn it on in the morning and not confident it was really going to start or if it did start was it going to leave you on the side of the road.\n\nMy analysis pipelines used to be long complicated R scripts but I have transitioned to using functions within script files and or Rmd files. What got me on this road was the discussion around the Drake/Targets Package.\nThe first time someone paid me to develop a Shiny Application the application was a beast with thousands of lines of code and awful to maintain.\nI tried using modules but this did not work out.\nThankfully, I was soon introduced to the Golem Package and started modularzing my applications."
+  },
+  {
+    "objectID": "posts/2022-01-05-column-names/index.html",
+    "href": "posts/2022-01-05-column-names/index.html",
+    "title": "Column Names",
+    "section": "",
+    "text": "I saw this thread today\n\n\nHave you seen @EmilyRiederer’s work on column names? https://t.co/FN05q3SzIg\n\n— Jenna Jordan (@JennaJrdn) January 5, 2022\n\n\nI recall reading this post in the past and I am sure I did not absorb the significance of it the first time. This is design applied to data management! 🤘"
+  },
+  {
+    "objectID": "posts/2021-07-23-where-are-my-keys/index.html",
+    "href": "posts/2021-07-23-where-are-my-keys/index.html",
+    "title": "Where are my keys",
+    "section": "",
+    "text": "Happy Git with R.\nGreat Link\n\nThe problem:\nGithub was asking me a password when I have keys set up.\nStep 1:\nIn the terminal\ngit remote -v \nOkay the terminal is telling me that the remote is set to https:\nhttps://github.com/USERNAME/REPOSITORY.git\n\nThe fix\ngit remote set-url origin git@github.com:USERNAME/REPOSITORY.git\n\n\nFinish\nMy issue is that I was forgetting to include the origin."
   },
   {
     "objectID": "posts/2019-03-27-Pets/index.html",
@@ -63,11 +217,74 @@
     "text": "I moved to Quarto and not sure how I feel about it. I know how Blogdown and Hugo can be burdensome. I just kept waiting for things to break on me. I miss my add new post Addins but I guess I should just make it myself. I will slowly port over worthwhile post to this new version of the site."
   },
   {
+    "objectID": "posts/2021-11-15-testing-shiny-applications/index.html",
+    "href": "posts/2021-11-15-testing-shiny-applications/index.html",
+    "title": "Testing Shiny Applications",
+    "section": "",
+    "text": "However, I could not get a good grasp of unit tests for a shiny application. I was reading the Mastering Shiny Book and still could not grasp it. I did find this article that got me going. The exercise of running the script below and playing with the application and tests helped me understand the testing process for Shiny Applications.\nshinyAppTemplate(\"myapp\")\nI was able to implement a couple of simple automated tests in my own shiny applications. The only roadblock I ran into is that I had not exported my modules and the testing engine could not find the server I was testing.\nI start with simple tests and work towards more complexity. My favorite basic tests is to count the number of columns. Here is the form:\ntestServer(mod_home_server, {\n\nexpect_equal(ncol(sites()), 4)\n\n})\n\ntestServer(mod_home_server, {\n\nexpect_equal(colnames(program()), c(\"time\", \"site\", \"grant\", \"id_code\"))\n\n})"
+  },
+  {
+    "objectID": "posts/2021-10-22-data-management/index.html",
+    "href": "posts/2021-10-22-data-management/index.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "What I like about both articles is that they are both:\n\nPractical\nApproachable for non-technical users. I feel I could share these articles and managers of social service providers could understand them.\n\nI started writing a data cleaning plan, and I am pleased I started the process. Writing out the plan provided a sense of relief to have it out of my head and into documentation. It also struck me that much of my data cleaning should be in my Readme file."
+  },
+  {
+    "objectID": "posts/2021-12-21-maps/index.html",
+    "href": "posts/2021-12-21-maps/index.html",
+    "title": "Maps!",
+    "section": "",
+    "text": "Here is a tutorial on using the mapview package. I hope I get to use it soon."
+  },
+  {
+    "objectID": "posts/2021-12-11-dashboards/index.html",
+    "href": "posts/2021-12-11-dashboards/index.html",
+    "title": "Dashboards",
+    "section": "",
+    "text": "About this time, I ran into this article about dashboards. It is a thoughtful piece on the context of dashboard troubles and when they can be useful.\nIt is wonderful when you can build a dashboard that is useful for someone even for a specific purpose. The article also serves as a reminder to keep things simple and not to get hung up on all encompassing tool."
+  },
+  {
+    "objectID": "posts/2021-12-08-2021-12-eval-twitter-threads/index.html",
+    "href": "posts/2021-12-08-2021-12-eval-twitter-threads/index.html",
+    "title": "2021-12-Eval-Twitter-Threads",
+    "section": "",
+    "text": "2021-12-07\n\n\nDon’t begin any evaluation work without an official / formal contract from your client. (Repeat after me.)\n\n— Kavita Mittapalli, Ph.D. (@KavitaMNA) December 7, 2021\n\n\n\n\nLet’s talk about contracts or the lack thereof. Here’s a short piece I just wrote/posted on my website and LinkedIn: https://t.co/70Z6MekAqD#contracts #evaluation #grants #smallbusiness #consultants\n\n— Kavita Mittapalli, Ph.D. (@KavitaMNA) December 8, 2021"
+  },
+  {
     "objectID": "posts/sql_cert/sql_cert.html",
     "href": "posts/sql_cert/sql_cert.html",
     "title": "sql cert",
     "section": "",
     "text": "What I have liked thus far is that the courses emphasize using the command line and using Bash. The courses have been well designed. The skills build on each other and there is a lot of repetition to reinforce concepts. The hints in the course also provide an opportunity for the student to work out the problem before the solution is provided."
+  },
+  {
+    "objectID": "posts/2021-12-17-to-make-upper-case/index.html",
+    "href": "posts/2021-12-17-to-make-upper-case/index.html",
+    "title": "To make upper case",
+    "section": "",
+    "text": "I needed to make the values in a column consistent and was struggling to add in the base R function of toupper in a dplyr pipeline. I found the str_to_upper(string, locale = \"en\") function in the stringr package and made it work."
+  },
+  {
+    "objectID": "posts/2021-12-14-fun-with-readme/index.html",
+    "href": "posts/2021-12-14-fun-with-readme/index.html",
+    "title": "Fun with Readme & Github Actions",
+    "section": "",
+    "text": "I have been focused on github actions and gitlab pipelines for about two weeks, and I stumbled upon this cool post. Not only is there good content on Github Actions, but content and script for the README is awesome. In addition, numerous posts on using automated workflows and other awesome content."
+  },
+  {
+    "objectID": "posts/2021-10-30-file-paths/index.html",
+    "href": "posts/2021-10-30-file-paths/index.html",
+    "title": "File-Paths",
+    "section": "",
+    "text": "I had forgotten about the article but it was recently brought up on the Standard Deviations podcast.\n\n\nHilary is giving out questionable career advice in the latest episode of @NSSDeviations.To launch the segment, we’re discussing: How do you know if a company has a good data science culture?https://t.co/SuRQDaQBlj\n\n— Roger D. Peng (@rdpeng) October 29, 2021\n\n\nExcluding people I have met at an R-user group, I know two people who understand file paths."
+  },
+  {
+    "objectID": "posts/2021-12-20-back-to-gitlab/index.html",
+    "href": "posts/2021-12-20-back-to-gitlab/index.html",
+    "title": "Back to Gitlab",
+    "section": "",
+    "text": "I started shifting to using Github mainly because of the usethis package\nI am thankful the folks at ThinkR have picked up the development of the gitlabr package. I really liked the ability to pull down and create issues directly from R."
   },
   {
     "objectID": "posts/sql/learn-sql.html",
@@ -84,10 +301,45 @@
     "text": "Add column to a table\nALTER TABLE <table_name> ADD COLUMN <column_name> <DATA_TYPE> <CONSTRAINTS>;"
   },
   {
+    "objectID": "posts/2021-12-29-submodules/index.html",
+    "href": "posts/2021-12-29-submodules/index.html",
+    "title": "Submodules",
+    "section": "",
+    "text": "I was trying to incorporate submodules into my Shiny Application. When I ran my application it was drawing blanks, but I don’t recall if there was an error message in the console.\nThis stack overflow post helped me figure it out. Nothing complicated– I just forgot the ns values in my submodules as well.\nHere is some additional resources on namespacing"
+  },
+  {
+    "objectID": "posts/2022-11-10-playing/index.html",
+    "href": "posts/2022-11-10-playing/index.html",
+    "title": "playing",
+    "section": "",
+    "text": "Maybe I should try to write my own addin. I manged to get an addin in place but does not work. I need to feed the function arguments."
+  },
+  {
+    "objectID": "posts/2021-10-04-domain-expertise/index.html",
+    "href": "posts/2021-10-04-domain-expertise/index.html",
+    "title": "Domain Expertise",
+    "section": "",
+    "text": "Conclusion\nDifferent but closely related."
+  },
+  {
+    "objectID": "posts/2021-12-22-command-line/index.html",
+    "href": "posts/2021-12-22-command-line/index.html",
+    "title": "Command Line",
+    "section": "",
+    "text": "Here is a fun video/content on using the command line. Command Line. Good stuff with ls command and navigation."
+  },
+  {
+    "objectID": "posts/2021-06-13-across/index.html",
+    "href": "posts/2021-06-13-across/index.html",
+    "title": "Across",
+    "section": "",
+    "text": "I was working on analyzing twenty plus survey questions and wanted to use the forcats function collapse on all of them. I was desperately trying to combine dplyr::across with the forcats function collapse.\nThankfully, I found this Stackoverflow Post\nlibrary(dplyr)\nlibrary(forcats)\ndf %>% \n    mutate(across(-pid, ~ fct_collapse(.,\n     yes = c('y', 'Y'), no = c('no', 'NO', 'n'))))\n     \nMy mistake was that I was trying to close the across function paren too soon and hence errors. Here is an example of one way I was doing it wrong.\nlibrary(dplyr)\nlibrary(forcats)\ndf %>% \n    mutate(across(-pid), ~ fct_collapse(.,\n     yes = c('y', 'Y'), no = c('no', 'NO', 'n'))))\n     \n\nConclusion\nI am hoping that digging into the reason for this trouble helps me remember for next time."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "R for Social Good",
     "section": "",
-    "text": "Nov 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\nKevin\n\n\n\n\n\n\nNo matching items"
+    "text": "To make good gadgets you have to make some stinkers\n\n\n\n\n\n\nNov 10, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlaying with addins\n\n\n\n\n\n\nNov 10, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinux\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJan 7, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJan 5, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJan 3, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\nJan 2, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\n\n\n\n\n\nDec 30, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 29, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 27, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAkimbo\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinux\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 17, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 14, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nDec 11, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinux\n\n\n\n\n\n\n\n\n\n\n\nDec 8, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\n\n\n\nDec 8, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 15, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nOct 30, 2021\n\n\nkevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nevaluation\n\n\n\n\n\n\n\n\n\n\n\nOct 24, 2021\n\n\nkevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nAug 31, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJul 23, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJun 16, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2021\n\n\nKevin\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\nKevin\n\n\n\n\n\n\nNo matching items"
   }
 ]

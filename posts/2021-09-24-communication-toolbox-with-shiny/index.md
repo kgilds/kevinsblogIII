@@ -7,9 +7,6 @@ categories:
   - R
 tags:
   - Shiny
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 ### The Toolbox🧰

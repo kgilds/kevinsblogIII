@@ -6,16 +6,13 @@ slug: []
 categories:
   - R
 tags: [dplyr, functions]
-image:
-  caption: ''
-  focal_point: ''
 ---
 
-I wrote some functions and  scripts had to complete troubleshooting to make them work
+I wrote some functions and scripts had to complete troubleshooting to make them work
 
-I am not sure why I could not recall how to filter multiple values under on variable but here we are! The `slice` function is also becoming one of my favorite tools. 
+I am not sure why I could not recall how to filter multiple values under on variable but here we are! The `slice` function is also becoming one of my favorite tools.
 
-```r
+``` r
 pre_numeric <- pre_summary %>%
   dplyr::filter(skim_type == "numeric") %>%
   dplyr::slice_tail(n = 6) %>%
@@ -25,9 +22,9 @@ pre_numeric <- pre_summary %>%
                   
 ```
 
-In this function,  I have to make sure that NA values are converted to zero before I can determine success or failure. The `df` has to be called first and then start the new dplyr statement.  
+In this function, I have to make sure that NA values are converted to zero before I can determine success or failure. The `df` has to be called first and then start the new dplyr statement.
 
-```r
+``` r
 get_var_score <- function(df){
   
     df <- dplyr::mutate(df, var_adjusted = 4 - sc1) 
@@ -40,12 +37,10 @@ get_var_score <- function(df){
 }
 ```
 
+Here I needed to actually filter `na`values in this column to see troubled records.
 
-
-Here I needed to actually filter `na`values in this column to see troubled records.  
-```r
+``` r
 issue_13 <- survey %>%
   dplyr::filter(is.na(initials_1)) 
   
 ```
-

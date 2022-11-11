@@ -6,9 +6,6 @@ slug: []
 categories:
   - evaluation
 tags: [data managment]
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 I discovered two great resources for data management in the past couple of weeks: [Data Cleaning Plan](https://cghlewis.github.io/mpsi-data-training/training_4.html) and [Data Audits](https://www.teaguehenry.com/strings-not-factors/2021/10/17/everything-in-its-place-a-guide-to-data-audits)

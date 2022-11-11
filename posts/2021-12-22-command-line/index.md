@@ -9,9 +9,6 @@ categories:
 tags:
   - Command Line
   - ls
-image:
-  caption: ''
-  focal_point: ''
 ---
 
-Here is a fun video/content on using the command line. [Command Line](https://www.elithecomputerguy.com/2019/08/linux-command-line-navigation/). Good stuff  with `ls` command and navigation. 
+Here is a fun video/content on using the command line. [Command Line](https://www.elithecomputerguy.com/2019/08/linux-command-line-navigation/). Good stuff with `ls` command and navigation.
