@@ -1,0 +1,28 @@
+---
+title: "Reprex"
+description: |
+  Reprex and other items I learned today
+author: Kevn Gilds, MPA
+tag: c["reprex" "factors"]
+date: 2022-11-12
+---
+
+# Introduction
+
+Today, I wanted to create reprex to show how I used a function to re-level factors in `r`.
+
+My challenge was that I needed to read in some data and was getting an error when the reprex ran and I could not figure out the problem.
+
+The reprex [website](https://reprex.tidyverse.org/reference/reprex.html) had the documentation I needed to re-group and resolve the issue.
+
+I was not able to use the addin but called the function from the console and needed to use the `wd`="." argument.
+
+# II Other Factor Stuff
+
+A good video on generating crosstab reports in `R`.
+
+<https://www.infoworld.com/video/104862/how-to-create-crosstab-reports-in-r>
+
+A couple of interesting packages to check out
+
+These looks like a promising data vis package [vtree](https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html) and the [CGPFunctions](https://github.com/ibecav/CGPfunctions)
