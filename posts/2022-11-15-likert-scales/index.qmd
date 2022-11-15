@@ -1,0 +1,24 @@
+---
+title: "Likert Scales"
+description: |
+  The saga
+author: Kevn Gilds, MPA
+date: 2022-11-15
+---
+
+I have been thinking about [likert scales](https://en.wikipedia.org/wiki/Likert_scale) and the best way to analyze them. I came across this [online book](https://bookdown.org/Rmadillo/likert/) by Dwight Barry.
+
+The book reminded me of the [likert](https://github.com/jbryer/likert) package and to utilize the Mann-Whitney test. What I found interesting in his approach to visualization was that the numbers are visualized instead of the category labels. I have always plotted the category labels and making the graph too busy. Thinking out loud--it may be useful for me to plot by numbers but not my intended audience.  
+
+
+Other resources I gave gather up over the past few days include the following:
+
+Videos:
+[Crosstab video](https://www.infoworld.com/video/104862/how-to-create-crosstab-reports-in-r)
+
+
+Packages: 
+
+[vtree](https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html) packages
+
+[CGPfunctions](https://github.com/ibecav/CGPfunctions)
