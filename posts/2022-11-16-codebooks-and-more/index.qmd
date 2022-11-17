@@ -1,0 +1,15 @@
+---
+title: "Codebooks and More"
+description: |
+  Codebooks
+author: Kevn Gilds, MPA
+date: 2022-11-16
+tags: 
+  - "codebook"
+  - "documentation"
+  - "pointblank"
+---
+
+The following is a great [post](https://cghlewis.com/blog/data_dictionary/) for data documentation and creating a data dictionary.
+
+As I was starting to work on a data dictionary for a project, I discovered the `get_information_report` function from the [`pointblank`](https://rich-iannone.github.io/pointblank/reference/get_informant_report.html)\` package this morning. I love the output.
