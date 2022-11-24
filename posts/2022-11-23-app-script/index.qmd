@@ -1,0 +1,17 @@
+---
+title: "App Script"
+description: |
+  Google Sheets
+author: Kevn Gilds, MPA
+date: 2022-11-23
+---
+
+## Automation 
+
+I have been thinking about automation in the Google Workspace. There are a lot of cool things one can do with javascript with google sheets and forms.
+
+This morning, I worked through a tutorial on the submit of a form to use the data to update a form template and send an email.
+
+The person who posts video to this channel is a good teacher
+
+https://www.youtube.com/\@ExcelGoogleSheets
