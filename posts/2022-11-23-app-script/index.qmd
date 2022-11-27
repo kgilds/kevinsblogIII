@@ -6,7 +6,7 @@ author: Kevn Gilds, MPA
 date: 2022-11-23
 ---
 
-## Automation 
+## Automation
 
 I have been thinking about automation in the Google Workspace. There are a lot of cool things one can do with javascript with google sheets and forms.
 

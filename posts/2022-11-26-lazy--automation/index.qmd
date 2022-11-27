@@ -1,0 +1,13 @@
+---
+title: "Lazy & Automation"
+description: |
+  Thanksgiving weekend
+author: Kevn Gilds, MPA
+date: 2022-11-26
+---
+
+I hate repetitive tasks and will hyper fixate on ways to automate my life. Sometimes they work out sometimes they don't.
+
+I have spent my weekend working with Google Apps Scripts to automate my work life. I wrote a script to draft an email with information from a google sheet. I think I will set up an automatic case note that logs to a Google Drive folder.
+
+This [post](https://www.labnol.org/code/19960-convert-html-to-pdf) shows how to convert an html document to a blob object and save in a file format.
