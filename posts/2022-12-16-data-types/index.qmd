@@ -1,0 +1,16 @@
+---
+title: "Data Types"
+description: |
+  When something is not working as expected; check the data type
+author: Kevn Gilds, MPA
+tags: [troubleshooting]
+date: 2022-12-16
+---
+
+## Today  I remembered
+
+I use the `case_when` function to clean up data entry issues and I was stumped for a bit when my common structure did not work.
+
+I am prone to messing up a `case_when` statements but I was getting frustrated after a few failures and non helpful error messages. I isolated the problem down and realized the pattern is that the case_when statement was not working on ordinal level variables. I changed the data type of these variables to character and was back in business.
+
+Check your data types when a function or script is not working as expected.
