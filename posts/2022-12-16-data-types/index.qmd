@@ -7,7 +7,7 @@ tags: [troubleshooting]
 date: 2022-12-16
 ---
 
-## Today  I remembered
+## Today I remembered
 
 I use the `case_when` function to clean up data entry issues and I was stumped for a bit when my common structure did not work.
 

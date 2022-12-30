@@ -1,0 +1,19 @@
+---
+title: "Today I learned"
+description: |
+  A script to filter multiple values
+author: Kevn Gilds, MPA
+date: 2022-12-29
+---
+
+## The problem
+
+How have I not run into the problem of filtering multiple values. I was running through some scripts but could not find the solution.
+
+## Solution:
+
+I am pretty sure I found this on stack overflow post
+
+    dplyr::filter(stringr::str_detect(outcomes, 'something1|nextitem2|anotherthing3')) 
+
+It worked and write this to remember!
