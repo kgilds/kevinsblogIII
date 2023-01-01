@@ -14,14 +14,17 @@ website:
       - icon: twitter
         href: https://twitter.com/Kevin_Gilds
 
-body-footer: | 
-  This page brought to you by <https://example.com>
-margin-footer: |
-  ![Logo image](/img/logo.png)
+page-footer:
+    left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      dark: [darkly, styles-dark.scss]
+    highlight-style: a11y-dark
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    
 editor: visual
-

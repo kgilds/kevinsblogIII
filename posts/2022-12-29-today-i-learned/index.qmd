@@ -12,7 +12,7 @@ How have I not run into the problem of filtering multiple values. I was running 
 
 ## Solution:
 
-I am pretty sure I found this on stack overflow post
+I am pretty sure I found this on a stack overflow post
 
     dplyr::filter(stringr::str_detect(outcomes, 'something1|nextitem2|anotherthing3')) 
 

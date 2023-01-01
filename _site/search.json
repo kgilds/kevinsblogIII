@@ -333,7 +333,7 @@
     "href": "posts/2022-12-29-today-i-learned/index.html#solution",
     "title": "Today I learned",
     "section": "Solution:",
-    "text": "Solution:\nI am pretty sure I found this on stack overflow post\ndplyr::filter(stringr::str_detect(outcomes, 'something1|nextitem2|anotherthing3')) \nIt worked and write this to remember!"
+    "text": "Solution:\nI am pretty sure I found this on a stack overflow post\ndplyr::filter(stringr::str_detect(outcomes, 'something1|nextitem2|anotherthing3')) \nIt worked and write this to remember!"
   },
   {
     "objectID": "posts/2021-12-20-back-to-gitlab/index.html",
