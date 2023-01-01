@@ -1,0 +1,33 @@
+---
+title: "Streaks"
+description: |
+  Begin again
+author: Kevn Gilds, MPA
+date: 2023-01-01
+---
+
+## 2022
+
+The year 2022 was a tough both professionally and personally. At times, they have blurred together. I feel like I am just drifting from issue to issue without any focus or strategy behind my actions. I feel a bit hopeless and lost.
+
+In late June of 2022, I had an operating system crash and had to restore systems and pick back up. I lost momentum with a writing streak I had and it feels like I have stayed in survival mode since that time.
+
+I have tinkered with changing strategies to learn SQL and Postgress. There is a good course [here](https://www.freecodecamp.org/learn/relational-database/).
+
+To stay afloat at my day job; I have been learning Google App Script. It has been fun to pick up on some JavaScript methods. It also great that one can run some SQL in a Google Sheet. A great follow on YouTube to learn more about Google Sheets \[Query Function\](https://www.youtube.com/watch?v=bW6P2YvLyZg&list=PLv9Pf9aNgemuRYz7VMCRdRmr0m0V_qGnR)
+
+### 2023
+
+To begin again is the key and play the game you wish to play. Here is an article from the \[Verge\](https://www.theverge.com/23513418/bring-back-personal-blogging). Maybe personal bloggling will emege again; I just don't think so.
+
+### Writing
+
+I think I need to write for myself and be hopeful someone may find it useful. The moe I try to make it perfect the less likely it will ship.
+
+### My Blog
+
+I made some changes and stole some theme settings; still can't get a footer working but alas.
+
+Hopefully you hear from me soon.
+
+The end.
