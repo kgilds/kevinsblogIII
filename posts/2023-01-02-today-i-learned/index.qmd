@@ -1,0 +1,28 @@
+---
+title: "Today I learned"
+description: |
+  Making dates more difficult
+author: Kevn Gilds, MPA
+date: 2023-01-02
+---
+
+## Dates are hard
+
+I was making more difficult. I need to extract the month from dates submitted.
+
+    test_date <- session_summary %>% 
+      dplyr::mutate(date = as.Date(date)) %>% 
+      dplyr::mutate(date = lubridate::ymd(date)) %>% 
+      dplyr::mutate(month = lubridate:: month(date, label = TRUE))
+
+The worst is when the code runs and appears correct but is not.
+
+Turns out I was making the process too difficult here is the code chunk that worked.
+
+    play_session <- session_summary %>% 
+      dplyr::mutate(new_date = lubridate::mdy(date)) %>%
+      dplyr::mutate(month = lubridate:: month(new_date, label = TRUE))
+
+Maybe not optimized but it worked.
+
+Until next time, cheers!
