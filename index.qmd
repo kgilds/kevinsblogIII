@@ -47,7 +47,7 @@ I am an R/Shiny Developer with expertise in helping nonprofits collect, manage a
 
 [R Posts](https://kgilds.rbind.io/categories/r/)
 
-### {{< fa brands kaggle >}} Courses
+### {{< fa brands kaggle >}} Kaggle Courses
 
 <details>
 
