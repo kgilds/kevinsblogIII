@@ -1,0 +1,15 @@
+---
+title: "This week I learned"
+description: |
+  Pancakes
+author: Kevn Gilds, MPA
+date: 2023-01-03
+---
+
+My friend James wrote about [pancakes](https://turnercreative.ck.page/posts/the-first-pancake) and really he is talking about iteration.
+
+How you have to flub up the first one to make the next one better but the point you have to have the first one to flub up. He provides a nice examples.
+
+I also think there is something about getting into flow state or the concept of shitty first drafts.
+
+When, I work on an analysis chart, table or blog post. I flub around at first and mess up the pancake.
