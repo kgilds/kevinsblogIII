@@ -1,0 +1,9 @@
+---
+title: "R & Linux"
+description: |
+  Rember this post
+author: Kevn Gilds, MPA
+date: 2023-01-15
+---
+
+Let me see if I recall this [post](https://datawookie.dev/blog/2022/08/linux-packages-for-r/) when I need to re-install.
