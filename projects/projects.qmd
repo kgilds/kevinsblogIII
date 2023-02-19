@@ -23,7 +23,6 @@ Gallery
 :::
 
 Fun and open projects to explore!
-
 :::
 
 ```{r echo=FALSE, eval=FALSE}

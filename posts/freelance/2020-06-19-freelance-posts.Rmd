@@ -1,0 +1,197 @@
+---
+title: freelance-posts
+author: kevin
+date: '2020-06-19'
+slug: freelance-posts
+categories:
+  - freelance
+  - r
+tags: [tidytext]
+---
+
+How often do you formally analyze all the comments you receive. Below I will show you some ways to process text data for additional analysis.
+
+Below is a simple analysis of my post from the *Freelance Workshop*. The workshop consisted of viewing a video by Seth Godin, and responding to question prompts and tagging . The key was writing your response and tagging other people to receive feedback and vice-versa.
+
+At the end of the workshop, participants were able to download their posts into a csv file. I thought it may be good fun to analyze the data.
+
+I was surprised I only had 106 posts; it felt like much more and I am not sure had the capacity to write more.
+
+```{r echo= FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message= FALSE)
+
+```
+
+### Load Required packages
+
+```{r load-library,echo=TRUE}
+
+
+
+library(dplyr)
+library(ggplot2)
+library(tidytext)
+library(forcats)
+library(viridis)
+library(gt)
+```
+
+```{r read-post}
+post <- readr::read_csv("posts.csv")
+
+
+```
+
+Below is a display of the first six rows and selected columns
+
+```{r display-post, echo=TRUE}
+
+post %>%
+  dplyr::select(created_at, like_count, post) %>%
+  head() %>%
+  gt::gt()
+
+```
+
+I will use the [tidytext package](https://github.com/juliasilge/tidytext) to break down the words in the post column and put it in a tidy format for analysis.
+
+Lets take a peak
+
+```{r unfiltered-words, echo = TRUE}
+post %>%
+  tidytext::unnest_tokens(word, post)%>%
+   dplyr::count(word) %>% # count number of words produces n
+   dplyr::arrange(desc(n)) %>%
+   dplyr::filter(n >=150) %>%
+    gt::gt() %>%
+      tab_header(
+    title = md("**Kevin's Top Words**"),
+    subtitle = md("*The Freelance Workshop*")
+  )
+
+```
+
+Not very interesting, but we can clean this up! The [tidytext package](https://github.com/juliasilge/tidytext) has loaded stop words to help us remove common words, and I am going to add words specific to the workshop.
+
+> Complete an anti-join to remove standard stop words and add your own custom words you wish to dismiss
+
+Below are my custom words:
+
+```{r workshop_stop, echo= TRUE}
+
+word <- c("topic","quote", "post", "1", "https", "hey", "2", "homeroom5", "5", "3", "6", "_kevin_", "_imposter_", "34974", "you’re")
+
+workshop_stop <- data.frame(word)
+
+
+```
+
+Below we have a script that adds some additional data processing to extract insights from the words. I added a case_when statement to deal with similiar words and the anti-join statement to remove non insightful words
+
+```{r updated-table, echo= TRUE}
+
+word_count <- post %>%
+  tidytext::unnest_tokens(word, post ) %>% #breakdown each word of the character vector
+  dplyr::mutate(word  = case_when( #make 
+      word == "client" ~ "clients",
+      TRUE ~(word)
+    )) %>%  
+  dplyr::anti_join(stop_words) %>% #remove standard common words
+    dplyr::anti_join(workshop_stop) %>% #remove words specifc to the workshop that are not of valle
+  dplyr::count(word) %>% # count number of words produces n
+   dplyr::arrange(desc(n)) %>%
+   dplyr::filter(n >=16) %>%
+  gt::gt () %>%
+  tab_header(
+    title = md("**Kevin's Top Words**"),
+    subtitle = md("*The Freelance Workshop*")
+  )
+
+word_count
+
+```
+
+Now we are in position to graph the data. Below is a graph of my most frequent words with a mimimum of 16.
+
+```{r post-count-grouped}
+
+word_count <- post %>%
+  tidytext::unnest_tokens(word, post ) %>% #breakdown each word of the character vector
+  dplyr::mutate(word  = case_when( #make 
+      word == "client" ~ "clients",
+      TRUE ~(word)
+    )) %>%  
+  dplyr::anti_join(stop_words) %>% #remove standard common words
+    dplyr::anti_join(workshop_stop) %>% #remove useless words
+    dplyr::count(word) %>% # count number of words produces n
+    dplyr::mutate(word = fct_reorder(word, n)) %>% #puts the bars in order 
+  dplyr::filter(n >=16) %>%  #only take 16 appearnes or higher
+  ggplot(aes(x= word, y = n, fill = n)) + #set up ggplot 
+  geom_col() + # geom argument to not supply count data
+  coord_flip() + #flip the plot for easier reading
+  scale_fill_viridis(alpha=0.6) + #color scale
+  geom_text(aes(label=(..y..),
+                hjust = 2)) + # on geom_col there is no count data only; you supply the y
+labs(title = "Most Frequent Words in Posts",
+       caption = "Data from The Freelance Workshop\n @kevin_gilds \n  ",
+     subtitle = "Words appearing at least 16 times") +
+  ylab("Word Count") +
+  labs(fill = "Word Count") +
+  theme_light() +
+   theme(axis.text = element_text(size = 8), 
+                title = element_text(size = 12), 
+                legend.position="right", 
+                panel.grid.major = element_blank(), 
+                panel.grid.minor = element_blank(),
+                axis.text.x = element_blank(),
+                axis.ticks.x = element_blank(),
+                axis.title.x = element_blank(),
+                plot.caption = element_text(face = "italic", size = 8),
+                plot.subtitle = element_text(face= "italic", size =7)
+                
+  )
+    
+    
+
+word_count
+
+```
+
+[Code for the graph is here:](https://gitlab.com/kgilds/kevinsblog2/-/blob/master/content/post/freelance/2020-06-19-freelance-posts.Rmd)
+
+What were the most frequent post by category?
+
+```{r post-categories-plot}
+post %>%
+  group_by(categories)%>%
+  tally() %>%
+  mutate(categories = reorder(categories, n)) %>% #this changes the order 
+  ggplot(aes(x=categories, y = n, fill = n)) +
+  geom_col () +
+  coord_flip() +
+  labs(title = "Most Frequent Post by Topic Category",
+       caption = "Data from Freelance Workshop\n @kevin_gilds \n  ") +
+  ylab("Post Count") +
+  labs(fill = "Number of posts") +
+  scale_fill_viridis(alpha=0.6) +
+  geom_text(aes(label=(..y..),
+                hjust = 1.5)) + # on geom_col there is no count data only; you supply the y
+
+  theme_light() +
+  theme(axis.text = element_text(size = 8), 
+                title = element_text(size = 12), 
+                legend.position="right", 
+                panel.grid.major = element_blank(), 
+                panel.grid.minor = element_blank(),
+                axis.text.x = element_blank(),
+                axis.ticks.x = element_blank(),
+                axis.title.x = element_blank(),
+                plot.caption = element_text(face = "italic", size = 8)
+                
+  )
+  
+```
+
+[Code for the graph is here:](https://gitlab.com/kgilds/kevinsblog2/-/blob/master/content/post/freelance/2020-06-19-freelance-posts.Rmd)
+
+This has been a basic introduction to text mining with R. It is possible to break down comments into their components. The most suprising word that stands out to me is **time**. It makes me want to re-read my post and understand the context better.
