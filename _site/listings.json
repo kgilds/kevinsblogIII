@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/2023-02-18-goals/index.html",
       "/posts/2023-01-15-r--linux/index.html",
       "/posts/2023-01-10-wilcoxsignedranktest/index.html",
       "/posts/2023-01-03-this-week-i-learned/index.html",
