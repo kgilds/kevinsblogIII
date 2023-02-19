@@ -1,0 +1,15 @@
+---
+title: "Goals"
+description: |
+  
+author: Kevin Gilds, MPA
+date: 2023-02-18
+---
+
+> "We are creative because we ship the work"
+>
+> \- Seth God: *The Practice* page 102.
+
+I am still lacking in direction but have settled to focus in on html/css. I can do some html but it is not second nature. I am going to be working through this [course](https://www.freecodecamp.org/learn/2022/responsive-web-design/). I enjoy the structure of courses in that it helps you develop muscle memory.
+
+I wanted to play with Docker but every time I start docker desktop it freezes my computer. I need to set some boundaries with Digital Ocean and setting up Droplets and work on Shiny Proxy.
