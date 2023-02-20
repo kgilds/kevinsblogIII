@@ -1,0 +1,19 @@
+---
+title: "One down"
+description: |
+  Finished the Learn HTML Section
+author: Kevn Gilds, MPA
+date: 2023-02-19
+---
+
+I finished the html portion of the Web Design [course](https://www.freecodecamp.org/learn/2022/responsive-web-design/) today. I spent about 2 hours over the last two days working on it. I want to be sure to reflect on what I learned from these courses and not just buzz through them.
+
+News things I learned included the following html elements:
+
+-   figure
+
+-   figcaption
+
+-   fieldset
+
+Anchoring links and images is still a struggle and form elements is still a struggle. I look forward to the courses that focus on forms.
