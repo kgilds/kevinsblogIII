@@ -1,13 +1,9 @@
 ---
 
-title: freelance-posts
-author: kevin
-date: '2020-06-19'
-slug: freelance-posts
-categories:
-  - freelance
-  - r
-tags: [tidytext]
+title: freelance-posts 
+author: kevin 
+date: '2020-06-19' 
+
 ---
 
 How often do you formally analyze all the comments you receive. Below I will show you some ways to process text data for additional analysis.

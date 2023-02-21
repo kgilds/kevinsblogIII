@@ -1,0 +1,11 @@
+---
+title: "Checklists"
+description: |
+  Love and Hate them
+author: Kevn Gilds, MPA
+date: 2023-02-20
+---
+
+I love checklist for the precise reason I hate them--checklists can serve as guardrails against going too fast through a process.
+
+Check this [website](https://checkify.com/blog/nasa-checklist/)out for more about the meta of checklists
