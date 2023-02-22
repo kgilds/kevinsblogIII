@@ -1,0 +1,9 @@
+---
+title: "Email on edit"
+description: |
+  This video gave me an idea
+author: Kevn Gilds, MPA
+date: 2023-02-21
+---
+
+I have been using Apps Script at work a lot and this [video](https://youtu.be/VewYLjevvPc) is what I have been looking for.
