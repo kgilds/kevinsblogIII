@@ -1,0 +1,11 @@
+---
+title: "What to write"
+description: |
+  Getting the grove back
+author: Kevn Gilds, MPA
+date: 2023-04-03
+---
+
+My focus has been [Google App Scripts](https://www.google.com/script/start/) and automating a workflow that runs through Google Drive.
+
+Thus learning JavaScript and html.
