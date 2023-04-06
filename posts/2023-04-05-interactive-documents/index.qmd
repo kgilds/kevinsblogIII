@@ -1,0 +1,35 @@
+---
+title: "Interactive Documents"
+description: |
+  Sketching out ideas
+author: Kevn Gilds, MPA
+date: 2023-04-05
+---
+
+# How I learn
+
+I confess I jump in first and then read the documentation. However, I am convinced the learning sinks in faster this way.
+
+## The Request
+
+I received a request for a dashboard. Um, not in the scope of work but I want to play with the interactive components of a Quarto documents.
+
+I jump in and I can't not get the Server side to recognize the data. What I did not catch at first was the concept of [Execution Contexts](https://quarto.org/docs/interactive/shiny/execution.html).
+
+```{r eval=FALSE}
+
+#| context: setup
+#| include: false
+
+# load libraries
+library(dplyr)
+
+# load data
+dataset <- import_data("data.csv")
+dataset <- sample_n(dataset, 1000)
+
+```
+
+I finally got my head around this was finally starting to display data. However, I was not thrilled on the output of the valueBoxes. Again, in the Quarto document it may not be the best context for them. Maybe use a general text based report.
+
+One thing to consider will be to try and learn Observable JS. I am taking a class later this month.
