@@ -1,0 +1,9 @@
+---
+title: "Data Dictionary"
+description: |
+  Artilce on Pointblank Package
+author: Kevn Gilds, MPA
+date: 2023-04-28
+---
+
+Here is a good [article](https://www.infoworld.com/article/3693329/create-a-free-data-dictionary-with-r.html) about creating data dictionaries using the [pointblank package](https://rich-iannone.github.io/pointblank/index.html)

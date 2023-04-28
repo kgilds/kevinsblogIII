@@ -1,0 +1,14 @@
+{
+  "hash": "82811b9f21016fee4ff509bb271ca9a0",
+  "result": {
+    "markdown": "---\ntitle: \"Interactive Documents\"\ndescription: |\n  Sketching out ideas\nauthor: Kevn Gilds, MPA\ndate: 2023-04-05\n---\n\n\n# How I learn\n\nI confess I jump in first and then read the documentation. However, I am convinced the learning sinks in faster this way.\n\n## The Request\n\nI received a request for a dashboard. Um, not in the scope of work but I want to play with the interactive components of a Quarto documents.\n\nI jump in and I can't not get the Server side to recognize the data. What I did not catch at first was the concept of [Execution Contexts](https://quarto.org/docs/interactive/shiny/execution.html).\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#| context: setup\n#| include: false\n\n# load libraries\nlibrary(dplyr)\n\n# load data\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\n:::\n\n\nI finally got my head around this was finally starting to display data. However, I was not thrilled on the output of the valueBoxes. Again, in the Quarto document it may not be the best context for them. Maybe use a general text based report.\n\nOne thing to consider will be to try and learn Observable JS. I am taking a class later this month.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
