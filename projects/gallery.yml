@@ -23,4 +23,15 @@
       href:  https://tidydatabykwg57.shinyapps.io/flabsences/
       code: https://github.com/kgilds/florida_education
       thumbnail: school-absences.png
-    
+- category: Selected Blog Posts
+  description: |
+    Showing off
+  tiles:
+    - title: Text Analysis
+      subtitle: Simple Text Analysis
+      description: Yada Yada. 
+      href: https://kgilds.rbind.io/posts/freelance/2020-06-19-freelance-posts.html
+      code: 
+      thumbnail: post-count-grouped.png
+  
+  
