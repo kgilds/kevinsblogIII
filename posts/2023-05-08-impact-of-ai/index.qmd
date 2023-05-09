@@ -1,0 +1,13 @@
+---
+title: "Impact of AI"
+description: |
+  Good reminders
+author: Kevn Gilds, MPA
+categories: 
+      - Chat GPT
+date: 2023-05-08
+---
+
+Here is a link to an insightful [podcast](https://open.spotify.com/playlist/5ABXpAcR3TUrOXgc4ORlJe) about the potentials and pitfalls of AI.
+
+A guest, Emily Bender a professor at the University of Washington points out that it is not really AI. Chat-GPT is language model that is really good at prediction of what comes next and summary. I believe she was making the argument that the OpenAI was engineering Chat-GPT to make it seem like the product has intelligence and giving it human like qualities.

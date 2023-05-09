@@ -3,6 +3,8 @@ title: "Chat GPT"
 description: |
   Html tables
 author: Kevn Gilds, MPA
+categories: 
+      - Chat GPT
 date: 2023-05-05
 ---
 
