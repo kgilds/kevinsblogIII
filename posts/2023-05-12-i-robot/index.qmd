@@ -1,0 +1,20 @@
+---
+title: "i, Robot"
+description: |
+  More than Science Fiction
+author: Kevn Gilds, MPA
+date: 2023-05-12
+categories:
+  - Books
+  - Chat GPT
+---
+
+I just completed *I, Robot* by Isaac Asimov. This may have been my first science fiction book and I loved it.
+
+What I loved about the book; is that is sociology.
+
+Sociology in essence is the interplay of how human create and are shaped by social forces.
+
+> ..."We still the need the man \[person\] who is intelligent enough to think of the proper questions to ask.
+
+Think Chat GPT is it about your question and iterating and talking to the machine.
