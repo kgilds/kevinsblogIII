@@ -1,0 +1,14 @@
+{
+  "hash": "e83613b36e39aa298d1d81bb729edea5",
+  "result": {
+    "markdown": "---\ntitle: \"The Img Tag\"\ndescription: |\n  The img tag\nauthor: Kevn Gilds, MPA\ncategories:\n  -html\n  -img\n  -freecodecamp\ndate: 2023-05-25\n---\n\n\nI have been working on the *Responsive Web Design* course from freeCodeCamp.\n\nI seem to always have to look up the img tag.\n\nPer [W3 School on html tags](https://www.w3schools.com/tags/tag_img.asp)\n\nThe attributes of the img element are as follows:\n\n-   src\n\n-   alt\n\n\n::: {.cell}\n\n```{.r .cell-code}\n<img id=\"logo\" src=\"https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg\">\n```\n:::\n\n\nThis example does not have the alt attribute.\n\nBelow is the css to manipulate the size of the image.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nbody {\n  background: #f5f6f7;\n  color: #1b1b32;\n  font-family: Helvetica;\n  margin: 0;\n}\n\nheader {\n  width: 100%;\n  height: 50px;\n  background-color: #1b1b32;\n  display: flex;\n}\n\n#logo {\n  width: max(100px, 18vw);\n  background-color: #0a0a23;\n  aspect-ratio: 35 / 4;\n  padding: 0.4rem;\n}\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

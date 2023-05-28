@@ -1,5 +1,5 @@
 ---
-title: "HTML"
+title: "The Img Tag"
 description: |
   The img tag
 author: Kevn Gilds, MPA
