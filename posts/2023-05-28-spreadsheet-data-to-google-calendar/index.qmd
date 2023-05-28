@@ -1,0 +1,13 @@
+---
+title: "Spreadsheet Data to Google Calendar"
+description: |
+  Google App Script to add Events from spreadsheet to Google Calandar
+author: Kevn Gilds, MPA
+categories:
+  - Google App Script
+date: 2023-05-28
+---
+
+I found this [blog post](http://wafflebytes.blogspot.com/2017/06/google-script-create-calendar-events.html) to help me figure how to post dates in a spreadsheet to a Google Calendar.
+
+Adding times can be tricky but I found putting the time in a 24:00 clock notation with no PM or AM labels works best.
