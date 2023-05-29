@@ -1,0 +1,21 @@
+---
+title: "Branches"
+description: |
+  Why we branch
+author: Kevn Gilds, MPA
+date: 2023-05-29
+categories:
+  -Git
+  -Shiny
+  -Usethis
+---
+
+This morning, I was going to make a minor change to a Shiny Application. That minor change bricked the application. Minor stress because the change was on a branch.
+
+Git resources:
+
+https://git-scm.com/book/en/v2
+
+R workflow:
+
+https://usethis.r-lib.org/reference/pull-requests.html
