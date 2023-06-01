@@ -1,0 +1,14 @@
+{
+  "hash": "f0b4322c2075f44552e144f681fbb567",
+  "result": {
+    "markdown": "---\ntitle: \"Glue\"\ndescription: |\n  Glue\nauthor: Kevn Gilds, MPA\ndate: 2023-05-29\ncategories:\n -Glue\n---\n\n\nThis is how I had to get the meta data to work on my new Post Add in.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# build yaml core\n  new_post_core <- c(\n    \"---\",\n    glue::glue('title: \"{title}\"'),\n    \"description: |\",\n    glue::glue('  {description}'),\n    glue::glue(\"author: {author}\"),\n    glue::glue(\"date: {date}\"),\n    glue::glue(\"categories:\"),\n    glue::glue(' -{categories}')\n\n  )\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

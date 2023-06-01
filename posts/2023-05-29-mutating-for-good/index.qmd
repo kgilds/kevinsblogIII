@@ -1,0 +1,13 @@
+---
+title: "Mutating for Good"
+description: |
+  Create Extra Data to make it work
+author: Kevn Gilds, MPA
+categories:
+  -Google Sheets
+date: 2023-05-29
+---
+
+I could not figure out how count the values in a column and pivot the same column in Google query function. You can do this with a Pivot Table report builder but I hate the output.
+
+To resolve the issue, I made a new column based on the targeted column and was able to obtain the desired output-a Stackoverflow post gave me the idea.
