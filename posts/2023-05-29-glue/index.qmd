@@ -1,0 +1,26 @@
+---
+title: "Glue"
+description: |
+  Glue
+author: Kevn Gilds, MPA
+date: 2023-05-29
+categories:
+ -Glue
+---
+
+This is how I had to get the meta data to work on my new Post Add in.
+
+```{r eval=FALSE}
+# build yaml core
+  new_post_core <- c(
+    "---",
+    glue::glue('title: "{title}"'),
+    "description: |",
+    glue::glue('  {description}'),
+    glue::glue("author: {author}"),
+    glue::glue("date: {date}"),
+    glue::glue("categories:"),
+    glue::glue(' -{categories}')
+
+  )
+```
