@@ -15,8 +15,9 @@ website:
         href: https://twitter.com/Kevin_Gilds
 
 page-footer:
-    left: "Powered by [Quarto](https://quarto.org/) <?quarto.version?>"
-
+    center: 
+      - text: "About"
+        href: index.qmd
 
 format:
   html:

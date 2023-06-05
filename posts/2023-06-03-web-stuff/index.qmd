@@ -1,0 +1,11 @@
+---
+title: "Web Stuff"
+description: |
+  Adding a footer to blog posts
+author: Kevn Gilds, MPA
+date: 2023-06-03
+categories:
+ -Quartro
+---
+
+I have been trying to add a footer to my blog post with no success. Hopefully this [post](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html#add-a-footer-below-blog-posts) helps.
