@@ -1,0 +1,42 @@
+---
+title: "UNPIVOT"
+description: |
+  UNPIVOT IN GOOGLE SHEETS
+author: Kevn Gilds, MPA
+date: 2023-06-22
+categories:
+ -ChatGPT
+ -GoogleSheets
+---
+
+I watched this [video](https://youtu.be/6OufZkQur1Y) on YouTube of a creator working with ChatGPT on writing formulas and Google App Script for Google Sheets.
+
+I wanted to interactive with ChatGPT on a item I have been stuck on--that is making wide data set--long.
+
+Here is a [link](https://chat.openai.com/share/607d83d7-0da1-4fc1-bc16-51fe14d3a88c) to my conversation with ChatGPT about converting wide data to a long format.
+
+The bad part was that ChatGPT made up a Google Sheets function; however the fun part is that I wish this function existed in Google Sheets.
+
+```{r eval=FALSE}
+
+"Open your Google Sheets document and navigate to a new sheet or a blank area where you want to create your long-format data set.
+In the first cell of the new sheet, enter the following formula: =UNPIVOT(SourceSheet!A1:D, 'New Header Column, New Value Column)'"
+
+    "Replace SourceSheet!A1:D with the range of your wide data set.
+    Replace New Header Column with the desired header name for the column that will contain the original header values.
+    Replace New Value Column with the desired header name for the column that will contain the corresponding values.
+
+```
+
+This seems like you would do this data manipulation in R and maybe Python.
+
+When I called ChatGPT out on it here was the response:
+
+> Hello, is UNPIVOT a google sheet function?
+
+Here was the response.
+
+> Apologies for the confusion caused. I apologize for the incorrect
+> information provided earlier. The UNPIVOT function is not a built-in
+> function in Google Sheets. I apologize for the oversight in my previous
+> response.
