@@ -3,6 +3,8 @@
     "listing": "/blog.html",
     "items": [
       "/posts/freelance/index.html",
+      "/posts/2023-07-04-colab/index.html",
+      "/posts/2023-06-23-today-i-learned/index.html",
       "/posts/2023-06-22-unpivot/index.html",
       "/posts/2023-06-03-web-stuff/index.html",
       "/posts/2023-05-29-branches/index.html",

@@ -23,15 +23,15 @@ I am an R/Shiny Developer with expertise in helping nonprofits collect, manage a
 
 {{< fa face-smile >}} Pronouns: he/him
 
-{{< fa binoculars >}} I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.
+{{< fa binoculars >}} I'm currently working on improving my data pipelines, and communicating data with Shiny Applications.
 
-{{< fa seedling >}} I’m currently learning Bash and SQL
+{{< fa seedling >}} I'm currently learning Bash and SQL
 
-{{< fa people-group >}} I’m looking to collaborate on Shiny Applications.
+{{< fa people-group >}} I'm looking to collaborate on Shiny Applications.
 
 {{< fa comment-dots >}} Ask me about data in the nonprofit sector.
 
-{{< fa inbox >}} How to reach me: kevin.gilds@hey.com
+{{< fa inbox >}} How to reach me: kevin.gilds\@hey.com
 
 ### Technical Skills
 
