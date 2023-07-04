@@ -36,7 +36,4 @@ When I called ChatGPT out on it here was the response:
 
 Here was the response.
 
-> Apologies for the confusion caused. I apologize for the incorrect
-> information provided earlier. The UNPIVOT function is not a built-in
-> function in Google Sheets. I apologize for the oversight in my previous
-> response.
+> Apologies for the confusion caused. I apologize for the incorrect information provided earlier. The UNPIVOT function is not a built-in function in Google Sheets. I apologize for the oversight in my previous response.

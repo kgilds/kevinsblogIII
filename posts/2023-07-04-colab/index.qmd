@@ -1,0 +1,13 @@
+---
+title: "Colab"
+description: |
+  Use Python or R with Google Drive
+author: Kevn Gilds, MPA
+date: 2023-07-04
+categories:
+ -Google Drive
+---
+
+Here is a helpful [video](https://youtu.be/cN7W2EPM-dw) on reading and writing data in [Google Colab](https://colab.research.google.com/?utm_source=scs-index) with Python and Pandas from Google Drive.
+
+Here are directions for using [R](https://www.kaggle.com/discussions/general/248438)
