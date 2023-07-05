@@ -1,0 +1,13 @@
+---
+title: "Today I learned"
+description: |
+  No Query for you with xls
+author: Kevn Gilds, MPA
+date: 2023-06-23
+categories:
+ -Google Sheets
+---
+
+I have one Google Spreadsheet that I need to copy and paste the data to keep it up to date. This hurts my soul--I was hoping to put an end to this when our organization started used Google Drive desktop to sync files.
+
+The sync works just fine but I am not able to query a spreadsheet in an xls format. The workaround is create a csv file from the xls file and complete a file import into the existing spreadsheet with the option to replace the sheet.
