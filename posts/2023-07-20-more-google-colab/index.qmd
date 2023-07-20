@@ -5,7 +5,7 @@ description: |
 author: Kevn Gilds, MPA
 date: 2023-07-20
 categories:
- -Google Colab
+ - Google Colab
 ---
 
 This [article](https://www.thediar.com/en/blog/google-colab-drive-r/) seems helpful for utilizing R in the context of Google Colab.
