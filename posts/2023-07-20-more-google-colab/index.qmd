@@ -1,0 +1,13 @@
+---
+title: "More Google Colab"
+description: |
+  Using R with Google Colab
+author: Kevn Gilds, MPA
+date: 2023-07-20
+categories:
+ -Google Colab
+---
+
+This [article](https://www.thediar.com/en/blog/google-colab-drive-r/) seems helpful for utilizing R in the context of Google Colab.
+
+For me It has been hard to grasp other methods.
