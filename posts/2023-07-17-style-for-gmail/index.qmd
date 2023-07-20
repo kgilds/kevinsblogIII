@@ -1,0 +1,68 @@
+---
+title: "Style for Gmail"
+description: |
+  The sage of styling an html table for Gmail
+author: Kevn Gilds, MPA
+date: 2023-07-17
+categories:
+ -Google App Script
+ -Chat GPT
+---
+
+> I should have found it strange that my html tables that were generated for emails never had borders .
+
+Now I need an html table with borders and I struggled to figure out why my style scheme was not working.
+
+This was the response from 'Chat GPT\`
+
+> No, the style defined in the CSS code provided will not work in an HTML table displayed by Gmail. Gmail applies its own styling and overrides any external CSS styles that you may include in the email content.
+>
+> When sending HTML emails via Gmail, it's recommended to use inline CSS styles instead of external stylesheets. Inline styles are more likely to be preserved by email clients, including Gmail.
+>
+> By using inline styles directly on each \`\<td\>\` element, you ensure that the border and padding styles are applied even when viewed in Gmail or other email clients that may override external CSS.
+
+``` html
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">Row 1, Cell 1</td>
+    <td style="border: 1px solid black; padding: 10px;">Row 1, Cell 2</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">Row 2, Cell 1</td>
+    <td style="border: 1px solid black; padding: 10px;">Row 2, Cell 2</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">Row 3, Cell 1</td>
+    <td style="border: 1px solid black; padding: 10px;">Row 3, Cell 2</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">Row 4, Cell 1</td>
+    <td style="border: 1px solid black; padding: 10px;">Row 4, Cell 2</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">Row 5, Cell 1</td>
+    <td style="border: 1px solid black; padding: 10px;">Row 5, Cell 2</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">Row 6, Cell 1</td>
+    <td style="border: 1px solid black; padding: 10px;">Row 6, Cell 2</td>
+  </tr>
+</table>
+```
+
+This is correct but seems terrible.
+
+This site [post](https://spreadsheet.dev/send-html-email-from-google-sheets) pointed me to a better solution.
+
+Below works without having to style each cell.
+
+``` html
+<table border="1px" cellpadding="5px">
+  <tr>
+    <td> Content</td>
+  </tr>
+  
+</table>
+```
+
+On a side note; when I send the email I had my borders, when the recipient responded back the borders were gone. Maybe Outlook stripped them out.
