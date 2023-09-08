@@ -1,0 +1,13 @@
+---
+title: "TODOs"
+description: |
+  Did I find it?
+author: Kevn Gilds, MPA
+date: 2023-09-07
+categories:
+ -TODO
+---
+
+I discovered the [todotxt-mode](https://marketplace.visualstudio.com/items?itemName=davraamides.todotxt-mode) Visual Studio Code extension. This extension is the closest to [org-mode](https://orgmode.org/) I have found without having emacs.
+
+My best TODO System was a text file; somehow, I moved away from it. This extension is critical to bringing me back to using text files.
