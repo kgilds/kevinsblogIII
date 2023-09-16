@@ -4,9 +4,9 @@ image: profile.jpg
 about:
   template: solana
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Kevin_Gilds
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@kevin_gilds
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/kevingilds/
