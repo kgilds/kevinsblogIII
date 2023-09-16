@@ -11,8 +11,8 @@ website:
         href: projects/projects.qmd 
       - icon: github
         href: https://github.com/kgilds
-      - icon: twitter
-        href: https://twitter.com/Kevin_Gilds
+      - icon: Mastodon
+        href: https://mastodon.social/@kevin_gilds
 
 page-footer:
     center: 
