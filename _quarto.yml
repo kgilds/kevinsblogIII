@@ -21,8 +21,8 @@ page-footer:
 
 format:
   html:
-    theme:
-      dark: [darkly, styles-dark.scss]
+    theme: [sandstone, custom.scss]
+      
     highlight-style: a11y-dark
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
