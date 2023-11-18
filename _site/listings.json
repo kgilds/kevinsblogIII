@@ -1,8 +1,13 @@
 [
   {
+    "listing": "/projects/projects.html",
+    "items": []
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/freelance/index.html",
+      "/posts/2023-11-04-synthetic-data/index.html",
       "/posts/2023-09-16-household-income-polk-county/index.html",
       "/posts/2023-09-10-population-pyramids/index.html",
       "/posts/2023-09-07-todos/index.html",
@@ -90,10 +95,6 @@
   },
   {
     "listing": "/projects/index.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/projects.html",
     "items": []
   }
 ]

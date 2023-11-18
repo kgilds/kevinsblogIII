@@ -46,7 +46,7 @@ polk_p <- polk %>%
 polk_p
 ```
 
-I needed help from ChatGPT to get the legend to dollars--here is the [link](https://chat.openai.com/share/805aa536-45ea-4e0e-9b0e-76e659af6b46) to the assistance log. Please note the variable names changed. 
+I needed help from ChatGPT to get the legend to dollars--here is the [link](https://chat.openai.com/share/805aa536-45ea-4e0e-9b0e-76e659af6b46) to the assistance log. Please note the variable names changed.
 
 Lets make the plot interactive.
 
