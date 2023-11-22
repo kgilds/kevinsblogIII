@@ -1,0 +1,22 @@
+---
+title: "Pivot Longer"
+description: |
+  Iterating Pivot Longer with ChatGPT
+author: Kevn Gilds, MPA
+date: 2023-11-22
+categories:
+ -dplyr, 
+ -ChatGPT,
+ -Google Colab
+---
+
+I am thankful for Google Colab and the ability to use R with it. I had a challenging dataset that required conversion from wide to long format. The difficulty arose because the transformation resulted in extra rows due to multiple columns needing to be pivoted.
+
+After experimenting with different approaches, ChatGPT suggested creating keys from the column output and filtering based on those conditions. The initial code recommendation didn't work, so I sought clarification. Ultimately, after cleaning up a NA value and identifying extra spaces in one of the columns, the following code proved to be the solution.
+
+```{r eval=FALSE}
+mutate(employee_id_key = str_trim(gsub("employee_id_", "", employee_id_key)),
+         hours_key = str_trim(gsub("hours_", "", hours_key))) %>%
+  filter(employee_id_key == hours_key) %>%
+  select(-employee_id_key, -hours_key)
+```
