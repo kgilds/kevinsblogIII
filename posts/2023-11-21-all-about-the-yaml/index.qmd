@@ -12,8 +12,6 @@ categories:
 
 > If something's wrong, just give me an error, YAML!
 
-YAML can be amusing -- and by that, I mean it's genuinely frustrating.
-Unlike other languages, bad YAML doesn't always result in an error;
-instead, it opts for a more passive-aggressive approach.
+YAML can be amusing -- and by that, I mean it's genuinely frustrating. Unlike other languages, bad YAML doesn't always result in an error; instead, it opts for a more passive-aggressive approach.
 
 Here are some sites that may help according to ChatGPT. [Link to resources](https://chat.openai.com/share/12f6075b-f13e-4472-9951-3fa76ae55eb8)

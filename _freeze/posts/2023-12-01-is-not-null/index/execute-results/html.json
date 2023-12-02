@@ -1,0 +1,11 @@
+{
+  "hash": "fdc876b2ab855f15169252efdae7d1e4",
+  "result": {
+    "markdown": "---\ntitle: \"Is Not Null\"\ndescription: |\n  Is Not Null Explanation\nauthor: Kevn Gilds, MPA\ndate: 2023-12-01\ncategories:\n -SQL\n -MS Access\n---\n\n# TIL\n\nIt's true, I had an MS Access Question. I could not figure out my `Is Not Null` criteria was not working. This [post](https://answers.microsoft.com/en-us/msoffice/forum/all/query-with-is-not-null-criteria-not-working/8f141b57-f548-46ea-b67b-03fcd4366b98) explained it what was happening and way to resolve it.\n\n\n```{sql, eval= FALSE}\n\n\nLen([Name_Full] & \"\")=0\n\n```\n\n\nIn my case, I wanted to exclude the null values\n\n\n```{sql, eval = FALSE}\nLen([Name_Full] & \"\")>1\n```\n\n\n# Fin\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
