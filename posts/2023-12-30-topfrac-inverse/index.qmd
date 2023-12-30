@@ -1,0 +1,40 @@
+---
+title: "Top_frac Inverse"
+description: |
+  Getting to the bottom half
+author: Kevn Gilds, MPA
+date: 2023-12-30
+categories:
+ -Chat-GPT, DPLYR
+---
+
+I had a graph in a Shiny Application that had too many values and the values were getting scrunched up. I determined to add a tab panel and display multiple views.
+
+I used `top_frac` function from the dplyr 📦.
+
+```{r eval=FALSE}
+
+
+top_sites <- reactive({
+        sites_program() %>%
+        dplyr::group_by(time) %>%
+        dplyr::count(site)%>%
+        dplyr::top_frac(.5)
+})
+```
+
+My next dilemma was getting the bottom half. I used Chat-GPT and here is the [transcript](https://chat.openai.com/share/6c109ae4-330a-4c86-8f6a-ce57f3cabada).
+
+I was able to take the example and apply to my data set. This would have taken me hours to figure our prior to this assistance.
+
+```{r eval=FALSE}
+bottom_sites <- reactive({
+      bottom_frac <- 0.5
+      result <- sites_program() %>%
+        dplyr::group_by(time) %>%
+        dplyr::count(site)%>%
+        arrange(n) %>%
+        slice(1:floor(n() * bottom_frac))
+      
+    })
+```

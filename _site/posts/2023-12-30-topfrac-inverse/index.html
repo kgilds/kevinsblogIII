@@ -6,10 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Kevin">
-<meta name="dcterms.date" content="2021-12-27">
+<meta name="author" content="Kevn Gilds, MPA">
+<meta name="dcterms.date" content="2023-12-30">
+<meta name="description" content="Getting to the bottom half">
 
-<title>R for Social Good - Automated Testing Links</title>
+<title>R for Social Good - Top_frac Inverse</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -118,9 +153,14 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Automated Testing Links</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">R</div>
+      <h1 class="title">Top_frac Inverse</h1>
+                  <div>
+        <div class="description">
+          <p>Getting to the bottom half</p>
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">-Chat-GPT, DPLYR</div>
               </div>
                   </div>
   </div>
@@ -131,14 +171,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Kevin </p>
+               <p>Kevn Gilds, MPA </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">December 27, 2021</p>
+        <p class="date">December 30, 2023</p>
       </div>
     </div>
     
@@ -157,9 +197,29 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>I stumbled upon these resources over the weekend and they gave me some ideas on how to automate some tests.</p>
-<p>I have been looking for this <a href="https://appsilon.com/build-a-ci-cd-pipeline-for-shiny-apps/">article</a>; the article covers automated testing and deploying a Shiny Application. I suspect one could write the manifest to send to shinyapps.io.</p>
-<p>I liked the tips and tricks of this <a href="ttps://www.algorist.co.uk/post/building-a-ci-pipeline-for-r-packages-in-gitlab/">post</a></p>
+<p>I had a graph in a Shiny Application that had too many values and the values were getting scrunched up. I determined to add a tab panel and display multiple views.</p>
+<p>I used <code>top_frac</code> function from the dplyr 📦.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>top_sites <span class="ot">&lt;-</span> <span class="fu">reactive</span>({</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>        <span class="fu">sites_program</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>        dplyr<span class="sc">::</span><span class="fu">group_by</span>(time) <span class="sc">%&gt;%</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>        dplyr<span class="sc">::</span><span class="fu">count</span>(site)<span class="sc">%&gt;%</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>        dplyr<span class="sc">::</span><span class="fu">top_frac</span>(.<span class="dv">5</span>)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>My next dilemma was getting the bottom half. I used Chat-GPT and here is the <a href="https://chat.openai.com/share/6c109ae4-330a-4c86-8f6a-ce57f3cabada">transcript</a>.</p>
+<p>I was able to take the example and apply to my data set. This would have taken me hours to figure our prior to this assistance.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>bottom_sites <span class="ot">&lt;-</span> <span class="fu">reactive</span>({</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>      bottom_frac <span class="ot">&lt;-</span> <span class="fl">0.5</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>      result <span class="ot">&lt;-</span> <span class="fu">sites_program</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>        dplyr<span class="sc">::</span><span class="fu">group_by</span>(time) <span class="sc">%&gt;%</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>        dplyr<span class="sc">::</span><span class="fu">count</span>(site)<span class="sc">%&gt;%</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>        <span class="fu">arrange</span>(n) <span class="sc">%&gt;%</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>        <span class="fu">slice</span>(<span class="dv">1</span><span class="sc">:</span><span class="fu">floor</span>(<span class="fu">n</span>() <span class="sc">*</span> bottom_frac))</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>      </span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>    })</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 
 
 
