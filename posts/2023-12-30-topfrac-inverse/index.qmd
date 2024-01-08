@@ -8,7 +8,9 @@ categories:
  -Chat-GPT, DPLYR
 ---
 
-I had a graph in a Shiny Application that had too many values and the values were getting scrunched up. I determined to add a tab panel and display multiple views.
+I had a graph in a Shiny Application that had too many values and the values were getting scrunched up.
+
+I determined to add a tab panel and display multiple views of the graph for ease of use.
 
 I used `top_frac` function from the dplyr 📦.
 
