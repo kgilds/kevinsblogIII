@@ -1,0 +1,15 @@
+{
+  "hash": "1b7ace3202b111094fc61cd024ab8266",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Weather and RSS on the Command Line\"\ndescription: |\n  Fun at the command line\nauthor: Kevn Gilds, MPA\ndate: 2024-01-07\ncategories:\n -CLI\n---\n\n\n## Weather\n\nThis is a fun and simplified weather display\n\n\n::: {.cell}\n\n```{.r .cell-code}\nwttr.in\n```\n:::\n\n\nor from a [web browser](https://wttr.in/)\n\n## RSS Feeds\n\n[Newsboat](https://newsboat.org/index.html) presented a non intuitive way to get working. The trick was to create the `url` file first in the specified directory and then upload the oplm file to upload established feeds.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

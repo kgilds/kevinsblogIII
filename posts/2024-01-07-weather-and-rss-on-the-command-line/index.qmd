@@ -1,0 +1,23 @@
+---
+title: "Weather and RSS on the Command Line"
+description: |
+  Fun at the command line
+author: Kevn Gilds, MPA
+date: 2024-01-07
+categories:
+ -CLI
+---
+
+## Weather
+
+This is a fun and simplified weather display
+
+```{r eval=FALSE}
+wttr.in
+```
+
+or from a [web browser](https://wttr.in/)
+
+## RSS Feeds
+
+[Newsboat](https://newsboat.org/index.html) presented a non intuitive way to get working. The trick was to create the `url` file first in the specified directory and then upload the oplm file to upload established feeds.
