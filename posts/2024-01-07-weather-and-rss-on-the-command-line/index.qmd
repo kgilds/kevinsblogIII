@@ -13,7 +13,7 @@ categories:
 This is a fun and simplified weather display
 
 ```{r eval=FALSE}
-wttr.in
+ curl wttr.in
 ```
 
 or from a [web browser](https://wttr.in/)
