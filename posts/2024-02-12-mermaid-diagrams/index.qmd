@@ -1,0 +1,11 @@
+---
+title: "Mermaid Diagrams"
+description: |
+  Playing with Mermaid Diagrams
+author: Kevn Gilds, MPA
+date: 2024-02-12
+categories:
+ -Process Documentation
+---
+
+I have been charged with documenting processes and have been using Mermaid. The documentation is [here](https://mermaid.js.org/) and what is cool is there a Live Editor.
