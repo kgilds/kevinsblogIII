@@ -1,0 +1,23 @@
+---
+title: "Quality Control"
+description: |
+  Post about Quality Control
+author: Kevn Gilds, MPA
+date: 2024-02-25
+categories:
+ -Quality, Checklists
+---
+
+I appreciate this [blog post](https://theevergreenempire.com/quality-control/) about quality control.
+
+An important gist of the article is to not just have standards documented but to communicate and train on them.
+
+Evergreen finishes her blog post with this sentence:
+
+> Consistent high-quality work is a result of quality control measures.
+
+My takeaway quality control needs to be a system/process.
+
+While I personally utilize checklists, I am uncertain whether we are
+effectively communicating and training our subcontractors on these
+standards. The hope that this would create an effective feedback loop.
