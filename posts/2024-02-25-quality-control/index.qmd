@@ -18,6 +18,4 @@ Evergreen finishes her blog post with this sentence:
 
 My takeaway quality control needs to be a system/process.
 
-While I personally utilize checklists, I am uncertain whether we are
-effectively communicating and training our subcontractors on these
-standards. The hope that this would create an effective feedback loop.
+While I personally utilize checklists, I am uncertain whether we are effectively communicating and training our subcontractors on these standards. The hope that this would create an effective feedback loop.

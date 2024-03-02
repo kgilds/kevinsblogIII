@@ -1,0 +1,19 @@
+---
+title: "Calendar & To Do List"
+description: |
+  A Blog Post Pairing Calendar & To Do List
+author: Kevn Gilds, MPA
+date: 2024-03-02
+categories:
+ -Sanity
+---
+
+This is a useful [blog post](https://theevergreenempire.com/%f0%9f%91%af%e2%99%80%ef%b8%8f-calendar-to-do-list-%f0%9f%91%af%e2%99%80%ef%b8%8f/) about matching up one's calendar and to do list.
+
+I appreciated the idea of doing this activity on a schedule thereby making it a process. Another takeaway it to identify opportunities to batch tasks.
+
+### PS
+
+I had Chat-GPT offer suggestions on my blog post. The response may have been too good. I did not feel comfortable posting as my work and it felt like stealing content idea. However, I think I may use it as a springboard. Here is the link to the output.
+
+<https://chat.openai.com/share/125382ab-dd9f-4088-aa20-0ba6e4c1303b>
