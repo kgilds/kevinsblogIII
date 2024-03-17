@@ -1,0 +1,15 @@
+---
+title: "Hotel Internet"
+description: |
+  Work around for captive web portals
+author: Kevn Gilds, MPA
+date: 2024-03-17
+categories:
+ -Hack
+---
+
+I attended the 2024 National Self-Direction Conference this week. I brought my Chromebook, and I struggled to get to the "Captive Internet Portal. "
+
+Quick internet search (using mobile) help me uncover this [page](https://support.google.com/chromebook/thread/167146280/captive-portal-authorization?hl=en) with some helpful hints
+
+Basically type in <http://neverssl.com/> and that prompts that captive portal to open. I had to use this trick while at the Airport on the return flight home.
