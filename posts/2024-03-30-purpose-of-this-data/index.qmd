@@ -1,0 +1,35 @@
+---
+title: "Purpose of this data?"
+description: |
+  Data Request Forms
+author: Kevn Gilds, MPA
+date: 2024-03-30
+categories:
+ -Data Management
+---
+
+## Introduction
+
+This [post](https://www.caitlinhudon.com/posts/2020/09/16/data-intake-form) on Data Intake Forms is insightful and useful.
+
+Insights:
+
+The article serves as a catalyst for critical thinking about data inquiries, offering a framework that encourages individuals to ponder their data-related queries more deeply. The subheading, "A little friction can go a long way," resonates particularly, highlighting the necessity of thoughtful consideration rather than hastily formulated requests. It acknowledges the common tendency to opt for convenience over precision but emphasizes that these forms should initiate conversations rather than act as barriers.
+
+Moreover, the parallels drawn between data intake and debugging underscore the significance of thoroughness in both processes.
+
+The article presents thought-provoking questions, such as:
+
+-   What decision or action will you take with this data?
+
+-   What is the real problem you are trying to solve?
+
+-   Who will see this deliverable?
+
+-   Will this deliver business value in 90 days?
+
+These questions serve as valuable checkpoints, ensuring that data collection aligns with strategic objectives and generates actionable insights.
+
+### Additional Resources
+
+The article also pointed me towards the [Git Lab Data Handbook](https://handbook.gitlab.com/handbook/business-technology/data-team/). This handbook serves as a practical guide, offering insights into effective data management practices.

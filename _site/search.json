@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "R for Social Good",
     "section": "",
-    "text": "Load Required packages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHotel Internet\n\n\n\n\n\n\n-Hack\n\n\n\nWork around for captive web portals \n\n\n\n\n\nMar 17, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nCalendar & To Do List\n\n\n\n\n\n\n-Sanity\n\n\n\nA Blog Post Pairing Calendar & To Do List \n\n\n\n\n\nMar 2, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nQuality Control\n\n\n\n\n\n\n-Quality, Checklists\n\n\n\nPost about Quality Control \n\n\n\n\n\nFeb 25, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMermaid Diagrams\n\n\n\n\n\n\n-Process Documentation\n\n\n\nPlaying with Mermaid Diagrams \n\n\n\n\n\nFeb 12, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWeather and RSS on the Command Line\n\n\n\n\n\n\n-CLI\n\n\n\nFun at the command line \n\n\n\n\n\nJan 7, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nTop_frac Inverse\n\n\n\n\n\n\n-Chat-GPT, DPLYR\n\n\n\nGetting to the bottom half \n\n\n\n\n\nDec 30, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nIs Not Null\n\n\n\n\n\n\n-SQL -MS Access\n\n\n\nIs Not Null Explanation \n\n\n\n\n\nDec 1, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nPivot Longer\n\n\n\n\n\n\n-dplyr, -ChatGPT, -Google Colab\n\n\n\nIterating Pivot Longer with ChatGPT \n\n\n\n\n\nNov 22, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nAll about the YAML\n\n\n\n\n\n\n-YAML\n\n\n\nQuartro Sites \n\n\n\n\n\nNov 21, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic data\n\n\n\n\n\n\n-Stats\n\n\n\nSimulation \n\n\n\n\n\nNov 4, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nHousehold Income: Polk County\n\n\n\n\n\n\nTidyCensus\n\n\n\nMap Polk County Household Income \n\n\n\n\n\nSep 16, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation Pyramids\n\n\n\n\n\n\n-Census, ACS pyramid-plots\n\n\n\nWorking with Tidy Census Data \n\n\n\n\n\nSep 10, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nTODOs\n\n\n\n\n\n\n-TODO\n\n\n\nDid I find it? \n\n\n\n\n\nSep 7, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMore Google Colab\n\n\n\n\n\n\nGoogle Colab\n\n\n\nUsing R with Google Colab \n\n\n\n\n\nJul 20, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nStyle for Gmail\n\n\n\n\n\n\n-Google App Script -Chat GPT\n\n\n\nThe sage of styling an html table for Gmail \n\n\n\n\n\nJul 17, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nColab\n\n\n\n\n\n\n-Google Drive\n\n\n\nUse Python or R with Google Drive \n\n\n\n\n\nJul 4, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nToday I learned\n\n\n\n\n\n\n-Google Sheets\n\n\n\nNo Query for you with xls \n\n\n\n\n\nJun 23, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nUNPIVOT\n\n\n\n\n\n\n-ChatGPT -GoogleSheets\n\n\n\nUNPIVOT IN GOOGLE SHEETS \n\n\n\n\n\nJun 22, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWeb Stuff\n\n\n\n\n\n\n-Quartro\n\n\n\nAdding a footer to blog posts \n\n\n\n\n\nJun 3, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nBranches\n\n\n\n\n\n\n-Git -Shiny -Usethis\n\n\n\nWhy we branch \n\n\n\n\n\nMay 29, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nGlue\n\n\n\n\n\n\n-Glue\n\n\n\nGlue \n\n\n\n\n\nMay 29, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMutating for Good\n\n\n\n\n\n\n-Google Sheets\n\n\n\nCreate Extra Data to make it work \n\n\n\n\n\nMay 29, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nSpreadsheet Data to Google Calendar\n\n\n\n\n\n\nGoogle App Script\n\n\n\nGoogle App Script to add Events from spreadsheet to Google Calandar \n\n\n\n\n\nMay 28, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nThe Img Tag\n\n\n\n\n\n\n-html -img -freecodecamp\n\n\n\nThe img tag \n\n\n\n\n\nMay 25, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\ni, Robot\n\n\n\n\n\n\nBooks\n\n\nChat GPT\n\n\n\nMore than Science Fiction \n\n\n\n\n\nMay 12, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of AI\n\n\n\n\n\n\nChat GPT\n\n\n\nGood reminders \n\n\n\n\n\nMay 8, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nChat GPT\n\n\n\n\n\n\nChat GPT\n\n\n\nHtml tables \n\n\n\n\n\nMay 5, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nData Dictionary\n\n\n\n\n\nArtilce on Pointblank Package \n\n\n\n\n\nApr 28, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Documents\n\n\n\n\n\nSketching out ideas \n\n\n\n\n\nApr 5, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWhat to write\n\n\n\n\n\nGetting the grove back \n\n\n\n\n\nApr 3, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nEmail on edit\n\n\n\n\n\nThis video gave me an idea \n\n\n\n\n\nFeb 21, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nChecklists\n\n\n\n\n\nLove and Hate them \n\n\n\n\n\nFeb 20, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nOne down\n\n\n\n\n\nFinished the Learn HTML Section \n\n\n\n\n\nFeb 19, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nGoals\n\n\n\n\n\nInputs and Outpus \n\n\n\n\n\nFeb 18, 2023\n\n\nKevin Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nR & Linux\n\n\n\n\n\nRember this post \n\n\n\n\n\nJan 15, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWilcox-signed-rank-test\n\n\n\n\n\nA good article on this topic \n\n\n\n\n\nJan 10, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nThis week I learned\n\n\n\n\n\nPancakes \n\n\n\n\n\nJan 3, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nToday I learned\n\n\n\n\n\nMaking dates more difficult \n\n\n\n\n\nJan 2, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nStreaks\n\n\n\n\n\nBegin again \n\n\n\n\n\nJan 1, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nToday I learned\n\n\n\n\n\nA script to filter multiple values \n\n\n\n\n\nDec 29, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nData Types\n\n\n\n\n\nWhen something is not working as expected; check the data type \n\n\n\n\n\nDec 16, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nLazy & Automation\n\n\n\n\n\nThanksgiving weekend \n\n\n\n\n\nNov 26, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nApp Script\n\n\n\n\n\nGoogle Sheets \n\n\n\n\n\nNov 23, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nCodebooks and More\n\n\n\n\n\nCodebooks \n\n\n\n\n\nNov 16, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nLikert Scales\n\n\n\n\n\nThe saga \n\n\n\n\n\nNov 15, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nReprex\n\n\n\n\n\nReprex and other items I learned today \n\n\n\n\n\nNov 12, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nImport Packages\n\n\n\n\n\nBe nice \n\n\n\n\n\nNov 11, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMake terrible gadgets\n\n\n\n\n\nTo make good gadgets you have to make some stinkers \n\n\n\n\n\nNov 10, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nplaying\n\n\n\n\n\nPlaying with addins \n\n\n\n\n\nNov 10, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nmove\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\njoins\n\n\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nR-packages\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\naddins\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nsql cert\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nbash\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nforeign keys\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSQL Form\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNano\n\n\n\n\n\n\nLinux\n\n\n\n\n\n\n\n\n\nJan 9, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nGit Hooks\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 8, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\ncommit to the static\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 7, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nColumn Names\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 5, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nA README Tale\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\ndata-types\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 3, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nflextable\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 2, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nDocker Tutorial\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\n\n\n\nDec 30, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nSubmodules\n\n\n\n\n\n\nShiny\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 29, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nShiny Proxy Fun\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 28, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nAutomated Testing Links\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 27, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nWriting in Community\n\n\n\n\n\n\nAkimbo\n\n\n\n\n\n\n\n\n\nDec 23, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nCommand Line\n\n\n\n\n\n\nLinux\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 22, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nMaps!\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 21, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nBack to Gitlab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nTIL\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 19, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nAbstraction\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 18, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nTo make upper case\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 17, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nFun with Readme & Github Actions\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 14, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nDashboards\n\n\n\n\n\n\nEvaluation\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 11, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nLinux-Twitter\n\n\n\n\n\n\nLinux\n\n\n\n\n\n\n\n\n\nDec 8, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n2021-12-Eval-Twitter-Threads\n\n\n\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\n\nDec 8, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Shiny Applications\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 15, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nIssue-Templates\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 1, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nFile-Paths\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nOct 30, 2021\n\n\nkevin\n\n\n\n\n\n\n\n\n\n\n\n\nData Management\n\n\n\n\n\n\nevaluation\n\n\n\n\n\n\n\n\n\nOct 24, 2021\n\n\nkevin\n\n\n\n\n\n\n\n\n\n\n\n\nDomain Expertise\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nOct 4, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nCommunication Toolbox with Shiny\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nSep 24, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nShaking up Mental Models\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nSep 14, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nLessons\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nAug 31, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nWhere are my keys\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJul 23, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nSide Benefits of Learning R\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJun 16, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nAcross\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJun 13, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nPets\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nMaps\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nMay 9, 2018\n\n\nkevin\n\n\n\n\n\n\nNo matching items"
+    "text": "Load Required packages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPurpose of this data?\n\n\n\n\n\n\n-Data Management\n\n\n\nData Request Forms \n\n\n\n\n\nMar 30, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nHotel Internet\n\n\n\n\n\n\n-Hack\n\n\n\nWork around for captive web portals \n\n\n\n\n\nMar 17, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nCalendar & To Do List\n\n\n\n\n\n\n-Sanity\n\n\n\nA Blog Post Pairing Calendar & To Do List \n\n\n\n\n\nMar 2, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nQuality Control\n\n\n\n\n\n\n-Quality, Checklists\n\n\n\nPost about Quality Control \n\n\n\n\n\nFeb 25, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMermaid Diagrams\n\n\n\n\n\n\n-Process Documentation\n\n\n\nPlaying with Mermaid Diagrams \n\n\n\n\n\nFeb 12, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWeather and RSS on the Command Line\n\n\n\n\n\n\n-CLI\n\n\n\nFun at the command line \n\n\n\n\n\nJan 7, 2024\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nTop_frac Inverse\n\n\n\n\n\n\n-Chat-GPT, DPLYR\n\n\n\nGetting to the bottom half \n\n\n\n\n\nDec 30, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nIs Not Null\n\n\n\n\n\n\n-SQL -MS Access\n\n\n\nIs Not Null Explanation \n\n\n\n\n\nDec 1, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nPivot Longer\n\n\n\n\n\n\n-dplyr, -ChatGPT, -Google Colab\n\n\n\nIterating Pivot Longer with ChatGPT \n\n\n\n\n\nNov 22, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nAll about the YAML\n\n\n\n\n\n\n-YAML\n\n\n\nQuartro Sites \n\n\n\n\n\nNov 21, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic data\n\n\n\n\n\n\n-Stats\n\n\n\nSimulation \n\n\n\n\n\nNov 4, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nHousehold Income: Polk County\n\n\n\n\n\n\nTidyCensus\n\n\n\nMap Polk County Household Income \n\n\n\n\n\nSep 16, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation Pyramids\n\n\n\n\n\n\n-Census, ACS pyramid-plots\n\n\n\nWorking with Tidy Census Data \n\n\n\n\n\nSep 10, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nTODOs\n\n\n\n\n\n\n-TODO\n\n\n\nDid I find it? \n\n\n\n\n\nSep 7, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMore Google Colab\n\n\n\n\n\n\nGoogle Colab\n\n\n\nUsing R with Google Colab \n\n\n\n\n\nJul 20, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nStyle for Gmail\n\n\n\n\n\n\n-Google App Script -Chat GPT\n\n\n\nThe sage of styling an html table for Gmail \n\n\n\n\n\nJul 17, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nColab\n\n\n\n\n\n\n-Google Drive\n\n\n\nUse Python or R with Google Drive \n\n\n\n\n\nJul 4, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nToday I learned\n\n\n\n\n\n\n-Google Sheets\n\n\n\nNo Query for you with xls \n\n\n\n\n\nJun 23, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nUNPIVOT\n\n\n\n\n\n\n-ChatGPT -GoogleSheets\n\n\n\nUNPIVOT IN GOOGLE SHEETS \n\n\n\n\n\nJun 22, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWeb Stuff\n\n\n\n\n\n\n-Quartro\n\n\n\nAdding a footer to blog posts \n\n\n\n\n\nJun 3, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nBranches\n\n\n\n\n\n\n-Git -Shiny -Usethis\n\n\n\nWhy we branch \n\n\n\n\n\nMay 29, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nGlue\n\n\n\n\n\n\n-Glue\n\n\n\nGlue \n\n\n\n\n\nMay 29, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMutating for Good\n\n\n\n\n\n\n-Google Sheets\n\n\n\nCreate Extra Data to make it work \n\n\n\n\n\nMay 29, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nSpreadsheet Data to Google Calendar\n\n\n\n\n\n\nGoogle App Script\n\n\n\nGoogle App Script to add Events from spreadsheet to Google Calandar \n\n\n\n\n\nMay 28, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nThe Img Tag\n\n\n\n\n\n\n-html -img -freecodecamp\n\n\n\nThe img tag \n\n\n\n\n\nMay 25, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\ni, Robot\n\n\n\n\n\n\nBooks\n\n\nChat GPT\n\n\n\nMore than Science Fiction \n\n\n\n\n\nMay 12, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of AI\n\n\n\n\n\n\nChat GPT\n\n\n\nGood reminders \n\n\n\n\n\nMay 8, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nChat GPT\n\n\n\n\n\n\nChat GPT\n\n\n\nHtml tables \n\n\n\n\n\nMay 5, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nData Dictionary\n\n\n\n\n\nArtilce on Pointblank Package \n\n\n\n\n\nApr 28, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Documents\n\n\n\n\n\nSketching out ideas \n\n\n\n\n\nApr 5, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWhat to write\n\n\n\n\n\nGetting the grove back \n\n\n\n\n\nApr 3, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nEmail on edit\n\n\n\n\n\nThis video gave me an idea \n\n\n\n\n\nFeb 21, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nChecklists\n\n\n\n\n\nLove and Hate them \n\n\n\n\n\nFeb 20, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nOne down\n\n\n\n\n\nFinished the Learn HTML Section \n\n\n\n\n\nFeb 19, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nGoals\n\n\n\n\n\nInputs and Outpus \n\n\n\n\n\nFeb 18, 2023\n\n\nKevin Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nR & Linux\n\n\n\n\n\nRember this post \n\n\n\n\n\nJan 15, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nWilcox-signed-rank-test\n\n\n\n\n\nA good article on this topic \n\n\n\n\n\nJan 10, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nThis week I learned\n\n\n\n\n\nPancakes \n\n\n\n\n\nJan 3, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nToday I learned\n\n\n\n\n\nMaking dates more difficult \n\n\n\n\n\nJan 2, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nStreaks\n\n\n\n\n\nBegin again \n\n\n\n\n\nJan 1, 2023\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nToday I learned\n\n\n\n\n\nA script to filter multiple values \n\n\n\n\n\nDec 29, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nData Types\n\n\n\n\n\nWhen something is not working as expected; check the data type \n\n\n\n\n\nDec 16, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nLazy & Automation\n\n\n\n\n\nThanksgiving weekend \n\n\n\n\n\nNov 26, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nApp Script\n\n\n\n\n\nGoogle Sheets \n\n\n\n\n\nNov 23, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nCodebooks and More\n\n\n\n\n\nCodebooks \n\n\n\n\n\nNov 16, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nLikert Scales\n\n\n\n\n\nThe saga \n\n\n\n\n\nNov 15, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nReprex\n\n\n\n\n\nReprex and other items I learned today \n\n\n\n\n\nNov 12, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nImport Packages\n\n\n\n\n\nBe nice \n\n\n\n\n\nNov 11, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nMake terrible gadgets\n\n\n\n\n\nTo make good gadgets you have to make some stinkers \n\n\n\n\n\nNov 10, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nplaying\n\n\n\n\n\nPlaying with addins \n\n\n\n\n\nNov 10, 2022\n\n\nKevn Gilds, MPA\n\n\n\n\n\n\n\n\n\n\n\n\nmove\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\njoins\n\n\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nR-packages\n\n\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\naddins\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nsql cert\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nbash\n\n\n\n\n\n\n\n\n\n\n\nSep 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nforeign keys\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSQL Form\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNano\n\n\n\n\n\n\nLinux\n\n\n\n\n\n\n\n\n\nJan 9, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nGit Hooks\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 8, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\ncommit to the static\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 7, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nColumn Names\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 5, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nA README Tale\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\ndata-types\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 3, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nflextable\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJan 2, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nDocker Tutorial\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\nDocker\n\n\n\n\n\n\n\n\n\nDec 30, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nSubmodules\n\n\n\n\n\n\nShiny\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 29, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nShiny Proxy Fun\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 28, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nAutomated Testing Links\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 27, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nWriting in Community\n\n\n\n\n\n\nAkimbo\n\n\n\n\n\n\n\n\n\nDec 23, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nCommand Line\n\n\n\n\n\n\nLinux\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 22, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nMaps!\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 21, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nBack to Gitlab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nTIL\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 19, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nAbstraction\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 18, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nTo make upper case\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 17, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nFun with Readme & Github Actions\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 14, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nDashboards\n\n\n\n\n\n\nEvaluation\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 11, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nLinux-Twitter\n\n\n\n\n\n\nLinux\n\n\n\n\n\n\n\n\n\nDec 8, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\n2021-12-Eval-Twitter-Threads\n\n\n\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\n\nDec 8, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Shiny Applications\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 15, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nIssue-Templates\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 1, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nFile-Paths\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nOct 30, 2021\n\n\nkevin\n\n\n\n\n\n\n\n\n\n\n\n\nData Management\n\n\n\n\n\n\nevaluation\n\n\n\n\n\n\n\n\n\nOct 24, 2021\n\n\nkevin\n\n\n\n\n\n\n\n\n\n\n\n\nDomain Expertise\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nOct 4, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nCommunication Toolbox with Shiny\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nSep 24, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nShaking up Mental Models\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nSep 14, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nLessons\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nAug 31, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nWhere are my keys\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJul 23, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nSide Benefits of Learning R\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJun 16, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nAcross\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJun 13, 2021\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nPets\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\nKevin\n\n\n\n\n\n\n\n\n\n\n\n\nMaps\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nMay 9, 2018\n\n\nkevin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2021-12-22-command-line/index.html",
@@ -280,242 +280,46 @@
     "text": "This article seems helpful for utilizing R in the context of Google Colab.\nFor me It has been hard to grasp other methods."
   },
   {
-    "objectID": "posts/remedy/addins.html",
-    "href": "posts/remedy/addins.html",
-    "title": "addins",
+    "objectID": "posts/2024-03-30-purpose-of-this-data/index.html",
+    "href": "posts/2024-03-30-purpose-of-this-data/index.html",
+    "title": "Purpose of this data?",
     "section": "",
-    "text": "I downloaded the remedy package today."
+    "text": "This post on Data Intake Forms is insightful and useful.\nInsights:\nThe article serves as a catalyst for critical thinking about data inquiries, offering a framework that encourages individuals to ponder their data-related queries more deeply. The subheading, “A little friction can go a long way,” resonates particularly, highlighting the necessity of thoughtful consideration rather than hastily formulated requests. It acknowledges the common tendency to opt for convenience over precision but emphasizes that these forms should initiate conversations rather than act as barriers.\nMoreover, the parallels drawn between data intake and debugging underscore the significance of thoroughness in both processes.\nThe article presents thought-provoking questions, such as:\n\nWhat decision or action will you take with this data?\nWhat is the real problem you are trying to solve?\nWho will see this deliverable?\nWill this deliver business value in 90 days?\n\nThese questions serve as valuable checkpoints, ensuring that data collection aligns with strategic objectives and generates actionable insights.\n\n\nThe article also pointed me towards the Git Lab Data Handbook. This handbook serves as a practical guide, offering insights into effective data management practices."
   },
   {
-    "objectID": "posts/2022-01-07-commit-to-the-static/index.html",
-    "href": "posts/2022-01-07-commit-to-the-static/index.html",
-    "title": "commit to the static",
+    "objectID": "posts/2024-03-30-purpose-of-this-data/index.html#introduction",
+    "href": "posts/2024-03-30-purpose-of-this-data/index.html#introduction",
+    "title": "Purpose of this data?",
     "section": "",
-    "text": "Note to self\n\nYou need commit the static folder to get plots to render in blogdown.post"
+    "text": "This post on Data Intake Forms is insightful and useful.\nInsights:\nThe article serves as a catalyst for critical thinking about data inquiries, offering a framework that encourages individuals to ponder their data-related queries more deeply. The subheading, “A little friction can go a long way,” resonates particularly, highlighting the necessity of thoughtful consideration rather than hastily formulated requests. It acknowledges the common tendency to opt for convenience over precision but emphasizes that these forms should initiate conversations rather than act as barriers.\nMoreover, the parallels drawn between data intake and debugging underscore the significance of thoroughness in both processes.\nThe article presents thought-provoking questions, such as:\n\nWhat decision or action will you take with this data?\nWhat is the real problem you are trying to solve?\nWho will see this deliverable?\nWill this deliver business value in 90 days?\n\nThese questions serve as valuable checkpoints, ensuring that data collection aligns with strategic objectives and generates actionable insights.\n\n\nThe article also pointed me towards the Git Lab Data Handbook. This handbook serves as a practical guide, offering insights into effective data management practices."
   },
   {
-    "objectID": "posts/2021-12-19-til/index.html",
-    "href": "posts/2021-12-19-til/index.html",
-    "title": "TIL",
+    "objectID": "posts/2022-01-08-git-hooks/index.html",
+    "href": "posts/2022-01-08-git-hooks/index.html",
+    "title": "Git Hooks",
     "section": "",
-    "text": "I wrote some functions and scripts had to complete troubleshooting to make them work\nI am not sure why I could not recall how to filter multiple values under on variable but here we are! The slice function is also becoming one of my favorite tools.\npre_numeric &lt;- pre_summary %&gt;%\n  dplyr::filter(skim_type == \"numeric\") %&gt;%\n  dplyr::slice_tail(n = 6) %&gt;%\n  dplyr::filter(skim_variable == \"var2_avg\" |\n                  skim_variable == \"var1_avg\" |\n                  skim_variable == \"var3_avg\") \n                  \nIn this function, I have to make sure that NA values are converted to zero before I can determine success or failure. The df has to be called first and then start the new dplyr statement.\nget_var_score &lt;- function(df){\n  \n    df &lt;- dplyr::mutate(df, var_adjusted = 4 - sc1) \n    df &lt;- dplyr::mutate(df, var_avg = sc0 / var_adjusted) \n    df$var_avg &lt;- tidyr::replace_na(df$var_avg, 0)\n    df \n    dplyr::mutate(df, var_success = if_else(var_avg &gt;= 4.45, TRUE, FALSE))\n    \n    \n}\nHere I needed to actually filter navalues in this column to see troubled records.\nissue_13 &lt;- survey %&gt;%\n  dplyr::filter(is.na(initials_1))"
+    "text": "I came here for an article on a .gitlab-ci.yml example and came away with an article on githooks. I think the githook is what I need!"
   },
   {
-    "objectID": "posts/2021-06-16-side-benefits-of-learning-r/index.html",
-    "href": "posts/2021-06-16-side-benefits-of-learning-r/index.html",
-    "title": "Side Benefits of Learning R",
+    "objectID": "posts/2021-08-31-lessons/index.html",
+    "href": "posts/2021-08-31-lessons/index.html",
+    "title": "Lessons",
     "section": "",
-    "text": "If you take the time to learn ggplot2 you are going to learn a lot more than plotting. Depending on your purpose for learning ggplot2, that could be great or perhaps frustrating.\n\nIn my experience learning R has opened up many other content areas for me. Granted there are many paths to learning new things but I am not sure how I get to my list below if I stayed with a learning path emphasizing spreadsheets.\n\nLinux\nGit\nWeb-development\nCSSS\nHTML"
+    "text": "There were warnings!🤕\n\nEvery August after a big grant report is complete, I update R and my packages and that can be a pain but usually not too bad. However, last year there was the crashed laptop but that was an Ubuntu version update.\nThis year I learned the importance of the renv 📦. I had an important Shiny Application fail because of the changes in the bs4Dash. (Yes, I recall reading the warnings but I forgot).\nHonestly, I was intimidated to try the renv package because of trying packrat📦 in the past Thus far, it does not seem to hard to work with."
   },
   {
-    "objectID": "posts/2023-01-01-streatks/index.html",
-    "href": "posts/2023-01-01-streatks/index.html",
-    "title": "Streaks",
+    "objectID": "posts/2023-05-12-i-robot/index.html",
+    "href": "posts/2023-05-12-i-robot/index.html",
+    "title": "i, Robot",
     "section": "",
-    "text": "The year 2022 was a tough both professionally and personally. At times, they have blurred together. I feel like I am just drifting from issue to issue without any focus or strategy behind my actions. I feel a bit hopeless and lost.\nIn late June of 2022, I had an operating system crash and had to restore systems and pick back up. I lost momentum with a writing streak I had and it feels like I have stayed in survival mode since that time.\nI have tinkered with changing strategies to learn SQL and Postgress. There is a good course here.\nTo stay afloat at my day job; I have been learning Google App Script. It has been fun to pick up on some JavaScript methods. It also great that one can run some SQL in a Google Sheet. A great follow on YouTube to learn more about Google Sheets Query Function\n\n\nTo begin again is the key and play the game you wish to play. Here is an article from the Verge. Maybe personal blogging will catch on again; I just don’t think so.\n\n\n\nI think I need to write for myself and be hopeful someone may find it useful. The more I try to make it perfect the less likely it will ship.\n\n\n\nI made some changes and stole some theme settings; still can’t get a footer working but alas.\nHopefully you hear from me soon.\nThe end."
+    "text": "I just completed I, Robot by Isaac Asimov. This may have been my first science fiction book and I loved it.\nWhat I loved about the book; is that is sociology.\nSociology in essence is the interplay of how human create and are shaped by social forces.\n\n…“We still the need the man [person] who is intelligent enough to think of the proper questions to ask.\n\nThink Chat GPT is it about your question and iterating and talking to the machine."
   },
   {
-    "objectID": "posts/2023-01-01-streatks/index.html#section",
-    "href": "posts/2023-01-01-streatks/index.html#section",
-    "title": "Streaks",
+    "objectID": "posts/2023-01-10-wilcoxsignedranktest/index.html",
+    "href": "posts/2023-01-10-wilcoxsignedranktest/index.html",
+    "title": "Wilcox-signed-rank-test",
     "section": "",
-    "text": "The year 2022 was a tough both professionally and personally. At times, they have blurred together. I feel like I am just drifting from issue to issue without any focus or strategy behind my actions. I feel a bit hopeless and lost.\nIn late June of 2022, I had an operating system crash and had to restore systems and pick back up. I lost momentum with a writing streak I had and it feels like I have stayed in survival mode since that time.\nI have tinkered with changing strategies to learn SQL and Postgress. There is a good course here.\nTo stay afloat at my day job; I have been learning Google App Script. It has been fun to pick up on some JavaScript methods. It also great that one can run some SQL in a Google Sheet. A great follow on YouTube to learn more about Google Sheets Query Function\n\n\nTo begin again is the key and play the game you wish to play. Here is an article from the Verge. Maybe personal blogging will catch on again; I just don’t think so.\n\n\n\nI think I need to write for myself and be hopeful someone may find it useful. The more I try to make it perfect the less likely it will ship.\n\n\n\nI made some changes and stole some theme settings; still can’t get a footer working but alas.\nHopefully you hear from me soon.\nThe end."
-  },
-  {
-    "objectID": "posts/bash/bash.html",
-    "href": "posts/bash/bash.html",
-    "title": "bash",
-    "section": "",
-    "text": "Using a bash script with Postgres database."
-  },
-  {
-    "objectID": "posts/bash/bash.html#make-it-executable",
-    "href": "posts/bash/bash.html#make-it-executable",
-    "title": "bash",
-    "section": "Make it executable",
-    "text": "Make it executable\nchomd +x &lt;filename&gt;\nAt the top of the file add a shebang\n#!/bin/bash\n\nRead Data from CSV File\nThe script below reads the csv file and reads\ncat courses.csv | while IFS=\",\" read MAJOR COURSE\ndo\n  echo $MAJOR\ndone\n\n\nConnect to Database\nPSQL=\"psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c\"\n\n\nDatabase Variable\nMAJOR_ID=$($PSQL \"&lt;query_here&gt;\")\nMAJOR_ID=$($PSQL \"SELECT major_id FROM majors WHERE major='$MAJOR'\")\n\n\nCode Planning\nI liked this approach of using comments as a place holder for what to do next.\ndo\n  # get major_id\n\n  # if not found\n\n  # insert major\n\n  # get new major_id\n\n  # get course_id\n\n  # if not found\n\n  # insert course\n\n  # get new course_id\n\n  # insert into majors_courses\n\ndone"
-  },
-  {
-    "objectID": "posts/2024-03-02-calendar--to-do-list/index.html",
-    "href": "posts/2024-03-02-calendar--to-do-list/index.html",
-    "title": "Calendar & To Do List",
-    "section": "",
-    "text": "This is a useful blog post about matching up one’s calendar and to do list.\nI appreciated the idea of doing this activity on a schedule thereby making it a process. Another takeaway it to identify opportunities to batch tasks.\n\nPS\nI had Chat-GPT offer suggestions on my blog post. The response may have been too good. I did not feel comfortable posting as my work and it felt like stealing content idea. However, I think I may use it as a springboard. Here is the link to the output.\nhttps://chat.openai.com/share/125382ab-dd9f-4088-aa20-0ba6e4c1303b"
-  },
-  {
-    "objectID": "posts/2023-07-04-colab/index.html",
-    "href": "posts/2023-07-04-colab/index.html",
-    "title": "Colab",
-    "section": "",
-    "text": "Here is a helpful video on reading and writing data in Google Colab with Python and Pandas from Google Drive.\nHere are directions for using R"
-  },
-  {
-    "objectID": "posts/2023-01-03-this-week-i-learned/index.html",
-    "href": "posts/2023-01-03-this-week-i-learned/index.html",
-    "title": "This week I learned",
-    "section": "",
-    "text": "My friend James wrote about pancakes and really he is talking about iteration.\nHow you have to flub up the first one to make the next one better but the point you have to have the first one to flub up. He provides a nice examples.\nI also think there is something about getting into flow state or the concept of shitty first drafts.\nWhen, I work on an analysis chart, table or blog post. I flub around at first and mess up the pancake."
-  },
-  {
-    "objectID": "posts/2023-05-28-spreadsheet-data-to-google-calendar/index.html",
-    "href": "posts/2023-05-28-spreadsheet-data-to-google-calendar/index.html",
-    "title": "Spreadsheet Data to Google Calendar",
-    "section": "",
-    "text": "I found this blog post to help me figure how to post dates in a spreadsheet to a Google Calendar.\nAdding times can be tricky but I found putting the time in a 24:00 clock notation with no PM or AM labels works best."
-  },
-  {
-    "objectID": "posts/freelance/index.html",
-    "href": "posts/freelance/index.html",
-    "title": "R for Social Good",
-    "section": "",
-    "text": "title: freelance-posts author: kevin date: ‘2020-06-19’\n\nHow often do you formally analyze all the comments you receive. Below I will show you some ways to process text data for additional analysis.\nBelow is a simple analysis of my post from the Freelance Workshop. The workshop consisted of viewing a video by Seth Godin, and responding to question prompts and tagging . The key was writing your response and tagging other people to receive feedback and vice-versa.\nAt the end of the workshop, participants were able to download their posts into a csv file. I thought it may be good fun to analyze the data.\nI was surprised I only had 106 posts; it felt like much more and I am not sure had the capacity to write more.\n\nLoad Required packages\n\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(tidytext)\nlibrary(forcats)\nlibrary(viridis)\nlibrary(gt)\n\nBelow is a display of the first six rows and selected columns\n\npost %&gt;%\n  dplyr::select(created_at, like_count, post) %&gt;%\n  head() %&gt;%\n  gt::gt()\n\n\n\n\n\n\n\ncreated_at\nlike_count\npost\n\n\n\n\n2020-03-30 20:56:58\n1\nFor kids: Adventures of Huckleberry Finn: Learn to see the world from many perspectives and learn empathy. For adults: Lila An Inquiry Into Morals: Provides a framework for understanding life and change. For people at work: The War of Art: This book taught me how to work.\n\n\n2020-03-31 01:21:54\n1\nThank you for the welcome @traviswilson . Good question, Finn and Lilla are about trying to understand people and society.\n\n\n2020-03-31 20:37:27\n4\nHello! My name is Kevin Gilds residing in Lakeland, Florida--between Tampa and Orlando. I am here to learn how to take the next steps. I fell into my first freelancing gig and would love to do more.\n\n\n2020-03-31 21:12:07\n2\nHi Razlan, I try to get the tough stuff done early while they are still asleep. We are fortunate that we have the flexibility to alternate care giving duties. The kids are also of the age where they are able to play together most of the time well enough. Hang in there!\n\n\n2020-03-31 23:53:03\n0\nThis is a great one; I let my former boss read and has not returned yet.... :upside_down_face:\n\n\n2020-04-01 20:31:17\n3\nI am a huge fan of this podcast and blogging platform It is from the creators of Basecamp. The podcast: https://rework.fm/ The blogging/article platform https://m.signalvnoise.com/\n\n\n\n\n\n\n\nI will use the tidytext package to break down the words in the post column and put it in a tidy format for analysis.\nLets take a peak\n\npost %&gt;%\n  tidytext::unnest_tokens(word, post)%&gt;%\n   dplyr::count(word) %&gt;% # count number of words produces n\n   dplyr::arrange(desc(n)) %&gt;%\n   dplyr::filter(n &gt;=150) %&gt;%\n    gt::gt() %&gt;%\n      tab_header(\n    title = md(\"**Kevin's Top Words**\"),\n    subtitle = md(\"*The Freelance Workshop*\")\n  )\n\n\n\n\n  \n    \n      Kevin's Top Words\n    \n    \n      The Freelance Workshop\n    \n  \n  \n    \n      word\n      n\n    \n  \n  \n    to\n415\n    the\n344\n    i\n342\n    and\n237\n    a\n209\n    you\n202\n    is\n173\n    of\n161\n    this\n150\n  \n  \n  \n\n\n\n\nNot very interesting, but we can clean this up! The tidytext package has loaded stop words to help us remove common words, and I am going to add words specific to the workshop.\n\nComplete an anti-join to remove standard stop words and add your own custom words you wish to dismiss\n\nBelow are my custom words:\n\nword &lt;- c(\"topic\",\"quote\", \"post\", \"1\", \"https\", \"hey\", \"2\", \"homeroom5\", \"5\", \"3\", \"6\", \"_kevin_\", \"_imposter_\", \"34974\", \"you’re\")\n\nworkshop_stop &lt;- data.frame(word)\n\nBelow we have a script that adds some additional data processing to extract insights from the words. I added a case_when statement to deal with similiar words and the anti-join statement to remove non insightful words\n\nword_count &lt;- post %&gt;%\n  tidytext::unnest_tokens(word, post ) %&gt;% #breakdown each word of the character vector\n  dplyr::mutate(word  = case_when( #make \n      word == \"client\" ~ \"clients\",\n      TRUE ~(word)\n    )) %&gt;%  \n  dplyr::anti_join(stop_words) %&gt;% #remove standard common words\n    dplyr::anti_join(workshop_stop) %&gt;% #remove words specifc to the workshop that are not of valle\n  dplyr::count(word) %&gt;% # count number of words produces n\n   dplyr::arrange(desc(n)) %&gt;%\n   dplyr::filter(n &gt;=16) %&gt;%\n  gt::gt () %&gt;%\n  tab_header(\n    title = md(\"**Kevin's Top Words**\"),\n    subtitle = md(\"*The Freelance Workshop*\")\n  )\n\nword_count\n\n\n\n\n  \n    \n      Kevin's Top Words\n    \n    \n      The Freelance Workshop\n    \n  \n  \n    \n      word\n      n\n    \n  \n  \n    data\n83\n    clients\n66\n    time\n29\n    evaluation\n26\n    people\n23\n    skills\n18\n    farid\n17\n    process\n16\n    story\n16\n  \n  \n  \n\n\n\n\nNow we are in position to graph the data. Below is a graph of my most frequent words with a mimimum of 16.\n\n\n\n\n\n\n\n\n\nCode for the graph is here:\nWhat were the most frequent post by category?\n\n\n\n\n\n\n\n\n\nCode for the graph is here:\nThis has been a basic introduction to text mining with R. It is possible to break down comments into their components. The most suprising word that stands out to me is time. It makes me want to re-read my post and understand the context better."
-  },
-  {
-    "objectID": "posts/2022-01-01-docker-tutorial/index.html",
-    "href": "posts/2022-01-01-docker-tutorial/index.html",
-    "title": "Docker Tutorial",
-    "section": "",
-    "text": "I went through this tutorial today and concepts are starting to sink in and the power of it.\nI even had to change the Python version in the Docker file to make the Flask App work. When I received the original error–I copied the error code and did a search. This post helped me realize the error was in fact in the code and not in the docker file."
-  },
-  {
-    "objectID": "posts/2023-06-23-today-i-learned/index.html",
-    "href": "posts/2023-06-23-today-i-learned/index.html",
-    "title": "Today I learned",
-    "section": "",
-    "text": "I have one Google Spreadsheet that I need to copy and paste the data to keep it up to date. This hurts my soul–I was hoping to put an end to this when our organization started used Google Drive desktop to sync files.\nThe sync works just fine but I am not able to query a spreadsheet in an xls format. The workaround is create a csv file from the xls file and complete a file import into the existing spreadsheet with the option to replace the sheet."
-  },
-  {
-    "objectID": "posts/2023-04-03-what-to-write/index.html",
-    "href": "posts/2023-04-03-what-to-write/index.html",
-    "title": "What to write",
-    "section": "",
-    "text": "My focus has been Google App Scripts and automating a workflow that runs through Google Drive.\nThus learning JavaScript and html."
-  },
-  {
-    "objectID": "posts/joins/joins.html",
-    "href": "posts/joins/joins.html",
-    "title": "joins",
-    "section": "",
-    "text": "Here is the basic form of a join.\nSELECT * FROM &lt;TABLE 1&gt; JOIN TYPE &lt;TABLE 2&gt; ON &lt;TABLE 1.KEY&gt; &lt;TABLE 2.KEY&gt;\nIf the two keys are the same, one can use the Using function.\n{eval= FALSE} SELECT * FROM &lt;table_1&gt; FULL JOIN &lt;table_2&gt; USING(&lt;column&gt;);"
-  },
-  {
-    "objectID": "posts/2021-12-08-linux-twitter/index.html",
-    "href": "posts/2021-12-08-linux-twitter/index.html",
-    "title": "Linux-Twitter",
-    "section": "",
-    "text": "Linux shell script to reduce PDF file sizeHere is a handy and useful Linux and Unix shell script that reduce PDF file size using Ghostscript. No need to upload your PDF file to the shady third-party website.https://t.co/h1l60vHwOb\n\n— howtopam (@howtopam) December 6, 2021"
-  },
-  {
-    "objectID": "posts/2022-11-23-app-script/index.html",
-    "href": "posts/2022-11-23-app-script/index.html",
-    "title": "App Script",
-    "section": "",
-    "text": "I have been thinking about automation in the Google Workspace. There are a lot of cool things one can do with javascript with google sheets and forms.\nThis morning, I worked through a tutorial on the submit of a form to use the data to update a form template and send an email.\nThe person who posts video to this channel is a good teacher\nhttps://www.youtube.com/@ExcelGoogleSheets"
-  },
-  {
-    "objectID": "posts/2022-11-23-app-script/index.html#automation",
-    "href": "posts/2022-11-23-app-script/index.html#automation",
-    "title": "App Script",
-    "section": "",
-    "text": "I have been thinking about automation in the Google Workspace. There are a lot of cool things one can do with javascript with google sheets and forms.\nThis morning, I worked through a tutorial on the submit of a form to use the data to update a form template and send an email.\nThe person who posts video to this channel is a good teacher\nhttps://www.youtube.com/@ExcelGoogleSheets"
-  },
-  {
-    "objectID": "posts/2023-02-21-email-on-edit/index.html",
-    "href": "posts/2023-02-21-email-on-edit/index.html",
-    "title": "Email on edit",
-    "section": "",
-    "text": "I have been using Apps Script at work a lot and this video is what I have been looking for."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate\n\n\n\n\n\n\n\nmy chromebook\n\n\n\n\nClick to Expand\n\nIntroduction to Chromebook Data Science\nHow to use a Chromebook\nGoogle and the Cloud\nOrganizing Data Science Projects\nVersion Control\nData Tidying\nData Visualization\nGetting Data"
-  },
-  {
-    "objectID": "index.html#chromebook-date-science",
-    "href": "index.html#chromebook-date-science",
-    "title": "About",
-    "section": "",
-    "text": "my chromebook\n\n\n\n\nClick to Expand\n\nIntroduction to Chromebook Data Science\nHow to use a Chromebook\nGoogle and the Cloud\nOrganizing Data Science Projects\nVersion Control\nData Tidying\nData Visualization\nGetting Data"
-  },
-  {
-    "objectID": "posts/2023-02-20-checklists/index.html",
-    "href": "posts/2023-02-20-checklists/index.html",
-    "title": "Checklists",
-    "section": "",
-    "text": "I love checklist for the precise reason I hate them–checklists can serve as guardrails against going too fast through a process.\nCheck this websiteout for more about the meta of checklists"
-  },
-  {
-    "objectID": "posts/2021-11-01-issue-templates/index.html",
-    "href": "posts/2021-11-01-issue-templates/index.html",
-    "title": "Issue-Templates",
-    "section": "",
-    "text": "Can I make an issue template in Gitlab!\nYes, I really needed an issue template and recalled this tweet\n\n\nBeen revamping some SOPs :: code review checklists. Learned about GitHub Issue templates which are awesome for this. Here’s an #rstats specific one https://t.co/VN0mkmHjQ7 pic.twitter.com/FvEpgHRCPL\n\n— Travis Gerke (@travisgerke) September 29, 2021\n\n\nHowever, for this project I started using gitlab as I wanted to try the updated gitlabr package. I found this issue-templates. The directions are okay, but I found that I had to use the web ‘ide’ to create the directory in the gitlab directory.\nAnd like I figured, issue templates have been super helpful."
-  },
-  {
-    "objectID": "posts/2024-02-12-mermaid-diagrams/index.html",
-    "href": "posts/2024-02-12-mermaid-diagrams/index.html",
-    "title": "Mermaid Diagrams",
-    "section": "",
-    "text": "I have been charged with documenting processes and have been using Mermaid. The documentation is here and what is cool is there a Live Editor."
-  },
-  {
-    "objectID": "posts/2023-04-28-data-dictionary/index.html",
-    "href": "posts/2023-04-28-data-dictionary/index.html",
-    "title": "Data Dictionary",
-    "section": "",
-    "text": "Here is a good article about creating data dictionaries using the pointblank package"
-  },
-  {
-    "objectID": "posts/2022-01-03-data-types/index.html",
-    "href": "posts/2022-01-03-data-types/index.html",
-    "title": "data-types",
-    "section": "",
-    "text": "Common errors emerge from mix matched data types but the error ouput rarely tell you this-if ever.\nIn the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the str function on the mtcars data set\n\nstr(mtcars)\n\n'data.frame':   32 obs. of  11 variables:\n $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...\n $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...\n $ disp: num  160 160 108 258 360 ...\n $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...\n $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...\n $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...\n $ qsec: num  16.5 17 18.6 19.4 17 ...\n $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...\n $ am  : num  1 1 1 0 0 0 0 0 0 0 ...\n $ gear: num  4 4 4 3 3 3 3 4 4 4 ...\n $ carb: num  4 4 1 1 2 1 4 2 2 4 ...\n\n\nYesterday I was working with the infer package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the specify function would not work.\n\nI needed a factor variable and I had a factor variable but not the right type of factor variable.\n\nI had the data type &lt;ord&gt;and it was not working. The &lt;ord&gt; data type is an ordered factor.\nIt did not work to simply convert from an &lt;ord&gt; to a regular factor.\n\nquestions &lt;- questions %&gt;%\n  dplyr::mutate(last_year = as.factor(last_year))%&gt;%\n\nIt stayed the same &lt;ord&gt;\nHowever this worked– I converted the variable to a character type and then convert it to a regular factor!\n\nquestions &lt;- questions %&gt;%\n  dplyr::mutate(last_year = as.character.factor(last_year))%&gt;%\n  dplyr::mutate(last_year = as.factor(last_year)) %&gt;%\n\nI will have update this post with some updated data."
-  },
-  {
-    "objectID": "posts/2023-01-15-r--linux/index.html",
-    "href": "posts/2023-01-15-r--linux/index.html",
-    "title": "R & Linux",
-    "section": "",
-    "text": "Let me see if I recall this post when I need to re-install."
-  },
-  {
-    "objectID": "posts/2022-11-26-lazy--automation/index.html",
-    "href": "posts/2022-11-26-lazy--automation/index.html",
-    "title": "Lazy & Automation",
-    "section": "",
-    "text": "I hate repetitive tasks and will hyper fixate on ways to automate my life. Sometimes they work out sometimes they don’t.\nI have spent my weekend working with Google Apps Scripts to automate my work life. I wrote a script to draft an email with information from a google sheet. I think I will set up an automatic case note that logs to a Google Drive folder.\nThis post shows how to convert an html document to a blob object and save in a file format."
-  },
-  {
-    "objectID": "posts/2023-11-22-pivot-wider/index.html",
-    "href": "posts/2023-11-22-pivot-wider/index.html",
-    "title": "Pivot Longer",
-    "section": "",
-    "text": "I am thankful for Google Colab and the ability to use R with it. I had a challenging dataset that required conversion from wide to long format. The difficulty arose because the transformation resulted in extra rows due to multiple columns needing to be pivoted.\nAfter experimenting with different approaches, ChatGPT suggested creating keys from the column output and filtering based on those conditions. The initial code recommendation didn’t work, so I sought clarification. Ultimately, after cleaning up a NA value and identifying extra spaces in one of the columns, the following code proved to be the solution.\n\nmutate(employee_id_key = str_trim(gsub(\"employee_id_\", \"\", employee_id_key)),\n         hours_key = str_trim(gsub(\"hours_\", \"\", hours_key))) %&gt;%\n  filter(employee_id_key == hours_key) %&gt;%\n  select(-employee_id_key, -hours_key)"
-  },
-  {
-    "objectID": "posts/2022-01-09-nano/index.html",
-    "href": "posts/2022-01-09-nano/index.html",
-    "title": "Nano",
-    "section": "",
-    "text": "I was testing my luck/skill with this post and curious if I messed anything up editing a bash file in Nano.\nLet try this again"
-  },
-  {
-    "objectID": "posts/2021-12-28-shiny-proxy-fun/index.html",
-    "href": "posts/2021-12-28-shiny-proxy-fun/index.html",
-    "title": "Shiny Proxy Fun",
-    "section": "",
-    "text": "This article got me thinking about other hosting possibilities such as html files and bookdown reports."
-  },
-  {
-    "objectID": "posts/2023-05-29-branches/index.html",
-    "href": "posts/2023-05-29-branches/index.html",
-    "title": "Branches",
-    "section": "",
-    "text": "This morning, I was going to make a minor change to a Shiny Application. That minor change bricked the application. Minor stress because the change was on a branch.\nGit resources:\nhttps://git-scm.com/book/en/v2\nR workflow:\nhttps://usethis.r-lib.org/reference/pull-requests.html"
+    "text": "I work with Likert survey data. This article is a good reminder to be using this test even when it feels like you are working with real numbers.\nA good question to consider is if I could make a graph like those in the post with more than 2 variables?"
   },
   {
     "objectID": "posts/2023-04-05-interactive-documents/index.html",
@@ -532,32 +336,242 @@
     "text": "I received a request for a dashboard. Um, not in the scope of work but I want to play with the interactive components of a Quarto documents.\nI jump in and I can’t not get the Server side to recognize the data. What I did not catch at first was the concept of Execution Contexts.\n\n#| context: setup\n#| include: false\n\n# load libraries\nlibrary(dplyr)\n\n# load data\ndataset &lt;- import_data(\"data.csv\")\ndataset &lt;- sample_n(dataset, 1000)\n\nI finally got my head around this was finally starting to display data. However, I was not thrilled on the output of the valueBoxes. Again, in the Quarto document it may not be the best context for them. Maybe use a general text based report.\nOne thing to consider will be to try and learn Observable JS. I am taking a class later this month."
   },
   {
-    "objectID": "posts/2023-01-10-wilcoxsignedranktest/index.html",
-    "href": "posts/2023-01-10-wilcoxsignedranktest/index.html",
-    "title": "Wilcox-signed-rank-test",
+    "objectID": "posts/2023-05-29-branches/index.html",
+    "href": "posts/2023-05-29-branches/index.html",
+    "title": "Branches",
     "section": "",
-    "text": "I work with Likert survey data. This article is a good reminder to be using this test even when it feels like you are working with real numbers.\nA good question to consider is if I could make a graph like those in the post with more than 2 variables?"
+    "text": "This morning, I was going to make a minor change to a Shiny Application. That minor change bricked the application. Minor stress because the change was on a branch.\nGit resources:\nhttps://git-scm.com/book/en/v2\nR workflow:\nhttps://usethis.r-lib.org/reference/pull-requests.html"
   },
   {
-    "objectID": "posts/2023-05-12-i-robot/index.html",
-    "href": "posts/2023-05-12-i-robot/index.html",
-    "title": "i, Robot",
+    "objectID": "posts/2021-12-28-shiny-proxy-fun/index.html",
+    "href": "posts/2021-12-28-shiny-proxy-fun/index.html",
+    "title": "Shiny Proxy Fun",
     "section": "",
-    "text": "I just completed I, Robot by Isaac Asimov. This may have been my first science fiction book and I loved it.\nWhat I loved about the book; is that is sociology.\nSociology in essence is the interplay of how human create and are shaped by social forces.\n\n…“We still the need the man [person] who is intelligent enough to think of the proper questions to ask.\n\nThink Chat GPT is it about your question and iterating and talking to the machine."
+    "text": "This article got me thinking about other hosting possibilities such as html files and bookdown reports."
   },
   {
-    "objectID": "posts/2021-08-31-lessons/index.html",
-    "href": "posts/2021-08-31-lessons/index.html",
-    "title": "Lessons",
+    "objectID": "posts/2022-01-09-nano/index.html",
+    "href": "posts/2022-01-09-nano/index.html",
+    "title": "Nano",
     "section": "",
-    "text": "There were warnings!🤕\n\nEvery August after a big grant report is complete, I update R and my packages and that can be a pain but usually not too bad. However, last year there was the crashed laptop but that was an Ubuntu version update.\nThis year I learned the importance of the renv 📦. I had an important Shiny Application fail because of the changes in the bs4Dash. (Yes, I recall reading the warnings but I forgot).\nHonestly, I was intimidated to try the renv package because of trying packrat📦 in the past Thus far, it does not seem to hard to work with."
+    "text": "I was testing my luck/skill with this post and curious if I messed anything up editing a bash file in Nano.\nLet try this again"
   },
   {
-    "objectID": "posts/2022-01-08-git-hooks/index.html",
-    "href": "posts/2022-01-08-git-hooks/index.html",
-    "title": "Git Hooks",
+    "objectID": "posts/2023-11-22-pivot-wider/index.html",
+    "href": "posts/2023-11-22-pivot-wider/index.html",
+    "title": "Pivot Longer",
     "section": "",
-    "text": "I came here for an article on a .gitlab-ci.yml example and came away with an article on githooks. I think the githook is what I need!"
+    "text": "I am thankful for Google Colab and the ability to use R with it. I had a challenging dataset that required conversion from wide to long format. The difficulty arose because the transformation resulted in extra rows due to multiple columns needing to be pivoted.\nAfter experimenting with different approaches, ChatGPT suggested creating keys from the column output and filtering based on those conditions. The initial code recommendation didn’t work, so I sought clarification. Ultimately, after cleaning up a NA value and identifying extra spaces in one of the columns, the following code proved to be the solution.\n\nmutate(employee_id_key = str_trim(gsub(\"employee_id_\", \"\", employee_id_key)),\n         hours_key = str_trim(gsub(\"hours_\", \"\", hours_key))) %&gt;%\n  filter(employee_id_key == hours_key) %&gt;%\n  select(-employee_id_key, -hours_key)"
+  },
+  {
+    "objectID": "posts/2022-11-26-lazy--automation/index.html",
+    "href": "posts/2022-11-26-lazy--automation/index.html",
+    "title": "Lazy & Automation",
+    "section": "",
+    "text": "I hate repetitive tasks and will hyper fixate on ways to automate my life. Sometimes they work out sometimes they don’t.\nI have spent my weekend working with Google Apps Scripts to automate my work life. I wrote a script to draft an email with information from a google sheet. I think I will set up an automatic case note that logs to a Google Drive folder.\nThis post shows how to convert an html document to a blob object and save in a file format."
+  },
+  {
+    "objectID": "posts/2023-01-15-r--linux/index.html",
+    "href": "posts/2023-01-15-r--linux/index.html",
+    "title": "R & Linux",
+    "section": "",
+    "text": "Let me see if I recall this post when I need to re-install."
+  },
+  {
+    "objectID": "posts/2022-01-03-data-types/index.html",
+    "href": "posts/2022-01-03-data-types/index.html",
+    "title": "data-types",
+    "section": "",
+    "text": "Common errors emerge from mix matched data types but the error ouput rarely tell you this-if ever.\nIn the console, when you print a data frame it will give you the data type of each column displayed. This is helpful because it gives you a hint. I could not figure out a way to display a data frame with the the column types below but can display the output of the str function on the mtcars data set\n\nstr(mtcars)\n\n'data.frame':   32 obs. of  11 variables:\n $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...\n $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...\n $ disp: num  160 160 108 258 360 ...\n $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...\n $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...\n $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...\n $ qsec: num  16.5 17 18.6 19.4 17 ...\n $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...\n $ am  : num  1 1 1 0 0 0 0 0 0 0 ...\n $ gear: num  4 4 4 3 3 3 3 4 4 4 ...\n $ carb: num  4 4 1 1 2 1 4 2 2 4 ...\n\n\nYesterday I was working with the infer package and I was working through the examples and applying the examples to my own dataset. I could not figure out why the specify function would not work.\n\nI needed a factor variable and I had a factor variable but not the right type of factor variable.\n\nI had the data type &lt;ord&gt;and it was not working. The &lt;ord&gt; data type is an ordered factor.\nIt did not work to simply convert from an &lt;ord&gt; to a regular factor.\n\nquestions &lt;- questions %&gt;%\n  dplyr::mutate(last_year = as.factor(last_year))%&gt;%\n\nIt stayed the same &lt;ord&gt;\nHowever this worked– I converted the variable to a character type and then convert it to a regular factor!\n\nquestions &lt;- questions %&gt;%\n  dplyr::mutate(last_year = as.character.factor(last_year))%&gt;%\n  dplyr::mutate(last_year = as.factor(last_year)) %&gt;%\n\nI will have update this post with some updated data."
+  },
+  {
+    "objectID": "posts/2023-04-28-data-dictionary/index.html",
+    "href": "posts/2023-04-28-data-dictionary/index.html",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "Here is a good article about creating data dictionaries using the pointblank package"
+  },
+  {
+    "objectID": "posts/2024-02-12-mermaid-diagrams/index.html",
+    "href": "posts/2024-02-12-mermaid-diagrams/index.html",
+    "title": "Mermaid Diagrams",
+    "section": "",
+    "text": "I have been charged with documenting processes and have been using Mermaid. The documentation is here and what is cool is there a Live Editor."
+  },
+  {
+    "objectID": "posts/2021-11-01-issue-templates/index.html",
+    "href": "posts/2021-11-01-issue-templates/index.html",
+    "title": "Issue-Templates",
+    "section": "",
+    "text": "Can I make an issue template in Gitlab!\nYes, I really needed an issue template and recalled this tweet\n\n\nBeen revamping some SOPs :: code review checklists. Learned about GitHub Issue templates which are awesome for this. Here’s an #rstats specific one https://t.co/VN0mkmHjQ7 pic.twitter.com/FvEpgHRCPL\n\n— Travis Gerke (@travisgerke) September 29, 2021\n\n\nHowever, for this project I started using gitlab as I wanted to try the updated gitlabr package. I found this issue-templates. The directions are okay, but I found that I had to use the web ‘ide’ to create the directory in the gitlab directory.\nAnd like I figured, issue templates have been super helpful."
+  },
+  {
+    "objectID": "posts/2023-02-20-checklists/index.html",
+    "href": "posts/2023-02-20-checklists/index.html",
+    "title": "Checklists",
+    "section": "",
+    "text": "I love checklist for the precise reason I hate them–checklists can serve as guardrails against going too fast through a process.\nCheck this websiteout for more about the meta of checklists"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\n\n   \n\n\n\n\n\n\n\nShiny Posts\nR Posts\n\n\n\n\n\nClick to Expand\n\nIntro to Python | 2021-08-09 | Certificate\nIntro to Machine Learning | 2021-08-10 | Certificate\nIntermediate Machine Learning | 2021-08-14 | Certificate\nFeature Engineering | 2021-09-18 | Certificate\nPandas | 2021-09-23 | Certificate\n\n\n\n\n\n\n\nmy chromebook\n\n\n\n\nClick to Expand\n\nIntroduction to Chromebook Data Science\nHow to use a Chromebook\nGoogle and the Cloud\nOrganizing Data Science Projects\nVersion Control\nData Tidying\nData Visualization\nGetting Data"
+  },
+  {
+    "objectID": "index.html#chromebook-date-science",
+    "href": "index.html#chromebook-date-science",
+    "title": "About",
+    "section": "",
+    "text": "my chromebook\n\n\n\n\nClick to Expand\n\nIntroduction to Chromebook Data Science\nHow to use a Chromebook\nGoogle and the Cloud\nOrganizing Data Science Projects\nVersion Control\nData Tidying\nData Visualization\nGetting Data"
+  },
+  {
+    "objectID": "posts/2023-02-21-email-on-edit/index.html",
+    "href": "posts/2023-02-21-email-on-edit/index.html",
+    "title": "Email on edit",
+    "section": "",
+    "text": "I have been using Apps Script at work a lot and this video is what I have been looking for."
+  },
+  {
+    "objectID": "posts/2022-11-23-app-script/index.html",
+    "href": "posts/2022-11-23-app-script/index.html",
+    "title": "App Script",
+    "section": "",
+    "text": "I have been thinking about automation in the Google Workspace. There are a lot of cool things one can do with javascript with google sheets and forms.\nThis morning, I worked through a tutorial on the submit of a form to use the data to update a form template and send an email.\nThe person who posts video to this channel is a good teacher\nhttps://www.youtube.com/@ExcelGoogleSheets"
+  },
+  {
+    "objectID": "posts/2022-11-23-app-script/index.html#automation",
+    "href": "posts/2022-11-23-app-script/index.html#automation",
+    "title": "App Script",
+    "section": "",
+    "text": "I have been thinking about automation in the Google Workspace. There are a lot of cool things one can do with javascript with google sheets and forms.\nThis morning, I worked through a tutorial on the submit of a form to use the data to update a form template and send an email.\nThe person who posts video to this channel is a good teacher\nhttps://www.youtube.com/@ExcelGoogleSheets"
+  },
+  {
+    "objectID": "posts/2021-12-08-linux-twitter/index.html",
+    "href": "posts/2021-12-08-linux-twitter/index.html",
+    "title": "Linux-Twitter",
+    "section": "",
+    "text": "Linux shell script to reduce PDF file sizeHere is a handy and useful Linux and Unix shell script that reduce PDF file size using Ghostscript. No need to upload your PDF file to the shady third-party website.https://t.co/h1l60vHwOb\n\n— howtopam (@howtopam) December 6, 2021"
+  },
+  {
+    "objectID": "posts/joins/joins.html",
+    "href": "posts/joins/joins.html",
+    "title": "joins",
+    "section": "",
+    "text": "Here is the basic form of a join.\nSELECT * FROM &lt;TABLE 1&gt; JOIN TYPE &lt;TABLE 2&gt; ON &lt;TABLE 1.KEY&gt; &lt;TABLE 2.KEY&gt;\nIf the two keys are the same, one can use the Using function.\n{eval= FALSE} SELECT * FROM &lt;table_1&gt; FULL JOIN &lt;table_2&gt; USING(&lt;column&gt;);"
+  },
+  {
+    "objectID": "posts/2023-04-03-what-to-write/index.html",
+    "href": "posts/2023-04-03-what-to-write/index.html",
+    "title": "What to write",
+    "section": "",
+    "text": "My focus has been Google App Scripts and automating a workflow that runs through Google Drive.\nThus learning JavaScript and html."
+  },
+  {
+    "objectID": "posts/2023-06-23-today-i-learned/index.html",
+    "href": "posts/2023-06-23-today-i-learned/index.html",
+    "title": "Today I learned",
+    "section": "",
+    "text": "I have one Google Spreadsheet that I need to copy and paste the data to keep it up to date. This hurts my soul–I was hoping to put an end to this when our organization started used Google Drive desktop to sync files.\nThe sync works just fine but I am not able to query a spreadsheet in an xls format. The workaround is create a csv file from the xls file and complete a file import into the existing spreadsheet with the option to replace the sheet."
+  },
+  {
+    "objectID": "posts/2022-01-01-docker-tutorial/index.html",
+    "href": "posts/2022-01-01-docker-tutorial/index.html",
+    "title": "Docker Tutorial",
+    "section": "",
+    "text": "I went through this tutorial today and concepts are starting to sink in and the power of it.\nI even had to change the Python version in the Docker file to make the Flask App work. When I received the original error–I copied the error code and did a search. This post helped me realize the error was in fact in the code and not in the docker file."
+  },
+  {
+    "objectID": "posts/freelance/index.html",
+    "href": "posts/freelance/index.html",
+    "title": "R for Social Good",
+    "section": "",
+    "text": "title: freelance-posts author: kevin date: ‘2020-06-19’\n\nHow often do you formally analyze all the comments you receive. Below I will show you some ways to process text data for additional analysis.\nBelow is a simple analysis of my post from the Freelance Workshop. The workshop consisted of viewing a video by Seth Godin, and responding to question prompts and tagging . The key was writing your response and tagging other people to receive feedback and vice-versa.\nAt the end of the workshop, participants were able to download their posts into a csv file. I thought it may be good fun to analyze the data.\nI was surprised I only had 106 posts; it felt like much more and I am not sure had the capacity to write more.\n\nLoad Required packages\n\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(tidytext)\nlibrary(forcats)\nlibrary(viridis)\nlibrary(gt)\n\nBelow is a display of the first six rows and selected columns\n\npost %&gt;%\n  dplyr::select(created_at, like_count, post) %&gt;%\n  head() %&gt;%\n  gt::gt()\n\n\n\n\n\n\n\ncreated_at\nlike_count\npost\n\n\n\n\n2020-03-30 20:56:58\n1\nFor kids: Adventures of Huckleberry Finn: Learn to see the world from many perspectives and learn empathy. For adults: Lila An Inquiry Into Morals: Provides a framework for understanding life and change. For people at work: The War of Art: This book taught me how to work.\n\n\n2020-03-31 01:21:54\n1\nThank you for the welcome @traviswilson . Good question, Finn and Lilla are about trying to understand people and society.\n\n\n2020-03-31 20:37:27\n4\nHello! My name is Kevin Gilds residing in Lakeland, Florida--between Tampa and Orlando. I am here to learn how to take the next steps. I fell into my first freelancing gig and would love to do more.\n\n\n2020-03-31 21:12:07\n2\nHi Razlan, I try to get the tough stuff done early while they are still asleep. We are fortunate that we have the flexibility to alternate care giving duties. The kids are also of the age where they are able to play together most of the time well enough. Hang in there!\n\n\n2020-03-31 23:53:03\n0\nThis is a great one; I let my former boss read and has not returned yet.... :upside_down_face:\n\n\n2020-04-01 20:31:17\n3\nI am a huge fan of this podcast and blogging platform It is from the creators of Basecamp. The podcast: https://rework.fm/ The blogging/article platform https://m.signalvnoise.com/\n\n\n\n\n\n\n\nI will use the tidytext package to break down the words in the post column and put it in a tidy format for analysis.\nLets take a peak\n\npost %&gt;%\n  tidytext::unnest_tokens(word, post)%&gt;%\n   dplyr::count(word) %&gt;% # count number of words produces n\n   dplyr::arrange(desc(n)) %&gt;%\n   dplyr::filter(n &gt;=150) %&gt;%\n    gt::gt() %&gt;%\n      tab_header(\n    title = md(\"**Kevin's Top Words**\"),\n    subtitle = md(\"*The Freelance Workshop*\")\n  )\n\n\n\n\n  \n    \n      Kevin's Top Words\n    \n    \n      The Freelance Workshop\n    \n  \n  \n    \n      word\n      n\n    \n  \n  \n    to\n415\n    the\n344\n    i\n342\n    and\n237\n    a\n209\n    you\n202\n    is\n173\n    of\n161\n    this\n150\n  \n  \n  \n\n\n\n\nNot very interesting, but we can clean this up! The tidytext package has loaded stop words to help us remove common words, and I am going to add words specific to the workshop.\n\nComplete an anti-join to remove standard stop words and add your own custom words you wish to dismiss\n\nBelow are my custom words:\n\nword &lt;- c(\"topic\",\"quote\", \"post\", \"1\", \"https\", \"hey\", \"2\", \"homeroom5\", \"5\", \"3\", \"6\", \"_kevin_\", \"_imposter_\", \"34974\", \"you’re\")\n\nworkshop_stop &lt;- data.frame(word)\n\nBelow we have a script that adds some additional data processing to extract insights from the words. I added a case_when statement to deal with similiar words and the anti-join statement to remove non insightful words\n\nword_count &lt;- post %&gt;%\n  tidytext::unnest_tokens(word, post ) %&gt;% #breakdown each word of the character vector\n  dplyr::mutate(word  = case_when( #make \n      word == \"client\" ~ \"clients\",\n      TRUE ~(word)\n    )) %&gt;%  \n  dplyr::anti_join(stop_words) %&gt;% #remove standard common words\n    dplyr::anti_join(workshop_stop) %&gt;% #remove words specifc to the workshop that are not of valle\n  dplyr::count(word) %&gt;% # count number of words produces n\n   dplyr::arrange(desc(n)) %&gt;%\n   dplyr::filter(n &gt;=16) %&gt;%\n  gt::gt () %&gt;%\n  tab_header(\n    title = md(\"**Kevin's Top Words**\"),\n    subtitle = md(\"*The Freelance Workshop*\")\n  )\n\nword_count\n\n\n\n\n  \n    \n      Kevin's Top Words\n    \n    \n      The Freelance Workshop\n    \n  \n  \n    \n      word\n      n\n    \n  \n  \n    data\n83\n    clients\n66\n    time\n29\n    evaluation\n26\n    people\n23\n    skills\n18\n    farid\n17\n    process\n16\n    story\n16\n  \n  \n  \n\n\n\n\nNow we are in position to graph the data. Below is a graph of my most frequent words with a mimimum of 16.\n\n\n\n\n\n\n\n\n\nCode for the graph is here:\nWhat were the most frequent post by category?\n\n\n\n\n\n\n\n\n\nCode for the graph is here:\nThis has been a basic introduction to text mining with R. It is possible to break down comments into their components. The most suprising word that stands out to me is time. It makes me want to re-read my post and understand the context better."
+  },
+  {
+    "objectID": "posts/2023-05-28-spreadsheet-data-to-google-calendar/index.html",
+    "href": "posts/2023-05-28-spreadsheet-data-to-google-calendar/index.html",
+    "title": "Spreadsheet Data to Google Calendar",
+    "section": "",
+    "text": "I found this blog post to help me figure how to post dates in a spreadsheet to a Google Calendar.\nAdding times can be tricky but I found putting the time in a 24:00 clock notation with no PM or AM labels works best."
+  },
+  {
+    "objectID": "posts/2023-01-03-this-week-i-learned/index.html",
+    "href": "posts/2023-01-03-this-week-i-learned/index.html",
+    "title": "This week I learned",
+    "section": "",
+    "text": "My friend James wrote about pancakes and really he is talking about iteration.\nHow you have to flub up the first one to make the next one better but the point you have to have the first one to flub up. He provides a nice examples.\nI also think there is something about getting into flow state or the concept of shitty first drafts.\nWhen, I work on an analysis chart, table or blog post. I flub around at first and mess up the pancake."
+  },
+  {
+    "objectID": "posts/2023-07-04-colab/index.html",
+    "href": "posts/2023-07-04-colab/index.html",
+    "title": "Colab",
+    "section": "",
+    "text": "Here is a helpful video on reading and writing data in Google Colab with Python and Pandas from Google Drive.\nHere are directions for using R"
+  },
+  {
+    "objectID": "posts/2024-03-02-calendar--to-do-list/index.html",
+    "href": "posts/2024-03-02-calendar--to-do-list/index.html",
+    "title": "Calendar & To Do List",
+    "section": "",
+    "text": "This is a useful blog post about matching up one’s calendar and to do list.\nI appreciated the idea of doing this activity on a schedule thereby making it a process. Another takeaway it to identify opportunities to batch tasks.\n\nPS\nI had Chat-GPT offer suggestions on my blog post. The response may have been too good. I did not feel comfortable posting as my work and it felt like stealing content idea. However, I think I may use it as a springboard. Here is the link to the output.\nhttps://chat.openai.com/share/125382ab-dd9f-4088-aa20-0ba6e4c1303b"
+  },
+  {
+    "objectID": "posts/bash/bash.html",
+    "href": "posts/bash/bash.html",
+    "title": "bash",
+    "section": "",
+    "text": "Using a bash script with Postgres database."
+  },
+  {
+    "objectID": "posts/bash/bash.html#make-it-executable",
+    "href": "posts/bash/bash.html#make-it-executable",
+    "title": "bash",
+    "section": "Make it executable",
+    "text": "Make it executable\nchomd +x &lt;filename&gt;\nAt the top of the file add a shebang\n#!/bin/bash\n\nRead Data from CSV File\nThe script below reads the csv file and reads\ncat courses.csv | while IFS=\",\" read MAJOR COURSE\ndo\n  echo $MAJOR\ndone\n\n\nConnect to Database\nPSQL=\"psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c\"\n\n\nDatabase Variable\nMAJOR_ID=$($PSQL \"&lt;query_here&gt;\")\nMAJOR_ID=$($PSQL \"SELECT major_id FROM majors WHERE major='$MAJOR'\")\n\n\nCode Planning\nI liked this approach of using comments as a place holder for what to do next.\ndo\n  # get major_id\n\n  # if not found\n\n  # insert major\n\n  # get new major_id\n\n  # get course_id\n\n  # if not found\n\n  # insert course\n\n  # get new course_id\n\n  # insert into majors_courses\n\ndone"
+  },
+  {
+    "objectID": "posts/2023-01-01-streatks/index.html",
+    "href": "posts/2023-01-01-streatks/index.html",
+    "title": "Streaks",
+    "section": "",
+    "text": "The year 2022 was a tough both professionally and personally. At times, they have blurred together. I feel like I am just drifting from issue to issue without any focus or strategy behind my actions. I feel a bit hopeless and lost.\nIn late June of 2022, I had an operating system crash and had to restore systems and pick back up. I lost momentum with a writing streak I had and it feels like I have stayed in survival mode since that time.\nI have tinkered with changing strategies to learn SQL and Postgress. There is a good course here.\nTo stay afloat at my day job; I have been learning Google App Script. It has been fun to pick up on some JavaScript methods. It also great that one can run some SQL in a Google Sheet. A great follow on YouTube to learn more about Google Sheets Query Function\n\n\nTo begin again is the key and play the game you wish to play. Here is an article from the Verge. Maybe personal blogging will catch on again; I just don’t think so.\n\n\n\nI think I need to write for myself and be hopeful someone may find it useful. The more I try to make it perfect the less likely it will ship.\n\n\n\nI made some changes and stole some theme settings; still can’t get a footer working but alas.\nHopefully you hear from me soon.\nThe end."
+  },
+  {
+    "objectID": "posts/2023-01-01-streatks/index.html#section",
+    "href": "posts/2023-01-01-streatks/index.html#section",
+    "title": "Streaks",
+    "section": "",
+    "text": "The year 2022 was a tough both professionally and personally. At times, they have blurred together. I feel like I am just drifting from issue to issue without any focus or strategy behind my actions. I feel a bit hopeless and lost.\nIn late June of 2022, I had an operating system crash and had to restore systems and pick back up. I lost momentum with a writing streak I had and it feels like I have stayed in survival mode since that time.\nI have tinkered with changing strategies to learn SQL and Postgress. There is a good course here.\nTo stay afloat at my day job; I have been learning Google App Script. It has been fun to pick up on some JavaScript methods. It also great that one can run some SQL in a Google Sheet. A great follow on YouTube to learn more about Google Sheets Query Function\n\n\nTo begin again is the key and play the game you wish to play. Here is an article from the Verge. Maybe personal blogging will catch on again; I just don’t think so.\n\n\n\nI think I need to write for myself and be hopeful someone may find it useful. The more I try to make it perfect the less likely it will ship.\n\n\n\nI made some changes and stole some theme settings; still can’t get a footer working but alas.\nHopefully you hear from me soon.\nThe end."
+  },
+  {
+    "objectID": "posts/2021-06-16-side-benefits-of-learning-r/index.html",
+    "href": "posts/2021-06-16-side-benefits-of-learning-r/index.html",
+    "title": "Side Benefits of Learning R",
+    "section": "",
+    "text": "If you take the time to learn ggplot2 you are going to learn a lot more than plotting. Depending on your purpose for learning ggplot2, that could be great or perhaps frustrating.\n\nIn my experience learning R has opened up many other content areas for me. Granted there are many paths to learning new things but I am not sure how I get to my list below if I stayed with a learning path emphasizing spreadsheets.\n\nLinux\nGit\nWeb-development\nCSSS\nHTML"
+  },
+  {
+    "objectID": "posts/2021-12-19-til/index.html",
+    "href": "posts/2021-12-19-til/index.html",
+    "title": "TIL",
+    "section": "",
+    "text": "I wrote some functions and scripts had to complete troubleshooting to make them work\nI am not sure why I could not recall how to filter multiple values under on variable but here we are! The slice function is also becoming one of my favorite tools.\npre_numeric &lt;- pre_summary %&gt;%\n  dplyr::filter(skim_type == \"numeric\") %&gt;%\n  dplyr::slice_tail(n = 6) %&gt;%\n  dplyr::filter(skim_variable == \"var2_avg\" |\n                  skim_variable == \"var1_avg\" |\n                  skim_variable == \"var3_avg\") \n                  \nIn this function, I have to make sure that NA values are converted to zero before I can determine success or failure. The df has to be called first and then start the new dplyr statement.\nget_var_score &lt;- function(df){\n  \n    df &lt;- dplyr::mutate(df, var_adjusted = 4 - sc1) \n    df &lt;- dplyr::mutate(df, var_avg = sc0 / var_adjusted) \n    df$var_avg &lt;- tidyr::replace_na(df$var_avg, 0)\n    df \n    dplyr::mutate(df, var_success = if_else(var_avg &gt;= 4.45, TRUE, FALSE))\n    \n    \n}\nHere I needed to actually filter navalues in this column to see troubled records.\nissue_13 &lt;- survey %&gt;%\n  dplyr::filter(is.na(initials_1))"
+  },
+  {
+    "objectID": "posts/2022-01-07-commit-to-the-static/index.html",
+    "href": "posts/2022-01-07-commit-to-the-static/index.html",
+    "title": "commit to the static",
+    "section": "",
+    "text": "Note to self\n\nYou need commit the static folder to get plots to render in blogdown.post"
+  },
+  {
+    "objectID": "posts/remedy/addins.html",
+    "href": "posts/remedy/addins.html",
+    "title": "addins",
+    "section": "",
+    "text": "I downloaded the remedy package today."
   },
   {
     "objectID": "posts/2023-05-29-glue/index.html",
