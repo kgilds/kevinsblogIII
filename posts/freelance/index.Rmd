@@ -1,8 +1,9 @@
 ---
-
-title: freelance-posts 
-author: kevin 
-date: '2020-06-19' 
+title: Text Analysis
+author: Kevn Gilds, MPA
+date: 2024-01-07
+categories:
+ -Text Analysis
 
 ---
 
