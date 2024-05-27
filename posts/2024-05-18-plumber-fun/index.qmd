@@ -1,0 +1,33 @@
+---
+title: "Plumber Fun"
+description: |
+  Troubleshooting API End Points
+author: Kevn Gilds, MPA
+date: 2024-05-18
+categories:
+ -API, Plumber, Workflow
+---
+
+# Introduction
+
+I received an interesting data request and noted this would make a useful endpoint on the API.
+
+The first victory was first addressing and completing the request before finding a way to automate the process.
+
+The second victory was getting the end point to work after testing the function.
+
+However, when I tried to test out the endpoint again it stopped working. i was receiving a 404 error non response. This did not make sense as the other endpoints were working fine.
+
+## Troubleshooting Steps
+
+1.  Restart R
+
+2.  Restart computer
+
+3.  Compare other functions in the plumber function.
+
+I started to suspect the issue was in my filter function. I am still not clear on the reason but Chat GPT game some suggestions on my code. Straight up it started working after I took the suggestions.
+
+### Chat GPT
+
+Here is the link to the [chat](https://chatgpt.com/share/acf6ffc5-bb91-4909-8e25-581c192cbf4a)

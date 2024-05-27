@@ -1,0 +1,17 @@
+---
+title: "Markdown Code to R script"
+description: |
+  Used Chat GPT to help me with this
+author: Kevn Gilds, MPA
+date: 2024-05-27
+categories:
+ -Chat-GPT
+---
+
+# This worked
+
+I needed to grab the code out of a markdown document and I had a sense that there was function for this. However, there is a function to take to convert an R script to an Rmarkdown document. It is the `spin` function. Here was my [introduction](https://deanattali.com/2015/03/24/knitrs-best-hidden-gem-spin/) to the function.
+
+I am not sure if there is function to do the reverse.
+
+Anyway Chat-GPT created a script for me to use and it worked perfect. Here is the script link to the [chat](https://chatgpt.com/share/f8e56da6-13d7-4f12-8b67-a50346f85b35)

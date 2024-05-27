@@ -887,5 +887,12 @@
     "title": "Across",
     "section": "",
     "text": "I made that more difficult than it had to be.\n\nI was working on analyzing twenty plus survey questions and wanted to use the forcats function collapse on all of them. I was desperately trying to combine dplyr::across with the forcats function collapse.\nThankfully, I found this Stackoverflow Post\nlibrary(dplyr)\nlibrary(forcats)\ndf %&gt;% \n    mutate(across(-pid, ~ fct_collapse(.,\n     yes = c('y', 'Y'), no = c('no', 'NO', 'n'))))\n     \nMy mistake was that I was trying to close the across function paren too soon and hence errors. Here is an example of one way I was doing it wrong.\nlibrary(dplyr)\nlibrary(forcats)\ndf %&gt;% \n    mutate(across(-pid), ~ fct_collapse(.,\n     yes = c('y', 'Y'), no = c('no', 'NO', 'n'))))\n     \n\nConclusion\nI am hoping that digging into the reason for this trouble helps me remember for next time."
+  },
+  {
+    "objectID": "About-Kevin.html",
+    "href": "About-Kevin.html",
+    "title": "About-Kevin",
+    "section": "",
+    "text": "Hi there  my name is Kevin\nI am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.\n Pronouns: he/him\n I’m currently working on improving my data pipelines, and communicating data with Shiny Applications.\n I’m currently learning Bash and SQL\n I’m looking to collaborate on Shiny Applications.\n Ask me about data in the nonprofit sector.\n How to reach me: kevin.gilds@hey.com\n\n\nTechnical Skills"
   }
 ]

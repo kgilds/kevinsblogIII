@@ -1,0 +1,23 @@
+---
+title: "About-Kevin"
+---
+
+### Hi there {{< fa handshake >}} my name is Kevin
+
+I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I learned data science techniques to make these jobs better.
+
+{{< fa face-smile >}} Pronouns: he/him
+
+{{< fa binoculars >}} I'm currently working on improving my data pipelines, and communicating data with Shiny Applications.
+
+{{< fa seedling >}} I'm currently learning Bash and SQL
+
+{{< fa people-group >}} I'm looking to collaborate on Shiny Applications.
+
+{{< fa comment-dots >}} Ask me about data in the nonprofit sector.
+
+{{< fa inbox >}} How to reach me: kevin.gilds\@hey.com
+
+### Technical Skills
+
+![R](https://img.shields.io/badge/r-%2523276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%2523000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white)
