@@ -1,0 +1,12 @@
+---
+title: "VIM"
+description: |
+  Playing with VIM
+author: Kevn Gilds, MPA
+date: 2024-07-07
+categories:
+
+ - Computer Literacy
+---
+
+I purchased a new Chromebook and utilized the Linux features available on newer models. I spaced on how to work with VIM and utilized the built in tutorial. The tutorial was helpful.  I understand most folks may not to work in VIM but tools like VIM are not even presented in as an option for most people. I think this relates to questions on whether we should teach git in the classroom.   
