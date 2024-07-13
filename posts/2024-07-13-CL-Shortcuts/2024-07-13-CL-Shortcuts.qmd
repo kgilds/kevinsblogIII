@@ -1,0 +1,18 @@
+---
+title: "CL Shortcuts"
+description: |
+  Playing with the Command Line
+author: Kevn Gilds, MPA
+date: 2024-07-07
+categories:
+
+ - CL
+---
+I tend to forget how to naviagate back a directory in the terminal but today I learned how to navigate back and forth between directories.
+
+``cd -`` will toggle you between directories. 
+`touch` create a new file
+`mv` change name of directory
+
+I working to getting into the habit of using the command line. 
+
