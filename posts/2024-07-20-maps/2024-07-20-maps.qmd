@@ -1,0 +1,90 @@
+---
+title: "Playing with Mapboxer Pkg"
+description: |
+  Playing with the Mapboxer Pkg
+author: Kevn Gilds, MPA
+date: 2024-07-20
+categories:
+
+ - maps
+---
+
+I signed up for a workshop on working with the mapboxer package and wanted to ensure I got it installed on my computer and play with it prior to the workshop.
+
+This blog post is following the guide for the [package](https://cran.r-project.org/web/packages/mapboxer/vignettes/mapboxer.html)
+
+```{r "libaries"}
+#Load the library
+library(mapboxer)
+
+```
+
+The guide uses a pre established data set. Lets take a peak at the data set.
+
+```{r "data"}
+
+head(motor_vehicle_collisions_nyc)
+
+```
+
+### Number of People Injured
+
+```{r "injured_mapped"}
+# Create a source
+motor_vehicle_collisions_nyc %>%
+  dplyr::mutate(color = ifelse(injured > 0, "red", "yellow")) %>%
+  as_mapbox_source(lng = "lng", lat = "lat") %>%
+  # Setup a map with the default source above
+  mapboxer(
+    center = c(-73.9165, 40.7114),
+    zoom = 10
+  ) %>%
+  # Add a navigation control
+  add_navigation_control() %>%
+  # Add a layer styling the data of the default source
+  add_circle_layer(
+    circle_color = c("get", "color"),
+    circle_radius = 3,
+    # Use a mustache template to add popups to the layer
+    popup = "Number of persons injured: {{injured}}"
+  )
+```
+
+### Number of People Killed
+
+```{r "killed_base"}
+
+mapboxer(
+  style = basemaps$Carto$dark_matter,
+  center = c(-73.9165, 40.7114),
+  zoom = 9,
+  minZoom = 8
+)
+
+```
+
+```{r "killed_mapped"}
+
+motor_vehicle_collisions_nyc %>%
+  dplyr::filter(killed > 0) %>%
+  as_mapbox_source() %>%
+  mapboxer(
+    center = c(-73.9165, 40.7114),
+    zoom = 9
+  ) %>%
+  add_circle_layer(circle_color = "red",
+ # Use a mustache template to add popups to the layer
+    popup = "Number of persons killed: {{killed}}"
+  )
+
+```
+
+### Conclusion
+
+The add circle layer part of the code is different from typical R code. The concept is explained in the Experssions part of the guide.
+
+``` {#example .R evaluate="FALSE"}
+expr_get_property <- c("get", "<data-property>")
+```
+
+Overall this looks like a fantastic mapping package.
