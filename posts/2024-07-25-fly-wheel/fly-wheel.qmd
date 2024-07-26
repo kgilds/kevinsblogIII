@@ -1,0 +1,16 @@
+---
+title: Flywheels
+description: |
+   Making Skills look easy
+date: 2024-07-25
+categories:
+- skills
+---
+
+I liked this ([Post](https://seths.blog/2024/07/the-two-bicycle-errors/ "Link to post")). The insight is that we notice when someone is not very good or great at a skill. This may be overstated but there is some truth to it.
+
+The same semantic applies when someone assumes someone was born to code or understands data.
+
+> I can still feel the awkwardness of learning to code–it felt unnatural.
+
+What is great about learning to code/how computers work there is a the flywheel effect in that once you understand something many concepts fall into place.
