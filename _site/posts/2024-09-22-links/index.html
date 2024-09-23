@@ -6,10 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Kevin">
-<meta name="dcterms.date" content="2021-09-24">
+<meta name="author" content="Kevin Gilds, MPA">
+<meta name="dcterms.date" content="2024-09-22">
+<meta name="description" content="Resources">
 
-<title>Communication Toolbox with Shiny – R for Social Good</title>
+<title>Links – R for Social Good</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -118,9 +119,14 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Communication Toolbox with Shiny</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">R</div>
+      <h1 class="title">Links</h1>
+                  <div>
+        <div class="description">
+          Resources
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Links</div>
               </div>
                   </div>
   </div>
@@ -131,14 +137,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Kevin </p>
+               <p>Kevin Gilds, MPA </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 24, 2021</p>
+        <p class="date">September 22, 2024</p>
       </div>
     </div>
     
@@ -157,44 +163,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="the-toolbox" class="level3">
-<h3 class="anchored" data-anchor-id="the-toolbox">The Toolbox🧰</h3>
-<p>Last Wednesday, I presented the <em>User</em> <em>Feedback</em> chapter from <a href="https://mastering-shiny.org/action-feedback.html">Mastering Shiny</a> for Cohort 2 of the book club from <a href="https://r4ds.github.io/bookclub-mshiny/">r4ds</a>. My goal was to emphasize that a shiny application is a communication mechanism and that functions such as:</p>
-<ul>
-<li><p>Validation</p></li>
-<li><p>Notifications</p></li>
-<li><p>Progress Bars</p></li>
-<li><p>Modal Dialogues</p></li>
-</ul>
-<p>are tools in your toolbox to improve the communication between you and your users.</p>
+<section id="weekly-wrap-up" class="level1">
+<h1>Weekly Wrap-up</h1>
+<p>I updated my R version to 4.4.1–I suppressed the pain involved in updates such as re-installing packages. What has been fun is I don’t appear to be able to deploy my Shiny App to ShinyApps.io and it is not clear to me why.</p>
+<section id="items" class="level2">
+<h2 class="anchored" data-anchor-id="items">Items</h2>
+<p>Useful R items:</p>
+<p>I have been waiting for this–How to secure static html files. This link <a href="https://nikitoshina.quarto.pub/quarto_encryption/" class="uri">https://nikitoshina.quarto.pub/quarto_encryption/</a> provides an example on how to do this. The tool to secure the file is JavaScript and it is required to have Node.js installed on your computer. This has the potential to be a game changer.</p>
+<p>Useful R 📦 <a href="https://smach.github.io/newpost/">newpost</a>; it uses the Rstudio API to create a new folder and starts a new post for you. This seems to work a bit better than my add-on.</p>
+<p>Browser based <a href="https://postgres.new/">Postgress</a> database. I am not sure of my use case with this.</p>
 </section>
-<section id="validation" class="level3">
-<h3 class="anchored" data-anchor-id="validation">Validation</h3>
-<p>I depend on the validation function in <code>shiny</code> to communicate to my users when there is no data entry for a given grant or within a given time frame.</p>
-<pre><code>output$grant_level_tbl &lt;- DT::renderDT({
-      tbl &lt;- source_level()
-      if(source_level() %&gt;% nrow() &lt; 1) {
-        validate("Sorry, no data available") ##the order of this matters
-      }
-      tbl &lt;- outcome_tbl(tbl) %&gt;%
-        janitor::adorn_ns() %&gt;%
-      DT::datatable(tbl, rownames = FALSE,
-                    extensions = "Buttons",
-                    options = list(
-                      dom = 'tB',
-                      buttons = c('copy', 'print', 'csv')
-                    ))
-    })</code></pre>
-<p>The source_level() is reactive data and given input there may be hundreds of data points or none. My validation line states if the reactive value has less than 1 row the following message is displayed</p>
-<blockquote class="blockquote">
-<p><em>Sorry, no data available</em>.</p>
-</blockquote>
-<p>This communicates to the program manager that surveys have not been entered yet. Most likely this is expected, but the message communicates that there is no data here to display.</p>
-<p>The alternative to a validation statement is a blank graph canvas and a ugly error message with table the output.</p>
 </section>
-<section id="conclusion" class="level3">
-<h3 class="anchored" data-anchor-id="conclusion">Conclusion</h3>
-<p>I was thinking of the validation function in terms of a practical tool but I see the importance of it as a communication tool as well. What I enjoy most about participating in the book club, is picking up detail and the opportunity for reflection.</p>
+<section id="fin" class="level1">
+<h1>Fin</h1>
+<p>Working to get back in the habit of posting more.</p>
 
 
 </section>

@@ -1,0 +1,25 @@
+---
+title: "Links"
+author: "Kevin Gilds, MPA"
+description: "Resources"
+date: "2024-09-22"
+categories: [Links]
+---
+
+# Weekly Wrap-up
+
+I updated my R version to 4.4.1--I suppressed the pain involved in updates such as re-installing packages. What has been fun is I don't appear to be able to deploy my Shiny App to ShinyApps.io and it is not clear to me why.
+
+## Items
+
+Useful R items:
+
+I have been waiting for this–How to secure static html files. This link <https://nikitoshina.quarto.pub/quarto_encryption/> provides an example on how to do this. The tool to secure the file is JavaScript and it is required to have Node.js installed on your computer. This has the potential to be a game changer.
+
+Useful R 📦 [newpost](https://smach.github.io/newpost/); it uses the Rstudio API to create a new folder and starts a new post for you. This seems to work a bit better than my add-on.
+
+Browser based [Postgress](https://postgres.new/) database. I am not sure of my use case with this.
+
+# Fin
+
+Working to get back in the habit of posting more.
