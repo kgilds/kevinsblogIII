@@ -53,15 +53,15 @@ I am an R/Shiny Developer with expertise in helping nonprofits collect, manage a
 
 <summary>Click to Expand</summary>
 
-Intro to Python \| 2021-08-09 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/python)
+Intro to Python  [Certificate](https://www.kaggle.com/learn/certification/kgilds/python)
 
-Intro to Machine Learning \| 2021-08-10 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/intro-to-machine-learning)
+Intro to Machine Learning [Certificate](https://www.kaggle.com/learn/certification/kgilds/intro-to-machine-learning)
 
-Intermediate Machine Learning \| 2021-08-14 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/intermediate-machine-learning)
+Intermediate Machine Learning  [Certificate](https://www.kaggle.com/learn/certification/kgilds/intermediate-machine-learning)
 
-Feature Engineering \| 2021-09-18 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/feature-engineering)
+Feature Engineering  [Certificate](https://www.kaggle.com/learn/certification/kgilds/feature-engineering)
 
-Pandas \| 2021-09-23 \| [Certificate](https://www.kaggle.com/learn/certification/kgilds/pandas)
+Pandas  [Certificate](https://www.kaggle.com/learn/certification/kgilds/pandas)
 
 </details>
 

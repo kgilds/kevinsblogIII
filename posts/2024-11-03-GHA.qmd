@@ -1,0 +1,24 @@
+---
+title: "Github Actions"
+format: html
+date: 2024-11-03
+categories: GHA
+---
+
+# Introduction
+
+I spent the weekend revisiting how to build a GitHub Action to automatically pull data from Clockify. It was a challenging experience that felt like my first time coding due to a series of small, avoidable mistakes. I had to piece together information from multiple sources and use ChatGPT to get my YAML formatted correctly.
+
+## Learning
+
+The announcement of this [book](https://r-in-production.org/github-actions.html) and its chapter on GitHub Actions inspired me to start this project again. I found this [project workflow](https://github.com/hadley/available-work) especially helpful.
+
+1. One useful takeaway was the idea of using a [DESCRIPTION](https://github.com/hadley/available-work/blob/main/DESCRIPTION) file for projects, even if they're not packages. I used an `renv` workflow, but encountered challenges installing the `Rcpp` package on the remote machine. I wonder if the setup with a DESCRIPTION file might have prevented some of these issues.
+
+2. If you’re writing data to your repository, you need to provide write permissions. GitHub offers a default token (`GITHUB_TOKEN`) for GitHub Actions, which simplifies this process. Initially, I tried using my own PAT, but thanks to ChatGPT, I learned to switch to the default `GITHUB_TOKEN` instead:
+   
+   > **Tip**: GitHub provides a default `GITHUB_TOKEN` for Actions that usually works for most repositories, eliminating the need for a custom PAT. Replace any custom PAT reference in the `git-auto-commit-action` step with `${{ secrets.GITHUB_TOKEN }}`.
+
+## Conclusion
+
+I worked through several challenges, and hopefully, the next time I attempt this, it won’t be quite as difficult.
