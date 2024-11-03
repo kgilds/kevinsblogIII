@@ -4,8 +4,15 @@
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
 
+# Date format
+date-format: "YYYY-MM-DD"
+
 # Enable banner style title blocks
 title-block-banner: true
+
+# Default author
+author:
+  - name: Kevin Gilds, MPA
 
 format:
   html:
