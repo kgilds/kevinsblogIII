@@ -1,0 +1,18 @@
+---
+title: "Test Your SQL"
+format: html
+date: 2024-11-04
+categories: SQL
+---
+
+# Introduction
+
+SQL is on my mind and this looks like an interesting [resource](https://mystery.knightlab.com/) to test those SQL skills. I struggle with new data sets so this may be a good challenge. 
+
+I found the resource from this post on bluesky. 
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:5a3f7iiofypgx5mqbzejok5z/app.bsky.feed.post/3la5llggl5m25" data-bluesky-cid="bafyreihqfk7mr2skvnzbnoykyz5fj4pjxfctsdtmx5l7onggo5s4s33d4i"><p lang="en">Starting my new data analyst job next week and wanted to have a refresh of SQL.
+
+Ran through the SQL Murder Mystery (mystery.knightlab.com) and SQL Island (sql-island.informatik.uni-kl.de).
+
+Nice confidence boost seeing how much quicker and more efficient I was compared to a few months ago<br><br><a href="https://bsky.app/profile/did:plc:5a3f7iiofypgx5mqbzejok5z/post/3la5llggl5m25?ref_src=embed">[image or embed]</a></p>&mdash; Tim (<a href="https://bsky.app/profile/did:plc:5a3f7iiofypgx5mqbzejok5z?ref_src=embed">@talbtree.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:5a3f7iiofypgx5mqbzejok5z/post/3la5llggl5m25?ref_src=embed">November 4, 2024 at 3:46 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
