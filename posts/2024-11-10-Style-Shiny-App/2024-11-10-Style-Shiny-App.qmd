@@ -1,0 +1,20 @@
+---
+title: "Stylying a Shiny App"
+format: html
+date: 2024-11-10
+categories: -Shiny
+            -TIL
+---
+
+I was running into a issue of formatting a shiny application. In a tab panel, the content was running into the left margin. I asked Claude A.I and it gave me 3 options.
+
+I chose the following and it worked like a charm. 
+
+```{r eval=FALSE}
+
+div(
+    style = "margin: 20px;",     # Or use padding: 20px;
+    # Your plots and tables here
+  )
+
+```
