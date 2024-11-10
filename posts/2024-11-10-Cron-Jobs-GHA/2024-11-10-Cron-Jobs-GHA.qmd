@@ -1,0 +1,9 @@
+---
+title: "Cron-Jobs-GHA"
+date: "2024-11-10"
+category: "GHA"
+---
+
+I scheduled my first GHA with a cron job. The idea was to set it for 5:00 am every Sunday.
+
+I was happy this morning that my GHA ran but was surprised that it ran early than expected. I realized that I need to factor in time zones and that my schedule was set for UTC. Claude A.I. was able to help me reset it for Eastern Standard time.
