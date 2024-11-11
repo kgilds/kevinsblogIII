@@ -1,0 +1,29 @@
+---
+title: All Equal()
+date: 2024-11-11
+category:
+    -TLI
+---
+
+Today I need to find a difference between two data frames. Actually, I had to split the data frame and find the difference between two survey entries.
+
+```{r, eval=FALSE}
+
+## Create lists
+df_list <- split(dupes, dupes$response_id)
+
+
+### Split the list as save a data frame
+df_1 <- as.tibble(df_list[1])
+
+df_2 <- as.tibble(df_list[2])
+
+```
+
+```{r,eval=FALSE}
+
+
+all.equal(df_1, df_2)
+```
+
+Compares the date frame and I could easily tell there were many differences between these two entries. If I had time I would use fake data. Here is the 📦[documentation](http://web.mit.edu/r/current/lib/R/library/base/html/all.equal.html)

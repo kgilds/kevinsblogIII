@@ -1,0 +1,15 @@
+{
+  "hash": "4a30e55405eab852cd3f35bac3554a70",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: All Equal()\ndate: 2024-11-11\ncategory:\n    -TLI\n---\n\n\n\n\n\nToday I need to find a difference between two data frames. Actually, I had to split the data frame and find the difference between two survey entries.\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n## Create lists\ndf_list <- split(dupes, dupes$response_id)\n\n\n### Split the list as save a data frame\ndf_1 <- as.tibble(df_list[1])\n\ndf_2 <- as.tibble(df_list[2])\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nall.equal(df_1, df_2)\n```\n:::\n\n\n\n\n\nCompares the date frame and I could easily tell there were many differences between these two entries. If I had time I would use fake data. Here is the 📦[documentation](http://web.mit.edu/r/current/lib/R/library/base/html/all.equal.html)",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
