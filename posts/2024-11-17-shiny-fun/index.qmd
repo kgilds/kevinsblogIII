@@ -1,0 +1,28 @@
+---
+title: "Shiny Fun"
+description: "Styling a Shiny App"
+date: "2024-11-17"
+categories: ["Shiny", "TLI"]
+---
+
+I was working on new section of a Shiny Application and wanted to put two tables side by side without creating a new box within the tabpanel.
+
+My random idea was just two insert a column function in the box; however, when I added the column I received an error. I added two columns but the tables were still stacking on top of each within the row. Clause AI suggested to wrap the two column in a fluidRow statement and it worked like a charm.
+
+```{r eval=FALSE}
+
+
+ fluidRow(  # Add this fluidRow
+      column(
+        width = 6,
+        h3("Pre Outcome Site Report"),
+        gt::gt_output(ns("pre_site_report_23"))
+      ),
+      
+      column(
+        width = 6,
+        h3("Pre Process Site Report"),
+        gt::gt_output(ns("pre_site_process_report_23"))
+      )
+    )  # Close the fluidRow
+```
