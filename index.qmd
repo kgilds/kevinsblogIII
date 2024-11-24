@@ -13,6 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/kgilds
+      text: rss
+      href: index.xml
 ---
 
 # Kevin Gilds
@@ -57,11 +59,11 @@ Intro to Python  [Certificate](https://www.kaggle.com/learn/certification/kgild
 
 Intro to Machine Learning [Certificate](https://www.kaggle.com/learn/certification/kgilds/intro-to-machine-learning)
 
-Intermediate Machine Learning  [Certificate](https://www.kaggle.com/learn/certification/kgilds/intermediate-machine-learning)
+Intermediate Machine Learning [Certificate](https://www.kaggle.com/learn/certification/kgilds/intermediate-machine-learning)
 
-Feature Engineering  [Certificate](https://www.kaggle.com/learn/certification/kgilds/feature-engineering)
+Feature Engineering [Certificate](https://www.kaggle.com/learn/certification/kgilds/feature-engineering)
 
-Pandas  [Certificate](https://www.kaggle.com/learn/certification/kgilds/pandas)
+Pandas [Certificate](https://www.kaggle.com/learn/certification/kgilds/pandas)
 
 </details>
 
