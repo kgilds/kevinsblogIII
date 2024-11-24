@@ -3,6 +3,8 @@ project:
 
 website:
   title: "R for Social Good"
+  site-url: https://kgilds.rbind.io/
+  description: "Kevin's notebook"
   navbar:
     right:
       - text: Blog
