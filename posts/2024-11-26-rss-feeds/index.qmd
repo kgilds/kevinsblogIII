@@ -1,0 +1,43 @@
+---
+title: "RSS Feeds"
+description: "Setting Up an RSS feed for this site"
+date: "2024-11-26"
+categories: [RSS]
+---
+
+I use newsboat and Feeder as RSS services and wanted to add this blog. I determined I needed to touch up the settins my website to accomplish this task.
+
+Guidance could be found here at the [Quarto Website](https://quarto.org/docs/websites/website-blog.html#rss-feed "Find more information")
+
+I needed to add this to my quarto yaml.
+
+```{r, eval= FALSE}
+website:
+  title: "myblog"
+  site-url: https://www.myblogexample.io
+  description: "A great sample blog"
+  navbar:
+    right:
+      - icon: rss
+        href: index.xml
+```
+
+-   Please note I needed to reference blog.xml rather than index.xml
+
+Below needed to be added to main index.qmd file.
+
+```{r, eval=FALSE}
+
+---
+title: "myblog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+---
+
+```
+
+I have been using Positron and noticed it is a bit different workflow and its confusing because after a preview I can push new content. I noticed my feed was not being created. I went back to Rstudio to rebuild the site. After, I rebuilt in Rstudio my feed was created and I could subscribe to my own content.
