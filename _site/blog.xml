@@ -10,7 +10,30 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 26 Nov 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 Nov 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Elmer</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin Gilds</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2024-11-30-elmer/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This <a href="https://elmer.tidyverse.org/articles/elmer.html" title="Open article on Elmer Package">Article</a> is a good primer on the structure of LLMs and use cases.</p>
+<p>For me, the gap between the idea and production is speeding up for a Shiny Application that I maintain–thanks to LLMs.</p>
+<p>I wanted to improve a section in my application that displayed the count of surveys entered by site. My prompt for <a href="https://gallery.shinyapps.io/assistant/?_gl=1*1yy4j8k*_ga*NTYyNzc4MjY2LjE2OTkwMDYzNDY.*_ga_2C0WZ1JHG0*MTczMjk4MDgwMC42MS4wLjE3MzI5ODA4MDAuMC4wLjA.#" title="Open website to Shiny Assistant">Shiny Assistant</a> was not great and got this <a href="https://shinylive.io/r/app/#code=NobwRAdghgtgpmAXGKAHVA6ASmANGAYwHsIAXOMpMAGwEsAjAJykYE8AKAZwAtaJWAlAB0IdJiw4BzUsNENmbdgBNU1Vo1liFHepzGyRAYgAEAZViq4xpVFJRjAWmOM4qqASulenYwHdaXsasRACujMbupCFQ1Na2UCI2dsYAPE5JUBgAZszw7CLGxpLMZMYAvMYE+WAA4iWkxgCCQnjGLXVQpQBCLbhttfXGPa3tg80jA50NAMItArgFxpwBVhVVLaYrxgCMvf2b5MYATHsbW7sTB1YAzKdgV8dzCxCFL2vs2wAMfdsArH0ADh+Rz6AE5ZAYICFaKknKgoJI4AB9ZZKOD0Fj5F7GLxweDlYy6JG4vL0IhEUicXy2AjcAktGB8UisJ6LUgBairfodUoPRrQNTLTi9Rao9EsAlijGMLGFQrs0ic+lgAAqUHoSoA8qh2SRhXhFoVaXACABrMkADwAkhBUCFSNUeERfCiQjAYBI7qZuM6zG6PWwzHZ2Zx2QR9X0VVgAKoAUXmhqWcE5BFINrtDpaxGoREYSPhnNI5Du0yIOfCKu4eLgIuxcsqPtoHh87xaXWoITgEe5Lgo3ZaAAUwpZ+2BNSVEfqE3W5ZxkybyEple3O-rE7JCtOjSwlLK5QQd0iq1A0TLRlMzFsACK0UOMBj22gkVkz6RI0KkDPVYpTYnqzlzIsEIiCIc6MAAbnA4RpMYWQhBAqZPhA7B8BmfQfhmAjGCAiwYfaAAkP5kH+GpWDBLgQKeSLSOwOEziYA6MEQzY+LicR2ImdikUiGSwux9gAKQAHwCYmhTFKEqBIvQUj1FhwmiTOhQwPathwOwpAUjE0msNRgwVJwbrsBAAjySJYnGPBEkhKg7AbnKiYmNMLhqTiVbGDUKo4v+NavqQxIanxXGcjx8TGApFk0WZin1vK6pHnAJ5QXusU4hyXIwLuLQAFTZQ8N53g+uovDJHn1LlL6pYUhn0AqSoVC0ABybr0FBxhEFkxjwowYa0PCZA+O4TGcD4Si0FkWRQRQDTLOQa5KcY0UWdmnBItQ6rJilsVEQ0DWTKUjWwDWBoLdVWx7Q8AAyzG2EhtZVcYbz9KW8GkPdVWaXY1A6XpF57SqWmxDyMyhGQLQWUtC1cSizKclt9ahqw9WVMm33kBaDq+HAtCSNwu39GS1BKJVVU5gexUtij1DUKt2ZuhAa0bTTdkQ+F5lQ-FiNwxZ1Ww1yHjU0iWS0NT7DZrmyp0LjpA-iyYBbqTN0UwSAs00idMwAz62tcz9n1nrbT0U0ShLoZ7oSEswa3mGPjjUmKaLomdsobaBFOi6ZsBoI2GRf5pCBTBb7+7EEWnUs-oSEiTG+Jw8PbUxNmU1GcbPA9RplvTlNVCZqdp1kECU3QoZx6lLQA19LQEgAfmb7AYH00AYIwMAEsn8a52n-SNJBzCIpXFRVwnlHsPAnR1w3mTN63MbtzsBupfPcoGwAvomjlNOgaiVGWEskr59ZBwHTiHyH7OpRk6s72eYcawXKvGX0n3aTJv1kArqXwF4RBLntULwPeBB3qpQLHAIsXJUIEXFnmEBYCIZrz8gFagixl6yFXhAUCvB+CNHQOwaEfQwI91kGAZeABdIAA" title="Open Toy Application created by Shiny Assistant">Toy Application</a>. Did I replicate this? No but it set me in motion on what could be done.</p>
+
+
+
+ ]]></description>
+  <category>LLM</category>
+  <category>Shiny</category>
+  <guid>https://kgilds.rbind.io/posts/2024-11-30-elmer/</guid>
+  <pubDate>Sat, 30 Nov 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>RSS Feeds</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -941,26 +964,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-Quality, Checklists</category>
   <guid>https://kgilds.rbind.io/posts/2024-02-25-quality-control/</guid>
   <pubDate>Sun, 25 Feb 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mermaid Diagrams</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-02-12-mermaid-diagrams/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I have been charged with documenting processes and have been using Mermaid. The documentation is <a href="https://mermaid.js.org/">here</a> and what is cool is there a Live Editor.</p>
-
-
-
- ]]></description>
-  <category>-Process Documentation</category>
-  <guid>https://kgilds.rbind.io/posts/2024-02-12-mermaid-diagrams/</guid>
-  <pubDate>Mon, 12 Feb 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
