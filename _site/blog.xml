@@ -9,8 +9,36 @@
 <link>https://kgilds.rbind.io/blog.html</link>
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
-<generator>quarto-1.5.56</generator>
-<lastBuildDate>Sat, 30 Nov 2024 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Sun, 08 Dec 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Saved by Qualtrics Version Control</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin Gilds</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>By saved, I mean being able to revert back a survey saved me countless hours as I could have lost around 96 points of display logic. One night this week, I was adding another display logic point and Qualtrics was acting funny and by funny I mean determining that all my previous display logic was no longer valid.</p>
+<p>I thought this cant’ be serious and when I previewed my survey; I knew the situation was dire. Thankfully, I recalled Qualtrics has Version history and I was able to revert my survey to a point where all the display logic was working correctly.</p>
+<p>Here the general steps to revert a survey back to a working version.</p>
+<p>1). While in Survey Builder</p>
+<p>2). Go to Tools</p>
+<p>3). Select Versions</p>
+<p>4.) Find the point where the survey was how you need it.</p>
+<p>Once I reverted the survey back to an acceptable state, I added the new display logic. I am now very thankful for the survey version feature.</p>
+
+
+
+ ]]></description>
+  <category>Qualtrics</category>
+  <category>Verison Control</category>
+  <guid>https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/</guid>
+  <pubDate>Sun, 08 Dec 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Elmer</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -937,33 +965,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-Sanity</category>
   <guid>https://kgilds.rbind.io/posts/2024-03-02-calendar--to-do-list/</guid>
   <pubDate>Sat, 02 Mar 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quality Control</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-02-25-quality-control/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I appreciate this <a href="https://theevergreenempire.com/quality-control/">blog post</a> about quality control.</p>
-<p>An important gist of the article is to not just have standards documented but to communicate and train on them.</p>
-<p>Evergreen finishes her blog post with this sentence:</p>
-<blockquote class="blockquote">
-<p>Consistent high-quality work is a result of quality control measures.</p>
-</blockquote>
-<p>My takeaway quality control needs to be a system/process.</p>
-<p>While I personally utilize checklists, I am uncertain whether we are effectively communicating and training our subcontractors on these standards. The hope that this would create an effective feedback loop.</p>
-
-
-
- ]]></description>
-  <category>-Quality, Checklists</category>
-  <guid>https://kgilds.rbind.io/posts/2024-02-25-quality-control/</guid>
-  <pubDate>Sun, 25 Feb 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

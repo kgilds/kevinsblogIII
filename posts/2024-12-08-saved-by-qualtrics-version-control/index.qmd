@@ -1,0 +1,23 @@
+---
+title: "Saved by Qualtrics Version Control"
+author: "Kevin Gilds"
+description: "Revert Qualtrics Survey to earlier point"
+date: "2024-12-08"
+categories: ["Qualtrics", "Verison Control"]
+---
+
+By saved, I mean being able to revert back a survey saved me countless hours as I could have lost around 96 points of display logic. One night this week, I was adding another display logic point and Qualtrics was acting funny and by funny I mean determining that all my previous display logic was no longer valid.
+
+I thought this cant' be serious and when I previewed my survey; I knew the situation was dire. Thankfully, I recalled Qualtrics has Version history and I was able to revert my survey to a point where all the display logic was working correctly.
+
+Here the general steps to revert a survey back to a working version.
+
+1). While in Survey Builder
+
+2). Go to Tools
+
+3). Select Versions
+
+4.) Find the point where the survey was how you need it.
+
+Once I reverted the survey back to an acceptable state, I added the new display logic. I am now very thankful for the survey version feature.
