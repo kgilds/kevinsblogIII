@@ -10,7 +10,51 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sun, 08 Dec 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Customize Shiny Manger Log In Screen</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin Gilds</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-01-05-customize-shiny-manger-log-in-screen/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I use <a href="https://datastorm-open.github.io/shinymanager/" style="blue" title="Click to go to the package">Shiny Manager Package</a> to provide basic authentication for a Shiny App. This post is about the customizing the style the log in page.</p>
+<p>Many years ago, I received feedback with the suggestion to change the default message. However, I could not figure out how to make this change.</p>
+<p>However, I took another stab at it and was able to figure it out with the help of Claude.ai. I</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">shinymanager<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">set_labels</span>(</span>
+<span id="cb1-2">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">language =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"en"</span>,</span>
+<span id="cb1-3">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Please authenticate"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Please log in"</span></span>
+<span id="cb1-4">)</span></code></pre></div>
+</div>
+<p>The required change was easy but not obvious to me. I placed this code in the run_app.R function in my Shiny Application</p>
+
+
+
+ ]]></description>
+  <category>Shiny</category>
+  <category>Claude-AI</category>
+  <guid>https://kgilds.rbind.io/posts/2025-01-05-customize-shiny-manger-log-in-screen/</guid>
+  <pubDate>Sun, 05 Jan 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Saved by Qualtrics Version Control</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -939,32 +983,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-Hack</category>
   <guid>https://kgilds.rbind.io/posts/2024-03-17-hotel-internet/</guid>
   <pubDate>Sun, 17 Mar 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Calendar &amp; To Do List</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-03-02-calendar--to-do-list/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a useful <a href="https://theevergreenempire.com/%f0%9f%91%af%e2%99%80%ef%b8%8f-calendar-to-do-list-%f0%9f%91%af%e2%99%80%ef%b8%8f/">blog post</a> about matching up one’s calendar and to do list.</p>
-<p>I appreciated the idea of doing this activity on a schedule thereby making it a process. Another takeaway it to identify opportunities to batch tasks.</p>
-<section id="ps" class="level3">
-<h3 class="anchored" data-anchor-id="ps">PS</h3>
-<p>I had Chat-GPT offer suggestions on my blog post. The response may have been too good. I did not feel comfortable posting as my work and it felt like stealing content idea. However, I think I may use it as a springboard. Here is the link to the output.</p>
-<p><a href="https://chat.openai.com/share/125382ab-dd9f-4088-aa20-0ba6e4c1303b" class="uri">https://chat.openai.com/share/125382ab-dd9f-4088-aa20-0ba6e4c1303b</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>-Sanity</category>
-  <guid>https://kgilds.rbind.io/posts/2024-03-02-calendar--to-do-list/</guid>
-  <pubDate>Sat, 02 Mar 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

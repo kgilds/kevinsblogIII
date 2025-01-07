@@ -1,0 +1,22 @@
+---
+title: "Customize Shiny Manger Log In Screen"
+author: "Kevin Gilds"
+description: "Steps to customize Shiny Manger log in page"
+date: "2025-01-05"
+categories: [Shiny, Claude-AI]
+---
+
+I use [Shiny Manager Package](https://datastorm-open.github.io/shinymanager/ "Click to go to the package"){style="blue"} to provide basic authentication for a Shiny App. This post is about the customizing the style the log in page.
+
+Many years ago, I received feedback with the suggestion to change the default message. However, I could not figure out how to make this change.
+
+However, I took another stab at it and was able to figure it out with the help of Claude.ai. I
+
+```{r eval=FALSE}
+shinymanager::set_labels(
+    language = "en",
+    "Please authenticate" = "Please log in"
+)
+```
+
+The required change was easy but not obvious to me. I placed this code in the run_app.R function in my Shiny Application

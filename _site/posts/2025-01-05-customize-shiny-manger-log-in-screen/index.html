@@ -6,10 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="kevin">
-<meta name="dcterms.date" content="2021-10-30">
+<meta name="author" content="Kevin Gilds">
+<meta name="dcterms.date" content="2025-01-05">
+<meta name="description" content="Steps to customize Shiny Manger log in page">
 
-<title>File-Paths – R for Social Good</title>
+<title>Customize Shiny Manger Log In Screen – R for Social Good</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -128,9 +163,15 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">File-Paths</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">R</div>
+      <h1 class="title">Customize Shiny Manger Log In Screen</h1>
+                  <div>
+        <div class="description">
+          Steps to customize Shiny Manger log in page
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Shiny</div>
+                <div class="quarto-category">Claude-AI</div>
               </div>
                   </div>
   </div>
@@ -141,14 +182,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>kevin </p>
+               <p>Kevin Gilds </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">2021-10-30</p>
+        <p class="date">2025-01-05</p>
       </div>
     </div>
     
@@ -167,18 +208,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<blockquote class="blockquote">
-<p>Not that file paths come up in polite conversations.</p>
-</blockquote>
-<p>I had forgotten about the <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z">article</a> but it was recently brought up on the Standard Deviations podcast.</p>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-</p><p>Hilary is giving out questionable career advice in the latest episode of <a href="https://twitter.com/NSSDeviations?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NSSDeviations">@NSSDeviations</span></a>.<br><br>To launch the segment, we’re discussing: How do you know if a company has a good data science culture?<a href="https://t.co/SuRQDaQBlj">https://t.co/SuRQDaQBlj</a></p>
-<p></p>
-<p>— Roger D. Peng (<span class="citation" data-cites="rdpeng">@rdpeng</span>) <a href="https://twitter.com/rdpeng/status/1454154860941746177?ref_src=twsrc%5Etfw">October 29, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Excluding people I have met at an R-user group, I know two people who understand file paths.</p>
+<p>I use <a href="https://datastorm-open.github.io/shinymanager/" style="blue" title="Click to go to the package">Shiny Manager Package</a> to provide basic authentication for a Shiny App. This post is about the customizing the style the log in page.</p>
+<p>Many years ago, I received feedback with the suggestion to change the default message. However, I could not figure out how to make this change.</p>
+<p>However, I took another stab at it and was able to figure it out with the help of Claude.ai. I</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>shinymanager<span class="sc">::</span><span class="fu">set_labels</span>(</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="at">language =</span> <span class="st">"en"</span>,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Please authenticate"</span> <span class="ot">=</span> <span class="st">"Please log in"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>The required change was easy but not obvious to me. I placed this code in the run_app.R function in my Shiny Application</p>
 
 
 

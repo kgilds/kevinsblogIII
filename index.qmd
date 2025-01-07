@@ -4,9 +4,11 @@ image: profile.jpg
 about:
   template: solana
   links:
-    - icon: mastodon
+    - icon: mastadon
       text: Mastodon
       href: https://mastodon.social/@kevin_gilds
+    - text: Bluesky
+      href: https://bsky.app/profile/kgilds.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/kevingilds/

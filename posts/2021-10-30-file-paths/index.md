@@ -24,6 +24,8 @@ Hilary is giving out questionable career advice in the latest episode of <a href
 
 </blockquote>
 
+```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 Excluding people I have met at an R-user group, I know two people who understand file paths.

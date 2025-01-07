@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>https://kgilds.rbind.io/index.html</loc>
-    <lastmod>2024-11-24T14:57:59.744Z</lastmod>
+    <lastmod>2024-12-29T16:12:22.538Z</lastmod>
   </url>
   <url>
     <loc>https://kgilds.rbind.io/posts/2023-02-21-email-on-edit/index.html</loc>
@@ -422,7 +422,7 @@
   </url>
   <url>
     <loc>https://kgilds.rbind.io/posts/2021-10-30-file-paths/index.html</loc>
-    <lastmod>2024-11-10T16:01:09.464Z</lastmod>
+    <lastmod>2024-12-24T11:36:14.295Z</lastmod>
   </url>
   <url>
     <loc>https://kgilds.rbind.io/posts/2023-02-18-goals/index.html</loc>
@@ -454,7 +454,7 @@
   </url>
   <url>
     <loc>https://kgilds.rbind.io/blog.html</loc>
-    <lastmod>2024-11-24T14:13:39.115Z</lastmod>
+    <lastmod>2024-12-24T11:36:14.427Z</lastmod>
   </url>
   <url>
     <loc>https://kgilds.rbind.io/projects/index.html</loc>
@@ -471,5 +471,9 @@
   <url>
     <loc>https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/index.html</loc>
     <lastmod>2024-12-08T13:12:11.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kgilds.rbind.io/posts/2025-01-05-customize-shiny-manger-log-in-screen/index.html</loc>
+    <lastmod>2025-01-07T01:23:25.728Z</lastmod>
   </url>
 </urlset>
