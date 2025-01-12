@@ -10,7 +10,31 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sun, 05 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Knowledge Work</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin </dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-01-12-knowledge-work/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This <a href="https://www.threads.net/@raytray4/post/DEuga8yxHfP">Post</a> quote captures my work. I wish I could embed the post.</p>
+<blockquote class="blockquote">
+<p>I see knowledge work as sophisticated decision making weighing trade offs of unpredictable outcomes judged by irrational humans who disagree with you and each other.</p>
+</blockquote>
+<p>Our agency has to set up other agencies and individual to do their piece of the puzzle well; the manual can’t cover everything and there are often irrational humans involved. When there is disagreement there needs to be negotiation.</p>
+
+
+
+ ]]></description>
+  <category>Decision Making</category>
+  <guid>https://kgilds.rbind.io/posts/2025-01-12-knowledge-work/</guid>
+  <pubDate>Sun, 12 Jan 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Customize Shiny Manger Log In Screen</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -961,28 +985,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-Data Management</category>
   <guid>https://kgilds.rbind.io/posts/2024-03-30-purpose-of-this-data/</guid>
   <pubDate>Sat, 30 Mar 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Hotel Internet</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-03-17-hotel-internet/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I attended the 2024 National Self-Direction Conference this week. I brought my Chromebook, and I struggled to get to the “Captive Internet Portal.”</p>
-<p>Quick internet search (using mobile) help me uncover this <a href="https://support.google.com/chromebook/thread/167146280/captive-portal-authorization?hl=en">page</a> with some helpful hints</p>
-<p>Basically type in <a href="http://neverssl.com/" class="uri">http://neverssl.com/</a> and that prompts that captive portal to open. I had to use this trick while at the Airport on the return flight home.</p>
-
-
-
- ]]></description>
-  <category>-Hack</category>
-  <guid>https://kgilds.rbind.io/posts/2024-03-17-hotel-internet/</guid>
-  <pubDate>Sun, 17 Mar 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
