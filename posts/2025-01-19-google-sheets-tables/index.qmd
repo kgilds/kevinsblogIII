@@ -1,0 +1,19 @@
+---
+title: "Google Sheets Tables"
+author: "Kevin"
+description: "Working with Google Sheets Tables"
+date: "2025-01-19"
+categories: [Google Sheets]
+---
+
+At my day job, I have been incorporating tables with my Google Sheets. I like the setup and the aesthetic of the table format. I wanted to brush up on how to analyze the data from a table. My favorite Google Sheets YouTuber has a video and I highly recommend his other videos.
+
+```         
+{{< video https://www.youtube.com/embed/L9PHJD0Wqfc?si=gO4WSW5oJWFf1Ygm
+
+>}}
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9PHJD0Wqfc?si=gO4WSW5oJWFf1Ygm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>

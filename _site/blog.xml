@@ -10,7 +10,30 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sun, 12 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Google Sheets Tables</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin </dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-01-19-google-sheets-tables/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>At my day job, I have been incorporating tables with my Google Sheets. I like the setup and the aesthetic of the table format. I wanted to brush up on how to analyze the data from a table. My favorite Google Sheets YouTuber has a video and I highly recommend his other videos.</p>
+<pre><code></code></pre>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9PHJD0Wqfc?si=gO4WSW5oJWFf1Ygm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+
+
+
+ ]]></description>
+  <category>Google Sheets</category>
+  <guid>https://kgilds.rbind.io/posts/2025-01-19-google-sheets-tables/</guid>
+  <pubDate>Sun, 19 Jan 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Knowledge Work</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -947,44 +970,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-API, Plumber, Workflow</category>
   <guid>https://kgilds.rbind.io/posts/2024-05-18-plumber-fun/</guid>
   <pubDate>Sat, 18 May 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Purpose of this data?</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-03-30-purpose-of-this-data/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>This <a href="https://www.caitlinhudon.com/posts/2020/09/16/data-intake-form">post</a> on Data Intake Forms is insightful and useful.</p>
-<p>Insights:</p>
-<p>The article serves as a catalyst for critical thinking about data inquiries, offering a framework that encourages individuals to ponder their data-related queries more deeply. The subheading, “A little friction can go a long way,” resonates particularly, highlighting the necessity of thoughtful consideration rather than hastily formulated requests. It acknowledges the common tendency to opt for convenience over precision but emphasizes that these forms should initiate conversations rather than act as barriers.</p>
-<p>Moreover, the parallels drawn between data intake and debugging underscore the significance of thoroughness in both processes.</p>
-<p>The article presents thought-provoking questions, such as:</p>
-<ul>
-<li><p>What decision or action will you take with this data?</p></li>
-<li><p>What is the real problem you are trying to solve?</p></li>
-<li><p>Who will see this deliverable?</p></li>
-<li><p>Will this deliver business value in 90 days?</p></li>
-</ul>
-<p>These questions serve as valuable checkpoints, ensuring that data collection aligns with strategic objectives and generates actionable insights.</p>
-<section id="additional-resources" class="level3">
-<h3 class="anchored" data-anchor-id="additional-resources">Additional Resources</h3>
-<p>The article also pointed me towards the <a href="https://handbook.gitlab.com/handbook/business-technology/data-team/">Git Lab Data Handbook</a>. This handbook serves as a practical guide, offering insights into effective data management practices.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>-Data Management</category>
-  <guid>https://kgilds.rbind.io/posts/2024-03-30-purpose-of-this-data/</guid>
-  <pubDate>Sat, 30 Mar 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
