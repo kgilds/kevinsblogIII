@@ -8,7 +8,7 @@ categories: [Process Culture]
 
 More or less process needed?
 
-This [post](https://seths.blog/2025/01/building-a-process-culture/?) from Seth Godin has some key quotes for me to think about. At first, I thought it was a justification for process culture, but not exactly. There is more nuance in that being 100% focused on process may not produce breakthroughs, but an organization without any process will flame out.
+This [post](https://seths.blog/2025/01/building-a-process-culture/?)eevie from Seth Godin has some key quotes for me to think about. At first, I thought it was a justification for process culture, but not exactly. There is more nuance in that being 100% focused on process may not produce breakthroughs, but an organization without any process will flame out.
 
 > Process is the investment we make in inefficiency *now* to prevent errors from costing us *later*.
 

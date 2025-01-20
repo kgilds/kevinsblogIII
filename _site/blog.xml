@@ -10,7 +10,32 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sun, 19 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Process Culture</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin </dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-01-20-process-culture/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>More or less process needed?</p>
+<p>This <a href="https://seths.blog/2025/01/building-a-process-culture/?">post</a> from Seth Godin has some key quotes for me to think about. At first, I thought it was a justification for process culture, but not exactly. There is more nuance in that being 100% focused on process may not produce breakthroughs, but an organization without any process will flame out.</p>
+<blockquote class="blockquote">
+<p>Process is the investment we make in inefficiency <em>now</em> to prevent errors from costing us <em>later</em>.</p>
+</blockquote>
+<p>Godin provides the example of an emergency room; it is process-focused but not very efficient, but the system does not rely on good luck.</p>
+
+
+
+ ]]></description>
+  <category>Process Culture</category>
+  <guid>https://kgilds.rbind.io/posts/2025-01-20-process-culture/</guid>
+  <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Google Sheets Tables</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -931,45 +956,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-Chat-GPT</category>
   <guid>https://kgilds.rbind.io/posts/2024-05-27-markdown-code-to-r-script/</guid>
   <pubDate>Mon, 27 May 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Plumber Fun</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-05-18-plumber-fun/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
-<p>I received an interesting data request and noted this would make a useful endpoint on the API.</p>
-<p>The first victory was first addressing and completing the request before finding a way to automate the process.</p>
-<p>The second victory was getting the end point to work after testing the function.</p>
-<p>However, when I tried to test out the endpoint again it stopped working. i was receiving a 404 error non response. This did not make sense as the other endpoints were working fine.</p>
-<section id="troubleshooting-steps" class="level2">
-<h2 class="anchored" data-anchor-id="troubleshooting-steps">Troubleshooting Steps</h2>
-<ol type="1">
-<li><p>Restart R</p></li>
-<li><p>Restart computer</p></li>
-<li><p>Compare other functions in the plumber function.</p></li>
-</ol>
-<p>I started to suspect the issue was in my filter function. I am still not clear on the reason but Chat GPT game some suggestions on my code. Straight up it started working after I took the suggestions.</p>
-<section id="chat-gpt" class="level3">
-<h3 class="anchored" data-anchor-id="chat-gpt">Chat GPT</h3>
-<p>Here is the link to the <a href="https://chatgpt.com/share/acf6ffc5-bb91-4909-8e25-581c192cbf4a">chat</a></p>
-
-
-</section>
-</section>
-</section>
-
- ]]></description>
-  <category>-API, Plumber, Workflow</category>
-  <guid>https://kgilds.rbind.io/posts/2024-05-18-plumber-fun/</guid>
-  <pubDate>Sat, 18 May 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
