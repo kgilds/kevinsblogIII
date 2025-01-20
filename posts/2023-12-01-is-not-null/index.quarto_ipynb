@@ -1,0 +1,54 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Is Not Null\"\n",
+        "description: |\n",
+        "  Is Not Null Explanation\n",
+        "author: Kevn Gilds, MPA\n",
+        "date: 2023-12-01\n",
+        "categories:\n",
+        " -SQL\n",
+        " -MS Access\n",
+        "---\n",
+        "\n",
+        "\n",
+        "# TIL\n",
+        "\n",
+        "It's true, I had an MS Access Question. I could not figure out my `Is Not Null` criteria was not working. This [post](https://answers.microsoft.com/en-us/msoffice/forum/all/query-with-is-not-null-criteria-not-working/8f141b57-f548-46ea-b67b-03fcd4366b98) explained it what was happening and way to resolve it.\n",
+        "\n",
+        "\n",
+        "```{sql, eval= FALSE}\n",
+        "\n",
+        "\n",
+        "Len([Name_Full] & \"\")=0\n",
+        "\n",
+        "```\n",
+        "\n",
+        "\n",
+        "In my case, I wanted to exclude the null values\n",
+        "\n",
+        "\n",
+        "```{sql, eval = FALSE}\n",
+        "Len([Name_Full] & \"\")>1\n",
+        "```\n",
+        "\n",
+        "\n",
+        "# Fin"
+      ],
+      "id": "a200e23a"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
