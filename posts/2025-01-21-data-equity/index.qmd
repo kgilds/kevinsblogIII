@@ -1,0 +1,9 @@
+---
+title: "Data Equity"
+author: "Kevin"
+description: "Weekly drop in conversations regarding data equity"
+date: "2025-01-21"
+categories: [Data Equity]
+---
+
+I learned about this [Series](https://weallcount.com/talking-data-equity/) last week and looks like a great opportunity for professional development.

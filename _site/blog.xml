@@ -10,7 +10,27 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 20 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Equity</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin </dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-01-21-data-equity/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I learned about this <a href="https://weallcount.com/talking-data-equity/">Series</a> last week and looks like a great opportunity for professional development.</p>
+
+
+
+ ]]></description>
+  <category>Data Equity</category>
+  <guid>https://kgilds.rbind.io/posts/2025-01-21-data-equity/</guid>
+  <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Process Culture</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -931,31 +951,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>-Life</category>
   <guid>https://kgilds.rbind.io/posts/2024-06-15-apologies/</guid>
   <pubDate>Sat, 15 Jun 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Markdown Code to R script</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-05-27-markdown-code-to-r-script/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="this-worked" class="level1">
-<h1>This worked</h1>
-<p>I needed to grab the code out of a markdown document and I had a sense that there was function for this. However, there is a function to take to convert an R script to an Rmarkdown document. It is the <code>spin</code> function. Here was my <a href="https://deanattali.com/2015/03/24/knitrs-best-hidden-gem-spin/">introduction</a> to the function.</p>
-<p>I am not sure if there is function to do the reverse.</p>
-<p>Anyway Chat-GPT created a script for me to use and it worked perfect. Here is the script link to the <a href="https://chatgpt.com/share/f8e56da6-13d7-4f12-8b67-a50346f85b35">chat</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>-Chat-GPT</category>
-  <guid>https://kgilds.rbind.io/posts/2024-05-27-markdown-code-to-r-script/</guid>
-  <pubDate>Mon, 27 May 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
