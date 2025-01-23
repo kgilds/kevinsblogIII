@@ -1,0 +1,73 @@
+---
+title: "An OJS Primer"
+author: "Kevin"
+description: "Trying OJS"
+date: "2025-01-22"
+categories: [OJS]
+---
+
+Okay, I need the primer on [OJS](https://observablehq.com/); I liked the flexibility of setting up the input values but I am not feeling the syntax of the plots.
+
+This [Repo](https://github.com/melissavanbussel/spotify-dashboard/blob/main/dashboard.qmd) helped me figure out setting up the input values using a data frame including correcting converting the data. [The quarto page](https://quarto.org/docs/dashboards/interactivity/observable.html) helped me figure out how to filter the data.
+
+Claude provided a conversion steps from ggplot2 to Observable JS plot.
+
+> Yes, you can convert a ggplot2 script to an Observable JS plot. Here's an approach to translate ggplot2 concepts to Observable JS using the Plot library:
+>
+> ``` javascript
+> import * as Plot from "@observablehq/plot";
+>
+> // Assuming similar data structure to R/ggplot2
+> const data = [
+>   {category: "A", value: 10},
+>   {category: "B", value: 15},
+>   {category: "C", value: 12}
+> ];
+>
+> // Equivalent to ggplot(data, aes(x=category, y=value)) + geom_bar(stat="identity")
+> const barPlot = Plot.plot({
+>   marks: [
+>     Plot.barY(data, {
+>       x: "category", 
+>       y: "value",
+>       fill: "category"
+>     })
+>   ],
+>   x: {label: "Category"},
+>   y: {label: "Value"},
+>   color: {legend: true},
+>   title: "Bar Plot Conversion"
+> });
+>
+> // Scatter plot equivalent
+> // ggplot(data, aes(x=x, y=y, color=category)) + geom_point()
+> const scatterPlot = Plot.plot({
+>   marks: [
+>     Plot.dot(data, {
+>       x: "x", 
+>       y: "y",
+>       fill: "category"
+>     })
+>   ],
+>   color: {legend: true}
+> });
+>
+> // Line plot equivalent
+> // ggplot(data, aes(x=x, y=y, group=category)) + geom_line()
+> const linePlot = Plot.plot({
+>   marks: [
+>     Plot.line(data, {
+>       x: "x",
+>       y: "y",
+>       stroke: "category"
+>     })
+>   ]
+> });
+>
+> // Render the plot
+> document.body.append(barPlot);
+> ```
+>
+> Key conversion tips: - `ggplot()` → `Plot.plot()` - `geom_bar()` → `Plot.barY()` - `geom_point()` → `Plot.dot()` - `geom_line()` → `Plot.line()` - Aesthetic mappings (aes) become configuration objects - Styling and legends are handled similarly but with different syntax
+>
+> The main differences are in the configuration approach and method names. Observable JS Plot is more functional and uses method chaining differently from ggplot2's layered approach.
