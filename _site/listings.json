@@ -4,6 +4,12 @@
     "items": []
   },
   {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/vimwiki.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/maps.html",
