@@ -12,9 +12,9 @@ website:
       - text: Projects
         href: projects/projects.qmd 
       - icon: github
-        href: https://github.com/kgilds
-      - icon: bluesky
-        href: https://bsky.app/profile/kgilds.bsky.social
+      - text: Notes
+        href: notes.qmd
+      - href: https://bsky.app/profile/kgilds.bsky.social
       - icon: mastodon
         href: https://mastodon.social/@kevin_gilds
       - icon: rss

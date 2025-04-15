@@ -9,7 +9,7 @@
 <link>https://kgilds.rbind.io/blog.html</link>
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Wed, 22 Jan 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>An OJS Primer</title>
@@ -399,7 +399,7 @@ font-style: inherit;">;</span></span></code></pre></div>
 
 
 <p>More or less process needed?</p>
-<p>This <a href="https://seths.blog/2025/01/building-a-process-culture/?">post</a> from Seth Godin has some key quotes for me to think about. At first, I thought it was a justification for process culture, but not exactly. There is more nuance in that being 100% focused on process may not produce breakthroughs, but an organization without any process will flame out.</p>
+<p>This <a href="https://seths.blog/2025/01/building-a-process-culture/?">post</a>eevie from Seth Godin has some key quotes for me to think about. At first, I thought it was a justification for process culture, but not exactly. There is more nuance in that being 100% focused on process may not produce breakthroughs, but an organization without any process will flame out.</p>
 <blockquote class="blockquote">
 <p>Process is the investment we make in inefficiency <em>now</em> to prevent errors from costing us <em>later</em>.</p>
 </blockquote>

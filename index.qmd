@@ -37,6 +37,7 @@ I am an R/Shiny Developer with expertise in helping nonprofits collect, manage a
 
 ### Technical Skills
 
+
 ![R](https://img.shields.io/badge/r-%2523276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%2523000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### {{< fa brands github >}} Stats
