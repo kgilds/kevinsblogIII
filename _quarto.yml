@@ -14,7 +14,6 @@ website:
       - icon: github
       - text: Notes
         href: notes.qmd
-      - href: https://bsky.app/profile/kgilds.bsky.social
       - icon: mastodon
         href: https://mastodon.social/@kevin_gilds
       - icon: rss
