@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>R for Social Good</title>
+<link>https://kgilds.rbind.io/notes.html</link>
+<atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
+<description>Kevin&#39;s notebook</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Tue, 15 Apr 2025 22:55:05 GMT</lastBuildDate>
+<item>
+  <title>Vimwiki &amp; Taskwarrior</title>
+  <link>https://kgilds.rbind.io/notes/vimwiki.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I have recently been obsessed with Vimwiki and Taskwarrior. I may be 4 years behind the VImWiki wave. It has taken me more than a few blog posts and YouTube Videos set to get mine set up.</p>
+<section id="vim-wiki-blog-posts" class="level2">
+<h2 class="anchored" data-anchor-id="vim-wiki-blog-posts">Vim Wiki Blog Posts</h2>
+<section id="general" class="level3">
+<h3 class="anchored" data-anchor-id="general">General</h3>
+<p><a href="https://mkaz.blog/working-with-vim/vimwiki" class="uri">https://mkaz.blog/working-with-vim/vimwiki</a></p>
+</section>
+<section id="plugins" class="level3">
+<h3 class="anchored" data-anchor-id="plugins">Plugins</h3>
+<p><a href="https://github.com/mattn/calendar-vim" class="uri">https://github.com/mattn/calendar-vim</a></p>
+</section>
+</section>
+<section id="youtube-videos" class="level2">
+<h2 class="anchored" data-anchor-id="youtube-videos">YouTube Videos</h2>
+<p>This one got me started and hooked on the idea.</p>
+<p><a href="https://www.youtube.com/watch?v=A1YgbAp5YRc&amp;t=539s" class="uri">https://www.youtube.com/watch?v=A1YgbAp5YRc&amp;t=539s</a></p>
+</section>
+<section id="taskwarrior" class="level2">
+<h2 class="anchored" data-anchor-id="taskwarrior">Taskwarrior</h2>
+<p>Taskwarrior lets you manager your tasks from the command line</p>
+<p><a href="https://taskwarrior.org/" class="uri">https://taskwarrior.org/</a></p>
+<p>On the command line type task report and you can get the commands for all the different type of reports.</p>
+<p><a href="https://taskwarrior.org/docs/report/" class="uri">https://taskwarrior.org/docs/report/</a></p>
+<p>A helpful video: Approachable on getting started and features.</p>
+<p><a href="https://www.youtube.com/watch?v=tijnc65soEI&amp;t=2500s" class="uri">https://www.youtube.com/watch?v=tijnc65soEI&amp;t=2500s</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
+  <pubDate>Tue, 15 Apr 2025 22:55:05 GMT</pubDate>
+</item>
+</channel>
+</rss>
