@@ -1,0 +1,35 @@
+---
+title: "Vimwiki & Taskwarrior"
+---
+
+I have recently been obsessed with Vimwiki and Taskwarrior. I may be 4 years behind the VImWiki wave. It has taken me more than a few blog posts and YouTube Videos set to get mine set up.
+
+## Vim Wiki Blog Posts
+
+### General
+
+<https://mkaz.blog/working-with-vim/vimwiki>
+
+### Plugins
+
+<https://github.com/mattn/calendar-vim>
+
+## YouTube Videos
+
+This one got me started and hooked on the idea.
+
+<https://www.youtube.com/watch?v=A1YgbAp5YRc&t=539s>
+
+## Taskwarrior
+
+Taskwarrior lets you manager your tasks from the command line
+
+<https://taskwarrior.org/>
+
+On the command line type task report and you can get the commands for all the different type of reports.
+
+<https://taskwarrior.org/docs/report/>
+
+A helpful video: Approachable on getting started and features.
+
+<https://www.youtube.com/watch?v=tijnc65soEI&t=2500s>
