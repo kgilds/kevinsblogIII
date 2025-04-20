@@ -1,0 +1,15 @@
+{
+  "hash": "9d6e0e97d303e839757b4633a1bbaa36",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\npagetitle: \"Projects\"\nformat:\n  html:\n    toc: false\nimage: articles/advanced-layout-pdf.png\nsearch: false\nexecute:\n  echo: false\nlisting:\n  - id: gallery\n    template: gallery.ejs\n    contents: gallery.yml\ndescription: |\n  A gallery of example documents, websites, books, and presentations created with Quarto.\n---\n\n\n\n::: {#hero-banner .column-screen}\n::: {.grid .column-page}\n::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}\n::: h1\nGallery\n:::\n\nQuarto can produce a wide variety of output formats. Here are some examples:\n\n-   [Articles & Reports](#articles-reports)\n-   [Presentations](#presentations)\n-   [Interactive Docs](#interactive-docs)\n-   [Websites](#websites)\n-   [Books](#books)\n:::\n\n\n\n::: {.cell .g-col-lg-6 .g-col-12 .g-col-md-12}\n\n:::\n\n\n:::\n:::\n\n::: {#gallery .column-page}\n:::\n\n\n\n```{=html}\n<style>\n#hero-banner {\n  padding-top: 35px;\n  background-color: rgb(237,243,249);\n}\n#quarto-content main { \n  margin-top: 0;\n  padding-top: 0;\n}\nhtml {\n  scroll-behavior: smooth;\n}\n.headline {\nfont-size: 1.25em;\nfont-weight: 300;\npadding-bottom: 1em;\n}\n.headline p {\n  margin: 0;\n  padding-bottom: 0.2rem;\n}\n.headline a {\n  text-decoration: none;\n}\n.headline ul li {\n  margin-bottom: 0.3em;\n}\n.carousel.card {\n  padding-top: 2em;\n}\n.carousel img {\n  width: 70%;\n  margin-bottom: 110px;\n}\n.carousel-control-prev-icon, .carousel-control-next-icon {\n  margin-bottom: 110px;\n}\n.carousel-caption {\n  padding-top: 1em;\n}\n.touch {\n  \n}\n</style>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
