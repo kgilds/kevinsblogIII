@@ -33,3 +33,17 @@ On the command line type task report and you can get the commands for all the di
 A helpful video: Approachable on getting started and features.
 
 <https://www.youtube.com/watch?v=tijnc65soEI&t=2500s>
+
+Blog Post on setting up Taskwarrior and Timewarrior ( this may be helpful for those on Macs)
+
+<https://jessachandler.com/posts/setup-task-and-time-warrior/>
+
+### Timewarrior
+
+The time warrior main page is here.
+
+<https://timewarrior.net/>
+
+To connect Taskwarrior and Timewarrior check out this page. I am not jazzed that timewarrior does not just take the explicit tag from taskwarrior instead will grab both the tage and the descrption of the tag.
+
+<https://timewarrior.net/docs/taskwarrior/>

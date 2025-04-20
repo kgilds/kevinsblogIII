@@ -1117,6 +1117,6 @@
     "href": "notes/vimwiki.html#taskwarrior",
     "title": "Vimwiki & Taskwarrior",
     "section": "Taskwarrior",
-    "text": "Taskwarrior\nTaskwarrior lets you manager your tasks from the command line\nhttps://taskwarrior.org/\nOn the command line type task report and you can get the commands for all the different type of reports.\nhttps://taskwarrior.org/docs/report/\nA helpful video: Approachable on getting started and features.\nhttps://www.youtube.com/watch?v=tijnc65soEI&t=2500s"
+    "text": "Taskwarrior\nTaskwarrior lets you manager your tasks from the command line\nhttps://taskwarrior.org/\nOn the command line type task report and you can get the commands for all the different type of reports.\nhttps://taskwarrior.org/docs/report/\nA helpful video: Approachable on getting started and features.\nhttps://www.youtube.com/watch?v=tijnc65soEI&t=2500s\nBlog Post on setting up Taskwarrior and Timewarrior ( this may be helpful for those on Macs)\nhttps://jessachandler.com/posts/setup-task-and-time-warrior/\n\nTimewarrior\nThe time warrior main page is here.\nhttps://timewarrior.net/\nTo connect Taskwarrior and Timewarrior check out this page. I am not jazzed that timewarrior does not just take the explicit tag from taskwarrior instead will grab both the tage and the descrption of the tag.\nhttps://timewarrior.net/docs/taskwarrior/"
   }
 ]

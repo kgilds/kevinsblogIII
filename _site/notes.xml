@@ -10,7 +10,7 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 15 Apr 2025 22:55:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Apr 2025 16:00:28 GMT</lastBuildDate>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
   <link>https://kgilds.rbind.io/notes/vimwiki.html</link>
@@ -44,13 +44,22 @@
 <p><a href="https://taskwarrior.org/docs/report/" class="uri">https://taskwarrior.org/docs/report/</a></p>
 <p>A helpful video: Approachable on getting started and features.</p>
 <p><a href="https://www.youtube.com/watch?v=tijnc65soEI&amp;t=2500s" class="uri">https://www.youtube.com/watch?v=tijnc65soEI&amp;t=2500s</a></p>
+<p>Blog Post on setting up Taskwarrior and Timewarrior ( this may be helpful for those on Macs)</p>
+<p><a href="https://jessachandler.com/posts/setup-task-and-time-warrior/" class="uri">https://jessachandler.com/posts/setup-task-and-time-warrior/</a></p>
+<section id="timewarrior" class="level3">
+<h3 class="anchored" data-anchor-id="timewarrior">Timewarrior</h3>
+<p>The time warrior main page is here.</p>
+<p><a href="https://timewarrior.net/" class="uri">https://timewarrior.net/</a></p>
+<p>To connect Taskwarrior and Timewarrior check out this page. I am not jazzed that timewarrior does not just take the explicit tag from taskwarrior instead will grab both the tage and the descrption of the tag.</p>
+<p><a href="https://timewarrior.net/docs/taskwarrior/" class="uri">https://timewarrior.net/docs/taskwarrior/</a></p>
 
 
+</section>
 </section>
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Tue, 15 Apr 2025 22:55:05 GMT</pubDate>
+  <pubDate>Sun, 20 Apr 2025 16:00:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
