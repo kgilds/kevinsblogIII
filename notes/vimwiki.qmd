@@ -6,6 +6,12 @@ I have recently been obsessed with Vimwiki and Taskwarrior. I may be 4 years beh
 
 ## Vim Wiki Blog Posts
 
+VIM Tutorial
+
+This is an amazing VIM Tutorial
+
+<https://www.youtube.com/watch?v=3G6kAEvbv2A&t=5505s>
+
 ### General
 
 <https://mkaz.blog/working-with-vim/vimwiki>

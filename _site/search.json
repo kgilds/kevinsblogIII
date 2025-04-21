@@ -1103,7 +1103,7 @@
     "href": "notes/vimwiki.html#vim-wiki-blog-posts",
     "title": "Vimwiki & Taskwarrior",
     "section": "Vim Wiki Blog Posts",
-    "text": "Vim Wiki Blog Posts\n\nGeneral\nhttps://mkaz.blog/working-with-vim/vimwiki\n\n\nPlugins\nhttps://github.com/mattn/calendar-vim"
+    "text": "Vim Wiki Blog Posts\nVIM Tutorial\nThis is an amazing VIM Tutorial\nhttps://www.youtube.com/watch?v=3G6kAEvbv2A&t=5505s\n\nGeneral\nhttps://mkaz.blog/working-with-vim/vimwiki\n\n\nPlugins\nhttps://github.com/mattn/calendar-vim"
   },
   {
     "objectID": "notes/vimwiki.html#youtube-videos",
