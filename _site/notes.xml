@@ -10,7 +10,55 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 21 Apr 2025 00:37:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Apr 2025 10:35:29 GMT</lastBuildDate>
+<item>
+  <title>Music Videos</title>
+  <link>https://kgilds.rbind.io/notes/music_videos.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I listed to a mix of music and Youtube is quickly becoming a favorite platform to watch performances.</p>
+<p><a href="https://www.youtube.com/watch?v=2c5b8ZtjwwY&amp;list=RDMM&amp;index=1">My mix</a> This mix has a lot of Metallica, and Robert Earl Keen.</p>
+<p>Some of my favorite county music videos.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Genre</th>
+<th>Artist</th>
+<th>Song</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Country</td>
+<td>Robert Earl Keen</td>
+<td>Merry Christmas from the family</td>
+<td><a href="https://www.youtube.com/watch?v=P37xPiRz1sg" class="uri">https://www.youtube.com/watch?v=P37xPiRz1sg</a></td>
+</tr>
+<tr class="even">
+<td>Country</td>
+<td>Old Crow Medicine Show</td>
+<td>Wagon Whell</td>
+<td><a href="https://www.youtube.com/watch?v=1gX1EP6mG-E" class="uri">https://www.youtube.com/watch?v=1gX1EP6mG-E</a></td>
+</tr>
+<tr class="odd">
+<td>Country</td>
+<td>Johnny Cash</td>
+<td>Hurt</td>
+<td><a href="https://www.youtube.com/watch?v=8AHCfZTRGiI" class="uri">https://www.youtube.com/watch?v=8AHCfZTRGiI</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
+  <pubDate>Mon, 21 Apr 2025 10:35:29 GMT</pubDate>
+</item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
   <link>https://kgilds.rbind.io/notes/vimwiki.html</link>
@@ -62,7 +110,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Mon, 21 Apr 2025 00:37:14 GMT</pubDate>
+  <pubDate>Mon, 21 Apr 2025 10:35:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
