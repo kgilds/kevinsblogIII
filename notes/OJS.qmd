@@ -1,0 +1,13 @@
+---
+title: "OJS"
+format: html
+---
+
+Using Observable Tutorial <br>
+https://quarto.org/docs/computations/ojs.html
+
+
+* OJS is geared towards charts (data viz) and not so much tables.  
+* I strongly dislike my tables in my Dashboard. This may help. 
+* [Link](https://observablehq.com/framework/inputs/table) to table options in OJS.
+

@@ -27,7 +27,7 @@ page-footer:
 
 format:
   html:
-    theme: [sandstone, custom.scss]
+    theme: [sandstone]
       
     highlight-style: a11y-dark
     mainfont: "Atkinson Hyperlegible"
