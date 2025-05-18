@@ -1131,6 +1131,6 @@
     "href": "notes/OJS.html",
     "title": "OJS",
     "section": "",
-    "text": "Using Observable Tutorial  https://quarto.org/docs/computations/ojs.html\n\nOJS is geared towards charts (data viz) and not so much tables.\n\nI strongly dislike my tables in my Dashboard. This may help.\nLink to table options in OJS."
+    "text": "Using Observable Tutorial  https://quarto.org/docs/computations/ojs.html\n\nOJS is geared towards charts (data viz) and not so much tables.\n\nI strongly dislike my tables in my Dashboard. This may help: Link to table options in OJS.\nRender the website use ~\nquarto render"
   }
 ]
