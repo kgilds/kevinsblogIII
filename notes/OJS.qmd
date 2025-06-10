@@ -15,9 +15,15 @@ Using Observable Tutorial <br> https://quarto.org/docs/computations/ojs.html
     quarto render 
     ```
 
-### My filtering question
+### My filtering question and drop down selection
 
-```{ojs eval= FALSE}
+With Shiny I know a code to select all the values upon inital loading. I need a way to figure this out with OjS. 
+
+
+
+```{ojs}
+
+/| eval: false
 
 // Option 1: Add "All" option to single-select dropdown
 viewof councilDropdown = Inputs.select(
@@ -50,3 +56,68 @@ filtered_data_multiple = survey_data_ojs.filter(d =>
 )
 
 ```
+
+This worked
+
+```{ojs}
+/| eval: false
+
+/| expandable: false
+
+// Tranpose the data to  make it usable in ojs
+
+
+// Create a dropdown menu of the songs
+viewof councilDropdown = Inputs.select(
+  ["All", ...new Set(matched_results_ojs.map(d => d.council))],
+  {
+    label: "Choose a council",
+    value: "All" // Set default to show all
+  }
+)
+
+
+
+
+filtered_match = councilDropdown === "All" 
+  ? matched_results_ojs 
+  : matched_results_ojs.filter(d => d.council === councilDropdown)
+  
+  
+```
+
+### Waffle Plots
+
+I spent hours trying to make a waffle chart in OJS using R. I needed this snippet to make it work.
+
+
+```{ojs}
+/| eval: false
+
+Plot = require("@observablehq/plot@0.6")
+```
+
+### Tables
+
+Claude help me figure this out I need this to make my tables nice in ojs
+
+```{ojs}
+/| eval: false
+
+
+viewof my_table = (() => {
+  const table = Inputs.table(filtered);  // Use your real data here
+
+  setTimeout(() => {
+    const innerTable = table.querySelector("table");
+    if (innerTable) {
+      innerTable.classList.add("table-green-header");
+    }
+  }, 50);
+
+  return table;
+})();
+
+```
+
+The other lesson learned. Reference a seperate css sheet rather than in the same document
