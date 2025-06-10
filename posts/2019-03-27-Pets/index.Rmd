@@ -19,7 +19,8 @@ The [TidyTuesday](https://github.com/rfordatascience/tidytuesday) project for Ma
 ### Load Libraries
 
 ```{r echo=FALSE}
-library(tidyverse)
+library(ggplot2)
+library(dplyr)
 library(zoo)
 library(ggthemes)
 library(patchwork)

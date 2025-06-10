@@ -2,8 +2,6 @@
 
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
-execute:
-  freeze: true
 
 # Date format
 date-format: "YYYY-MM-DD"

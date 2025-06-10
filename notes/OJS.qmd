@@ -14,3 +14,39 @@ Using Observable Tutorial <br> https://quarto.org/docs/computations/ojs.html
     ```         
     quarto render 
     ```
+
+### My filtering question
+
+```{ojs eval= FALSE}
+
+// Option 1: Add "All" option to single-select dropdown
+viewof councilDropdown = Inputs.select(
+  ["All", ...new Set(survey_data_ojs.map(d => d.council))],
+  {
+    label: "Choose a council",
+    value: "All" // Default to "All"
+  }
+)
+
+// Then filter your data based on selection:
+filtered_data = councilDropdown === "All" 
+  ? survey_data_ojs 
+  : survey_data_ojs.filter(d => d.council === councilDropdown)
+
+// Option 2: Multiple select with all values initially selected
+viewof councilDropdownMultiple = Inputs.select(
+  survey_data_ojs.map(d => d.council),
+  {
+    label: "Choose councils (deselect to filter)",
+    unique: true,
+    multiple: true,
+    value: [...new Set(survey_data_ojs.map(d => d.council))] // All selected initially
+  }
+)
+
+// Filter data for multiple selection:
+filtered_data_multiple = survey_data_ojs.filter(d => 
+  councilDropdownMultiple.includes(d.council)
+)
+
+```

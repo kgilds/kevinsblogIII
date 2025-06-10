@@ -1,8 +1,8 @@
 {
-  "hash": "921dfaebc8ed4ec68cafa6778bb3a188",
+  "hash": "34c0c524cda2db4b61051a613c73ed4c",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Shiny Fun\"\ndescription: \"Styling a Shiny App\"\ndate: \"2024-11-17\"\ncategories: [\"Shiny\", \"TLI\"]\n---\n\n\n\nI was working on new section of a Shiny Application and wanted to put two tables side by side without creating a new box within the tabpanel.\n\nMy random I idea was just two insert a column; however, when I added the column I received an error. I added two columns but the tables were still stacking. Clause AI suggested to wrap the two column in a fluidRow statement and it worked like a charm.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n fluidRow(  # Add this fluidRow\n      column(\n        width = 6,\n        h3(\"Pre Outcome Site Report\"),\n        gt::gt_output(ns(\"pre_site_report_23\"))\n      ),\n      \n      column(\n        width = 6,\n        h3(\"Pre Process Site Report\"),\n        gt::gt_output(ns(\"pre_site_process_report_23\"))\n      )\n    )  # Close the fluidRow\n```\n:::",
+    "markdown": "---\ntitle: \"Shiny Fun\"\ndescription: \"Styling a Shiny App\"\ndate: \"2024-11-17\"\ncategories: [\"Shiny\", \"TLI\"]\n---\n\n\n\nI was working on new section of a Shiny Application and wanted to put two tables side by side without creating a new box within the tabpanel.\n\nMy random idea was just two insert a column function in the box; however, when I added the column I received an error. I added two columns but the tables were still stacking on top of each within the row. Clause AI suggested to wrap the two column in a fluidRow statement and it worked like a charm.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n fluidRow(  # Add this fluidRow\n      column(\n        width = 6,\n        h3(\"Pre Outcome Site Report\"),\n        gt::gt_output(ns(\"pre_site_report_23\"))\n      ),\n      \n      column(\n        width = 6,\n        h3(\"Pre Process Site Report\"),\n        gt::gt_output(ns(\"pre_site_process_report_23\"))\n      )\n    )  # Close the fluidRow\n```\n:::",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

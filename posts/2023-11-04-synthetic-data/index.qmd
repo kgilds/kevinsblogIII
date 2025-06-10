@@ -19,7 +19,9 @@ I will be playing with the examples from these sites and hopefully not copying i
 Heiss, A. (2023-11-18) Program Evaluation . <https://evalsp23.classes.andrewheiss.com/example/random-numbers.html>
 
 ```{r}
-library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(tibble)
 library(patchwork)
 library(truncnorm)
 ```

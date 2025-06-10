@@ -1,8 +1,8 @@
 {
-  "hash": "1b7ace3202b111094fc61cd024ab8266",
+  "hash": "302d2dd8762e23d0ade1b86ca5229cfb",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Weather and RSS on the Command Line\"\ndescription: |\n  Fun at the command line\nauthor: Kevn Gilds, MPA\ndate: 2024-01-07\ncategories:\n -CLI\n---\n\n\n## Weather\n\nThis is a fun and simplified weather display\n\n\n::: {.cell}\n\n```{.r .cell-code}\nwttr.in\n```\n:::\n\n\nor from a [web browser](https://wttr.in/)\n\n## RSS Feeds\n\n[Newsboat](https://newsboat.org/index.html) presented a non intuitive way to get working. The trick was to create the `url` file first in the specified directory and then upload the oplm file to upload established feeds.\n",
+    "markdown": "---\ntitle: \"Weather and RSS on the Command Line\"\ndescription: |\n  Fun at the command line\nauthor: Kevn Gilds, MPA\ndate: 2024-01-07\ncategories:\n -CLI\n---\n\n\n\n## Weather\n\nThis is a fun and simplified weather display\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n curl wttr.in\n```\n:::\n\n\n\nor from a [web browser](https://wttr.in/)\n\n## RSS Feeds\n\n[Newsboat](https://newsboat.org/index.html) presented a non intuitive way to get working. The trick was to create the `url` file first in the specified directory and then upload the oplm file to upload established feeds.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

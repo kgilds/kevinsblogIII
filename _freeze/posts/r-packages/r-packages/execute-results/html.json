@@ -1,7 +1,8 @@
 {
   "hash": "edf3af0e5e0147e3a0c12fbf9583ec8c",
   "result": {
-    "markdown": "---\ntitle: \"R-packages\"\neditor: visual\ntitle-block-banner: false\ndate: 2022-10-21\n---\n\n\n# QualtRics\n\nThe [QualtRics pakcage](https://docs.ropensci.org/qualtRics/) is a key r package I utilize. The package provides an API access from Qualtrics to a R environment. If you manage separate Qualtrics accounts, set your credentials to project environmental settings. See below\n\n\n::: {.cell}\n\n```{.r .cell-code}\n usethis::edit_r_environ(\"project\")\n```\n:::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"R-packages\"\neditor: visual\ntitle-block-banner: false\ndate: 2022-10-21\n---\n\n\n\n\n\n# QualtRics\n\nThe [QualtRics pakcage](https://docs.ropensci.org/qualtRics/) is a key r package I utilize. The package provides an API access from Qualtrics to a R environment. If you manage separate Qualtrics accounts, set your credentials to project environmental settings. See below\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n usethis::edit_r_environ(\"project\")\n```\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

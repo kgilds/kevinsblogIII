@@ -4,7 +4,6 @@ author: Kevn Gilds, MPA
 date: 2024-01-07
 categories:
  -Text Analysis
-
 ---
 
 How often do you formally analyze all the comments you receive. Below I will show you some ways to process text data for additional analysis.
