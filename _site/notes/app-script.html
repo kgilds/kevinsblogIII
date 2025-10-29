@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Kevin Gilds, MPA">
-<meta name="dcterms.date" content="2024-11-03">
 
-<title>Github Actions – R for Social Good</title>
+<title>Google App Script – R for Social Good</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -76,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -120,86 +118,46 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Github Actions</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">GHA</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Kevin Gilds, MPA </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">2024-11-03</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Google App Script</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
-<p>I spent the weekend revisiting how to build a GitHub Action to automatically pull data from Clockify. It was a challenging experience that felt like my first time coding due to a series of small, avoidable mistakes. I had to piece together information from multiple sources and use ChatGPT to get my YAML formatted correctly.</p>
-<section id="learning" class="level2">
-<h2 class="anchored" data-anchor-id="learning">Learning</h2>
-<p>The announcement of this <a href="https://r-in-production.org/github-actions.html">book</a> and its chapter on GitHub Actions inspired me to start this project again. I found this <a href="https://github.com/hadley/available-work">project workflow</a> especially helpful.</p>
-<ol type="1">
-<li><p>One useful takeaway was the idea of using a <a href="https://github.com/hadley/available-work/blob/main/DESCRIPTION">DESCRIPTION</a> file for projects, even if they’re not packages. I used an <code>renv</code> workflow, but encountered challenges installing the <code>Rcpp</code> package on the remote machine. I wonder if the setup with a DESCRIPTION file might have prevented some of these issues.</p></li>
-<li><p>If you’re writing data to your repository, you need to provide write permissions. GitHub offers a default token (<code>GITHUB_TOKEN</code>) for GitHub Actions, which simplifies this process. Initially, I tried using my own PAT, but thanks to ChatGPT, I learned to switch to the default <code>GITHUB_TOKEN</code> instead:</p>
-<blockquote class="blockquote">
-<p><strong>Tip</strong>: GitHub provides a default <code>GITHUB_TOKEN</code> for Actions that usually works for most repositories, eliminating the need for a custom PAT. Replace any custom PAT reference in the <code>git-auto-commit-action</code> step with <code>${{ secrets.GITHUB_TOKEN }}</code>.</p>
-</blockquote></li>
-</ol>
+</header>
+
+
+<p>I utilize a lot of Google App Script to automate my workflows</p>
+<section id="index-a-google-drive" class="level3">
+<h3 class="anchored" data-anchor-id="index-a-google-drive">Index a Google Drive</h3>
+<p>Here is a YouTube link <a href="https://www.youtube.com/watch?v=LlEYcUwwGY0&amp;t=176s" class="uri">https://www.youtube.com/watch?v=LlEYcUwwGY0&amp;t=176s</a></p>
+<p>Here is the google doc. <a href="https://docs.google.com/document/d/16oMorkpaho-pQmkK1nztOzg53FUztMQWbsGdwc_SgK4/edit?tab=t.0" class="uri">https://docs.google.com/document/d/16oMorkpaho-pQmkK1nztOzg53FUztMQWbsGdwc_SgK4/edit?tab=t.0</a></p>
+<p>It was easy to adjust to meet my needs.</p>
 </section>
-<section id="conclusion" class="level2">
-<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<p>I worked through several challenges, and hopefully, the next time I attempt this, it won’t be quite as difficult.</p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
-<div>
-<hr>
-
-<h3> About </h3>
-
-Kevin is a nonprofit data professional operating out of Lakeland, Florida.
-
-<br>
-
-My expertise is helping nonprofits collect, manage and analyze their program data.
-
-
-
-<hr>
-</div>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
