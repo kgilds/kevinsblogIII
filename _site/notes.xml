@@ -10,7 +10,7 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 10 Jun 2025 22:12:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 00:13:03 GMT</lastBuildDate>
 <item>
   <title>Music Videos</title>
   <link>https://kgilds.rbind.io/notes/music_videos.html</link>
@@ -57,7 +57,32 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Tue, 10 Jun 2025 22:12:28 GMT</pubDate>
+  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
+</item>
+<item>
+  <title>Google App Script</title>
+  <link>https://kgilds.rbind.io/notes/app-script.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I utilize a lot of Google App Script to automate my workflows</p>
+<section id="index-a-google-drive" class="level3">
+<h3 class="anchored" data-anchor-id="index-a-google-drive">Index a Google Drive</h3>
+<p>Here is a YouTube link <a href="https://www.youtube.com/watch?v=LlEYcUwwGY0&amp;t=176s" class="uri">https://www.youtube.com/watch?v=LlEYcUwwGY0&amp;t=176s</a></p>
+<p>Here is the google doc. <a href="https://docs.google.com/document/d/16oMorkpaho-pQmkK1nztOzg53FUztMQWbsGdwc_SgK4/edit?tab=t.0" class="uri">https://docs.google.com/document/d/16oMorkpaho-pQmkK1nztOzg53FUztMQWbsGdwc_SgK4/edit?tab=t.0</a></p>
+<p>It was easy to adjust to meet my needs.</p>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
+  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
@@ -80,6 +105,13 @@
 <section id="plugins" class="level3">
 <h3 class="anchored" data-anchor-id="plugins">Plugins</h3>
 <p><a href="https://github.com/mattn/calendar-vim" class="uri">https://github.com/mattn/calendar-vim</a></p>
+</section>
+<section id="org-mode" class="level3">
+<h3 class="anchored" data-anchor-id="org-mode">Org Mode</h3>
+<p>You can do org mode in <a href="https://nvim-orgmode.github.io/" class="uri">https://nvim-orgmode.github.io/</a></p>
+<ul>
+<li>I just need to recall cit to mark an item as done.</li>
+</ul>
 </section>
 </section>
 <section id="youtube-videos" class="level2">
@@ -110,7 +142,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Tue, 10 Jun 2025 22:12:28 GMT</pubDate>
+  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
@@ -704,14 +736,14 @@ OJS Syntax Error (line 105, column 2)Unterminated regular expression
 </div>
 </div>
 </div>
-<p>The other lesson learned. Reference a seperate css sheet rather than in the same document</p>
+<p>The other lesson learned. Reference a separate css sheet rather than in the same document</p>
 
 
 </section>
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Tue, 10 Jun 2025 22:12:28 GMT</pubDate>
+  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
