@@ -1,0 +1,15 @@
+---
+title: "Google App Script"
+---
+
+I utilize a lot of Google App Script to automate my workflows
+
+### Index a Google Drive
+
+Here is a YouTube link <https://www.youtube.com/watch?v=LlEYcUwwGY0&t=176s>
+
+Here is the google doc. <https://docs.google.com/document/d/16oMorkpaho-pQmkK1nztOzg53FUztMQWbsGdwc_SgK4/edit?tab=t.0>
+
+It was easy to adjust to meet my needs.
+
+###  

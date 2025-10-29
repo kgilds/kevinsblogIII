@@ -20,6 +20,12 @@ This is an amazing VIM Tutorial
 
 <https://github.com/mattn/calendar-vim>
 
+### Org Mode
+
+You can do org mode in <https://nvim-orgmode.github.io/>
+
+-   I just need to recall cit to mark an item as done.
+
 ## YouTube Videos
 
 This one got me started and hooked on the idea.

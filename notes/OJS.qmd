@@ -120,4 +120,4 @@ viewof my_table = (() => {
 
 ```
 
-The other lesson learned. Reference a seperate css sheet rather than in the same document
+The other lesson learned. Reference a separate css sheet rather than in the same document
