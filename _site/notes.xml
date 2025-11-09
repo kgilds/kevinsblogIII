@@ -10,7 +10,7 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 29 Oct 2025 00:13:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 14:17:57 GMT</lastBuildDate>
 <item>
   <title>Music Videos</title>
   <link>https://kgilds.rbind.io/notes/music_videos.html</link>
@@ -57,7 +57,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
@@ -82,7 +82,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
-  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
@@ -142,7 +142,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
@@ -743,7 +743,7 @@ OJS Syntax Error (line 105, column 2)Unterminated regular expression
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Wed, 29 Oct 2025 00:13:03 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
 </item>
 </channel>
 </rss>

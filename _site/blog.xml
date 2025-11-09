@@ -10,7 +10,26 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 22 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Qualtrics Fun</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-11-05-qualtrics-fun/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Ran into trouble with Qualtrics and display logic this week. Qualtrics had trouble pulling into the drop downs and created havoc. I knew to use an older version but I need to use the published version to resolve my issue.</p>
+
+
+
+ ]]></description>
+  <category>Qualtrics</category>
+  <guid>https://kgilds.rbind.io/posts/2025-11-05-qualtrics-fun/</guid>
+  <pubDate>Wed, 05 Nov 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>An OJS Primer</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -1257,26 +1276,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
  ]]></description>
   <category>CL</category>
   <guid>https://kgilds.rbind.io/posts/2024-07-13-CL-Shortcuts/2024-07-13-CL-Shortcuts.html</guid>
-  <pubDate>Sun, 07 Jul 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>VIM</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-07-07-VIM/2024-07-07-VIM.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I purchased a new Chromebook and utilized the Linux features available on newer models. I spaced on how to work with VIM and utilized the built in tutorial. The tutorial was helpful. I understand most folks may not to work in VIM but tools like VIM are not even presented in as an option for most people. I think this relates to questions on whether we should teach git in the classroom.</p>
-
-
-
- ]]></description>
-  <category>Computer Literacy</category>
-  <guid>https://kgilds.rbind.io/posts/2024-07-07-VIM/2024-07-07-VIM.html</guid>
   <pubDate>Sun, 07 Jul 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>

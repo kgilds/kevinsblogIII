@@ -1,0 +1,9 @@
+---
+title: "Qualtrics Fun"
+author: "Kevin Gilds, MPA"
+description: "More Version Control with Qualtrics"
+date: "2025-11-05"
+categories: [Qualtrics]
+---
+
+Ran into trouble with Qualtrics and display logic this week. Qualtrics had trouble pulling into the drop downs and created havoc. I knew to use an older version but I need to use the published version to resolve my issue.
