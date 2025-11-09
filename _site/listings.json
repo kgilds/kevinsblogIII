@@ -128,7 +128,9 @@
   {
     "listing": "/notes.html",
     "items": [
+      "/notes/qualtrics.html",
       "/notes/music_videos.html",
+      "/notes/org-mode.html",
       "/notes/app-script.html",
       "/notes/vimwiki.html",
       "/notes/OJS.html"

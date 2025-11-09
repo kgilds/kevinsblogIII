@@ -1,0 +1,13 @@
+---
+title: "Qualtrics"
+---
+
+# Qualtrics
+
+My post on Qualtics should really be notes.
+
+### Version Control and Display Log
+
+Here is my [post](https://kgilds.rbind.io/posts/2025-11-05-qualtrics-fun/) on issues with display logic breaking and using the version control
+
+Another [post](https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/) on version control.

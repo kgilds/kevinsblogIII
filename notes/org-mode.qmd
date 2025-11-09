@@ -1,0 +1,15 @@
+---
+title: "Org-Mode"
+---
+
+You can use Org mode in Neovim.
+
+I have been using the basic feature of the TODO features.
+
+### Install and Github
+
+[Github](https://github.com/nvim-orgmode/orgmode) I had no issues installing pretty easy.
+
+### YouTube Videos
+
+[Tutorial](https://www.youtube.com/watch?v=CejA2VgJYgQ)

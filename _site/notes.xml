@@ -10,7 +10,31 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 09 Nov 2025 14:17:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 14:32:35 GMT</lastBuildDate>
+<item>
+  <title>Qualtrics</title>
+  <link>https://kgilds.rbind.io/notes/qualtrics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="qualtrics" class="level1">
+<h1>Qualtrics</h1>
+<p>My post on Qualtics should really be notes.</p>
+<section id="version-control-and-display-log" class="level3">
+<h3 class="anchored" data-anchor-id="version-control-and-display-log">Version Control and Display Log</h3>
+<p>Here is my <a href="https://kgilds.rbind.io/posts/2025-11-05-qualtrics-fun/">post</a> on issues with display logic breaking and using the version control</p>
+<p>Another <a href="https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/">post</a> on version control.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/qualtrics.html</guid>
+  <pubDate>Sun, 09 Nov 2025 14:32:35 GMT</pubDate>
+</item>
 <item>
   <title>Music Videos</title>
   <link>https://kgilds.rbind.io/notes/music_videos.html</link>
@@ -57,7 +81,32 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:32:35 GMT</pubDate>
+</item>
+<item>
+  <title>Org-Mode</title>
+  <link>https://kgilds.rbind.io/notes/org-mode.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>You can use Org mode in Neovim.</p>
+<p>I have been using the basic feature of the TODO features.</p>
+<section id="install-and-github" class="level3">
+<h3 class="anchored" data-anchor-id="install-and-github">Install and Github</h3>
+<p><a href="https://github.com/nvim-orgmode/orgmode">Github</a> I had no issues installing pretty easy.</p>
+</section>
+<section id="youtube-videos" class="level3">
+<h3 class="anchored" data-anchor-id="youtube-videos">YouTube Videos</h3>
+<p><a href="https://www.youtube.com/watch?v=CejA2VgJYgQ">Tutorial</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/org-mode.html</guid>
+  <pubDate>Sun, 09 Nov 2025 14:32:35 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
@@ -82,7 +131,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
-  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:32:35 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
@@ -142,7 +191,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:32:35 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
@@ -743,7 +792,7 @@ OJS Syntax Error (line 105, column 2)Unterminated regular expression
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Sun, 09 Nov 2025 14:17:57 GMT</pubDate>
+  <pubDate>Sun, 09 Nov 2025 14:32:35 GMT</pubDate>
 </item>
 </channel>
 </rss>

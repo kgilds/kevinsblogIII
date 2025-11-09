@@ -35,11 +35,18 @@
     "text": "Taskwarrior\nTaskwarrior lets you manager your tasks from the command line\nhttps://taskwarrior.org/\nOn the command line type task report and you can get the commands for all the different type of reports.\nhttps://taskwarrior.org/docs/report/\nA helpful video: Approachable on getting started and features.\nhttps://www.youtube.com/watch?v=tijnc65soEI&t=2500s\nBlog Post on setting up Taskwarrior and Timewarrior ( this may be helpful for those on Macs)\nhttps://jessachandler.com/posts/setup-task-and-time-warrior/\n\nTimewarrior\nThe time warrior main page is here.\nhttps://timewarrior.net/\nTo connect Taskwarrior and Timewarrior check out this page. I am not jazzed that timewarrior does not just take the explicit tag from taskwarrior instead will grab both the tage and the descrption of the tag.\nhttps://timewarrior.net/docs/taskwarrior/"
   },
   {
-    "objectID": "notes/music_videos.html",
-    "href": "notes/music_videos.html",
-    "title": "Music Videos",
+    "objectID": "notes/org-mode.html",
+    "href": "notes/org-mode.html",
+    "title": "Org-Mode",
     "section": "",
-    "text": "I listed to a mix of music and Youtube is quickly becoming a favorite platform to watch performances.\nMy mix This mix has a lot of Metallica, and Robert Earl Keen.\nSome of my favorite county music videos.\n\n\n\nGenre\nArtist\nSong\nLink\n\n\n\n\nCountry\nRobert Earl Keen\nMerry Christmas from the family\nhttps://www.youtube.com/watch?v=P37xPiRz1sg\n\n\nCountry\nOld Crow Medicine Show\nWagon Whell\nhttps://www.youtube.com/watch?v=1gX1EP6mG-E\n\n\nCountry\nJohnny Cash\nHurt\nhttps://www.youtube.com/watch?v=8AHCfZTRGiI"
+    "text": "You can use Org mode in Neovim.\nI have been using the basic feature of the TODO features.\n\nInstall and Github\nGithub I had no issues installing pretty easy.\n\n\nYouTube Videos\nTutorial"
+  },
+  {
+    "objectID": "notes/qualtrics.html",
+    "href": "notes/qualtrics.html",
+    "title": "Qualtrics",
+    "section": "",
+    "text": "Qualtrics\nMy post on Qualtics should really be notes.\n\nVersion Control and Display Log\nHere is my post on issues with display logic breaking and using the version control\nAnother post on version control."
   },
   {
     "objectID": "blog.html",
@@ -1110,7 +1117,14 @@
     "href": "notes.html",
     "title": "Notes Listing",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMusic Videos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle App Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVimwiki & Taskwarrior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOJS\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQualtrics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusic Videos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrg-Mode\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle App Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVimwiki & Taskwarrior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOJS\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "notes/music_videos.html",
+    "href": "notes/music_videos.html",
+    "title": "Music Videos",
+    "section": "",
+    "text": "I listed to a mix of music and Youtube is quickly becoming a favorite platform to watch performances.\nMy mix This mix has a lot of Metallica, and Robert Earl Keen.\nSome of my favorite county music videos.\n\n\n\nGenre\nArtist\nSong\nLink\n\n\n\n\nCountry\nRobert Earl Keen\nMerry Christmas from the family\nhttps://www.youtube.com/watch?v=P37xPiRz1sg\n\n\nCountry\nOld Crow Medicine Show\nWagon Whell\nhttps://www.youtube.com/watch?v=1gX1EP6mG-E\n\n\nCountry\nJohnny Cash\nHurt\nhttps://www.youtube.com/watch?v=8AHCfZTRGiI"
   },
   {
     "objectID": "notes/app-script.html",
