@@ -1,0 +1,47 @@
+---
+title: "It's a cycle"
+author: ""
+description: "Producivity System"
+date: "2025-11-10"
+categories: [Productivity]
+---
+
+I took a moment to watch this productivity video and it made me think and I found myself debating so I think that is good.
+
+What I found most helpful was to think about the the types of information that we deal with
+
+-   Tasks
+
+-   Ideas
+
+-   Notes
+
+-   Resources
+
+These are similar concepts found in other systems notably GTD.
+
+C = Capture
+
+Getting items out of your head and into a system.
+
+O = Organize
+
+Processing what has been captured. Keep track of its state-Not started, In Progress, Completed, etc.
+
+R = Review
+
+Updating the capture list and keeping its status current and identify what needs to be done.
+
+E = Engage
+
+Doing the work.
+
+------------------------------------------------------------------------------------------------------------------------
+
+What happens if I don't finish in the first engage cycle?
+
+The cycle starts again.
+
+Capture → Organize → Review → Engage → (new info) → Capture → Organize → Review → Engage
+
+The cycle ends when the task is completed.

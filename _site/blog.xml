@@ -10,7 +10,47 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 05 Nov 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>It’s a cycle</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2025-11-10-chore/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I took a moment to watch this productivity video and it made me think and I found myself debating so I think that is good.</p>
+<p>What I found most helpful was to think about the the types of information that we deal with</p>
+<ul>
+<li><p>Tasks</p></li>
+<li><p>Ideas</p></li>
+<li><p>Notes</p></li>
+<li><p>Resources</p></li>
+</ul>
+<p>These are similar concepts found in other systems notably GTD.</p>
+<p>C = Capture</p>
+<p>Getting items out of your head and into a system.</p>
+<p>O = Organize</p>
+<p>Processing what has been captured. Keep track of its state-Not started, In Progress, Completed, etc.</p>
+<p>R = Review</p>
+<p>Updating the capture list and keeping its status current and identify what needs to be done.</p>
+<p>E = Engage</p>
+<p>Doing the work.</p>
+<hr>
+<p>What happens if I don’t finish in the first engage cycle?</p>
+<p>The cycle starts again.</p>
+<p>Capture → Organize → Review → Engage → (new info) → Capture → Organize → Review → Engage</p>
+<p>The cycle ends when the task is completed.</p>
+
+
+
+ ]]></description>
+  <category>Productivity</category>
+  <guid>https://kgilds.rbind.io/posts/2025-11-10-chore/</guid>
+  <pubDate>Mon, 10 Nov 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Qualtrics Fun</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -1255,28 +1295,6 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
   <category>maps</category>
   <guid>https://kgilds.rbind.io/posts/2024-07-20-maps/2024-07-20-maps.html</guid>
   <pubDate>Sat, 20 Jul 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>CL Shortcuts</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-07-13-CL-Shortcuts/2024-07-13-CL-Shortcuts.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I tend to forget how to naviagate back a directory in the terminal but today I learned how to navigate back and forth between directories.</p>
-<p><code>cd -</code> will toggle you between directories. <code>touch</code> create a new file <code>mv</code> change name of directory</p>
-<p>I working to getting into the habit of using the command line.</p>
-
-
-
- ]]></description>
-  <category>CL</category>
-  <guid>https://kgilds.rbind.io/posts/2024-07-13-CL-Shortcuts/2024-07-13-CL-Shortcuts.html</guid>
-  <pubDate>Sun, 07 Jul 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
