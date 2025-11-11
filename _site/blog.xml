@@ -21,7 +21,7 @@
 
 
 
-<p>I took a moment to watch this productivity video and it made me think and I found myself debating so I think that is good.</p>
+<p>I took a moment to watch this productivity <a href="https://www.youtube.com/watch?v=oO9GLC2iKy8&amp;t=24s">video</a> and it made me think and I found myself debating so I think that is good.</p>
 <p>What I found most helpful was to think about the the types of information that we deal with</p>
 <ul>
 <li><p>Tasks</p></li>
@@ -39,7 +39,10 @@
 <p>E = Engage</p>
 <p>Doing the work.</p>
 <hr>
+<p>I asked Claude</p>
+<blockquote class="blockquote">
 <p>What happens if I don’t finish in the first engage cycle?</p>
+</blockquote>
 <p>The cycle starts again.</p>
 <p>Capture → Organize → Review → Engage → (new info) → Capture → Organize → Review → Engage</p>
 <p>The cycle ends when the task is completed.</p>
