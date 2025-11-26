@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>R for Social Good</title>
-<link>https://kgilds.rbind.io/notes.html</link>
-<atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
+<link>https://jade-valkyrie-e33f95.netlify.app/notes.html</link>
+<atom:link href="https://jade-valkyrie-e33f95.netlify.app/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 11 Nov 2025 13:23:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 01:24:41 GMT</lastBuildDate>
 <item>
   <title>Qualtrics</title>
-  <link>https://kgilds.rbind.io/notes/qualtrics.html</link>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/qualtrics.html</link>
   <description><![CDATA[ 
 
 
@@ -32,12 +32,12 @@
 </section>
 
  ]]></description>
-  <guid>https://kgilds.rbind.io/notes/qualtrics.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:23:13 GMT</pubDate>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/qualtrics.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
 </item>
 <item>
   <title>Music Videos</title>
-  <link>https://kgilds.rbind.io/notes/music_videos.html</link>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/music_videos.html</link>
   <description><![CDATA[ 
 
 
@@ -80,12 +80,12 @@
 
 
  ]]></description>
-  <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:23:13 GMT</pubDate>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/music_videos.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
 </item>
 <item>
   <title>Org-Mode</title>
-  <link>https://kgilds.rbind.io/notes/org-mode.html</link>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/org-mode.html</link>
   <description><![CDATA[ 
 
 
@@ -105,12 +105,62 @@
 </section>
 
  ]]></description>
-  <guid>https://kgilds.rbind.io/notes/org-mode.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:23:13 GMT</pubDate>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/org-mode.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+</item>
+<item>
+  <title>Typist</title>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/typist.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="why" class="level1">
+<h1>Why?</h1>
+<p>I struggle with moving from html documents to PDF. I love <a href="https://github.com/rstudio/pagedown">Pagedown</a> but every year I feel like there is more prayer than skill to generate a PDF document. I can’t quite get the tables I want in pagedown.</p>
+<p>I am determined to use Typis this year.</p>
+<p><a href="https://quarto.org/docs/output-formats/typst.html">Typist</a> seems great but is not a plug and play system–a lot of configuration is required.</p>
+<p>This blog post is a very sold starting point.</p>
+<blockquote class="blockquote">
+<p>https://rfortherestofus.com/2025/11/quarto-typst-pdf</p>
+</blockquote>
+<hr>
+<p>title: Fancy Title date: November 2025 format: typst: template-partials: - typst-show.typ - typst-template.typ</p>
+<p>The show file provides the detail–what will the headings look like whereas the template file layout the structure of the document.</p>
+<blockquote class="blockquote">
+<p>https://claude.ai/share/35238772-4b09-4912-8c63-95db76921d79</p>
+</blockquote>
+<hr>
+<section id="resouces" class="level2">
+<h2 class="anchored" data-anchor-id="resouces">Resouces</h2>
+<p>Documentation: <a href="https://quarto.org/docs/output-formats/typst.html">Typist in Quarto</a></p>
+<hr>
+<section id="videos" class="level3">
+<h3 class="anchored" data-anchor-id="videos">Videos:</h3>
+<p><a href="https://rfortherestofus.com/2025/11/quarto-typst-pdf">R For The Rest Of Us Tutorial</a></p>
+<p><a href="https://www.youtube.com/watch?v=jY2nCypm0Xs">Live Stream</a></p>
+<hr>
+</section>
+<section id="extensions" class="level3">
+<h3 class="anchored" data-anchor-id="extensions">Extensions</h3>
+<ul>
+<li><p>Tinymist Typst</p></li>
+<li><p>vscod-PDF</p></li>
+</ul>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/typist.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
-  <link>https://kgilds.rbind.io/notes/app-script.html</link>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/app-script.html</link>
   <description><![CDATA[ 
 
 
@@ -130,12 +180,12 @@
 </section>
 
  ]]></description>
-  <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:23:13 GMT</pubDate>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/app-script.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
-  <link>https://kgilds.rbind.io/notes/vimwiki.html</link>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/vimwiki.html</link>
   <description><![CDATA[ 
 
 
@@ -190,12 +240,12 @@
 </section>
 
  ]]></description>
-  <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:23:13 GMT</pubDate>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/vimwiki.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
-  <link>https://kgilds.rbind.io/notes/OJS.html</link>
+  <link>https://jade-valkyrie-e33f95.netlify.app/notes/OJS.html</link>
   <description><![CDATA[ 
 
 
@@ -791,8 +841,8 @@ OJS Syntax Error (line 105, column 2)Unterminated regular expression
 </section>
 
  ]]></description>
-  <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:23:13 GMT</pubDate>
+  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/OJS.html</guid>
+  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
 </item>
 </channel>
 </rss>

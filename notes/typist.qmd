@@ -1,0 +1,47 @@
+---
+title: "Typist"
+format: html
+---
+
+# Why?
+
+I struggle with moving from html documents to PDF. I love [Pagedown](https://github.com/rstudio/pagedown) but every year I feel like there is more prayer than skill to generate a PDF document. I can't quite get the tables I want in pagedown.
+
+I am determined to use Typis this year.
+
+[Typist](https://quarto.org/docs/output-formats/typst.html) seems great but is not a plug and play system--a lot of configuration is required.
+
+This blog post is a very sold starting point. 
+
+>  https://rfortherestofus.com/2025/11/quarto-typst-pdf
+
+------------------------------------------------------------------------
+
+title: Fancy Title date: November 2025 format: typst: template-partials: - typst-show.typ - typst-template.typ
+
+
+The show file provides the detail--what will the headings look like whereas the template file layout the structure of the document.
+
+> https://claude.ai/share/35238772-4b09-4912-8c63-95db76921d79
+
+------------------------------------------------------------------------
+
+## Resouces
+
+Documentation: [Typist in Quarto](https://quarto.org/docs/output-formats/typst.html)
+
+------------------------------------------------------------------------
+
+### Videos:
+
+[R For The Rest Of Us Tutorial](https://rfortherestofus.com/2025/11/quarto-typst-pdf)
+
+[Live Stream](https://www.youtube.com/watch?v=jY2nCypm0Xs)
+
+------------------------------------------------------------------------
+
+### Extensions
+
+-   Tinymist Typst
+
+-   vscod-PDF
