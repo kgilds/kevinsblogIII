@@ -1,1 +1,1 @@
-Sitemap: https://jade-valkyrie-e33f95.netlify.app/sitemap.xml
+Sitemap: https://kgilds.rbind.io/sitemap.xml
