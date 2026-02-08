@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>R for Social Good</title>
-<link>https://jade-valkyrie-e33f95.netlify.app/notes.html</link>
-<atom:link href="https://jade-valkyrie-e33f95.netlify.app/notes.xml" rel="self" type="application/rss+xml"/>
+<link>https://kgilds.rbind.io/notes.html</link>
+<atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 26 Nov 2025 01:24:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 14:02:20 GMT</lastBuildDate>
 <item>
   <title>Qualtrics</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/qualtrics.html</link>
+  <link>https://kgilds.rbind.io/notes/qualtrics.html</link>
   <description><![CDATA[ 
 
 
@@ -32,12 +32,12 @@
 </section>
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/qualtrics.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/qualtrics.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 <item>
   <title>Music Videos</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/music_videos.html</link>
+  <link>https://kgilds.rbind.io/notes/music_videos.html</link>
   <description><![CDATA[ 
 
 
@@ -80,12 +80,12 @@
 
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/music_videos.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 <item>
   <title>Org-Mode</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/org-mode.html</link>
+  <link>https://kgilds.rbind.io/notes/org-mode.html</link>
   <description><![CDATA[ 
 
 
@@ -105,12 +105,12 @@
 </section>
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/org-mode.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/org-mode.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 <item>
   <title>Typist</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/typist.html</link>
+  <link>https://kgilds.rbind.io/notes/typist.html</link>
   <description><![CDATA[ 
 
 
@@ -155,12 +155,32 @@
 </section>
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/typist.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/typist.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+</item>
+<item>
+  <title>Claude Code</title>
+  <link>https://kgilds.rbind.io/notes/claude.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I stumbled upon this conversion on YouTube.</p>
+<p>https://www.youtube.com/watch?v=oBho3hZ7MHM</p>
+<p>I liked how the use case was focused on automation of TODOs and other items.</p>
+<p>First and foremost it got me thinking I have to figure this out fast.</p>
+<p>Here is a good starting article: https://www.producttalk.org/claude-code-what-it-is-and-how-its-different/</p>
+
+
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/claude.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/app-script.html</link>
+  <link>https://kgilds.rbind.io/notes/app-script.html</link>
   <description><![CDATA[ 
 
 
@@ -180,12 +200,12 @@
 </section>
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/app-script.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/vimwiki.html</link>
+  <link>https://kgilds.rbind.io/notes/vimwiki.html</link>
   <description><![CDATA[ 
 
 
@@ -240,12 +260,12 @@
 </section>
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/vimwiki.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
-  <link>https://jade-valkyrie-e33f95.netlify.app/notes/OJS.html</link>
+  <link>https://kgilds.rbind.io/notes/OJS.html</link>
   <description><![CDATA[ 
 
 
@@ -263,13 +283,13 @@
 <h3 class="anchored" data-anchor-id="my-filtering-question-and-drop-down-selection">My filtering question and drop down selection</h3>
 <p>With Shiny I know a code to select all the values upon inital loading. I need a way to figure this out with OjS.</p>
 <div class="quarto-ojs-syntax-error">
-<div class="sourceCode" id="cb2" data-startfrom="24" data-syntax-error-position="2" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 23;"><span id="cb2-24">```<span class="op" style="color: #5E5E5E;
+<div class="sourceCode" id="cb2" data-startfrom="22" data-syntax-error-position="2" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 21;"><span id="cb2-22">```<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span>ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb2-25"></span>
-<span id="cb2-26"><span class="op" style="color: #5E5E5E;
+<span id="cb2-23"></span>
+<span id="cb2-24"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">/|</span> eval<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -277,11 +297,11 @@ font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">false</span></span>
-<span id="cb2-27"></span>
-<span id="cb2-28"><span class="co" style="color: #5E5E5E;
+<span id="cb2-25"></span>
+<span id="cb2-26"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Option 1: Add "All" option to single-select dropdown</span></span>
-<span id="cb2-29">viewof councilDropdown <span class="op" style="color: #5E5E5E;
+<span id="cb2-27">viewof councilDropdown <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> Inputs<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -290,7 +310,7 @@ background-color: null;
 font-style: inherit;">select</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">(</span></span>
-<span id="cb2-30">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-28">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">[</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -318,44 +338,44 @@ background-color: null;
 font-style: inherit;">council</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">))],</span></span>
-<span id="cb2-31">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-29">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span></span>
-<span id="cb2-32">    label<span class="op" style="color: #5E5E5E;
+<span id="cb2-30">    label<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Choose a council"</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">,</span></span>
-<span id="cb2-33">    value<span class="op" style="color: #5E5E5E;
+<span id="cb2-31">    value<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"All"</span> <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Default to "All"</span></span>
-<span id="cb2-34">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-32">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb2-35"><span class="op" style="color: #5E5E5E;
+<span id="cb2-33"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb2-36"></span>
-<span id="cb2-37"><span class="co" style="color: #5E5E5E;
+<span id="cb2-34"></span>
+<span id="cb2-35"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Then filter your data based on selection:</span></span>
-<span id="cb2-38">filtered_data <span class="op" style="color: #5E5E5E;
+<span id="cb2-36">filtered_data <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> councilDropdown <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">===</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"All"</span> </span>
-<span id="cb2-39">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-37">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">?</span> survey_data_ojs </span>
-<span id="cb2-40">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-38">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> survey_data_ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -374,11 +394,11 @@ background-color: null;
 font-style: inherit;">===</span> councilDropdown<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb2-41"></span>
-<span id="cb2-42"><span class="co" style="color: #5E5E5E;
+<span id="cb2-39"></span>
+<span id="cb2-40"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Option 2: Multiple select with all values initially selected</span></span>
-<span id="cb2-43">viewof councilDropdownMultiple <span class="op" style="color: #5E5E5E;
+<span id="cb2-41">viewof councilDropdownMultiple <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> Inputs<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -387,7 +407,7 @@ background-color: null;
 font-style: inherit;">select</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">(</span></span>
-<span id="cb2-44">  survey_data_ojs<span class="op" style="color: #5E5E5E;
+<span id="cb2-42">  survey_data_ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -402,17 +422,17 @@ background-color: null;
 font-style: inherit;">council</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">),</span></span>
-<span id="cb2-45">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-43">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span></span>
-<span id="cb2-46">    label<span class="op" style="color: #5E5E5E;
+<span id="cb2-44">    label<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Choose councils (deselect to filter)"</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">,</span></span>
-<span id="cb2-47">    unique<span class="op" style="color: #5E5E5E;
+<span id="cb2-45">    unique<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
@@ -420,7 +440,7 @@ font-weight: bold;
 font-style: inherit;">true</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">,</span></span>
-<span id="cb2-48">    multiple<span class="op" style="color: #5E5E5E;
+<span id="cb2-46">    multiple<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
@@ -428,7 +448,7 @@ font-weight: bold;
 font-style: inherit;">true</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">,</span></span>
-<span id="cb2-49">    value<span class="op" style="color: #5E5E5E;
+<span id="cb2-47">    value<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -456,17 +476,17 @@ background-color: null;
 font-style: inherit;">))]</span> <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// All selected initially</span></span>
-<span id="cb2-50">  <span class="op" style="color: #5E5E5E;
+<span id="cb2-48">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb2-51"><span class="op" style="color: #5E5E5E;
+<span id="cb2-49"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb2-52"></span>
-<span id="cb2-53"><span class="co" style="color: #5E5E5E;
+<span id="cb2-50"></span>
+<span id="cb2-51"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Filter data for multiple selection:</span></span>
-<span id="cb2-54">filtered_data_multiple <span class="op" style="color: #5E5E5E;
+<span id="cb2-52">filtered_data_multiple <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> survey_data_ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -477,7 +497,7 @@ background-color: null;
 font-style: inherit;">(</span>d <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=&gt;</span> </span>
-<span id="cb2-55">  councilDropdownMultiple<span class="op" style="color: #5E5E5E;
+<span id="cb2-53">  councilDropdownMultiple<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -490,11 +510,11 @@ background-color: null;
 font-style: inherit;">council</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb2-56"><span class="op" style="color: #5E5E5E;
+<span id="cb2-54"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb2-57"></span>
-<span id="cb2-58">```</span></code></pre></div>
+<span id="cb2-55"></span>
+<span id="cb2-56">```</span></code></pre></div>
 <div class="cell-output cell-output-error">
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -502,7 +522,7 @@ font-style: inherit;">)</span></span>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-OJS Syntax Error (line 26, column 2)Unterminated regular expression
+OJS Syntax Error (line 24, column 2)Unterminated regular expression
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -513,12 +533,12 @@ OJS Syntax Error (line 26, column 2)Unterminated regular expression
 </div>
 <p>This worked</p>
 <div class="quarto-ojs-syntax-error">
-<div class="sourceCode" id="cb3" data-startfrom="62" data-syntax-error-position="1" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 61;"><span id="cb3-62">```<span class="op" style="color: #5E5E5E;
+<div class="sourceCode" id="cb3" data-startfrom="60" data-syntax-error-position="1" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 59;"><span id="cb3-60">```<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span>ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb3-63"><span class="op" style="color: #5E5E5E;
+<span id="cb3-61"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">/|</span> eval<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -526,8 +546,8 @@ font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">false</span></span>
-<span id="cb3-64"></span>
-<span id="cb3-65"><span class="op" style="color: #5E5E5E;
+<span id="cb3-62"></span>
+<span id="cb3-63"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">/|</span> expandable<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -535,16 +555,16 @@ font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">false</span></span>
-<span id="cb3-66"></span>
-<span id="cb3-67"><span class="co" style="color: #5E5E5E;
+<span id="cb3-64"></span>
+<span id="cb3-65"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Tranpose the data to  make it usable in ojs</span></span>
-<span id="cb3-68"></span>
-<span id="cb3-69"></span>
-<span id="cb3-70"><span class="co" style="color: #5E5E5E;
+<span id="cb3-66"></span>
+<span id="cb3-67"></span>
+<span id="cb3-68"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Create a dropdown menu of the songs</span></span>
-<span id="cb3-71">viewof councilDropdown <span class="op" style="color: #5E5E5E;
+<span id="cb3-69">viewof councilDropdown <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> Inputs<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -553,7 +573,7 @@ background-color: null;
 font-style: inherit;">select</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">(</span></span>
-<span id="cb3-72">  <span class="op" style="color: #5E5E5E;
+<span id="cb3-70">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">[</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -581,44 +601,44 @@ background-color: null;
 font-style: inherit;">council</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">))],</span></span>
-<span id="cb3-73">  <span class="op" style="color: #5E5E5E;
+<span id="cb3-71">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span></span>
-<span id="cb3-74">    label<span class="op" style="color: #5E5E5E;
+<span id="cb3-72">    label<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Choose a council"</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">,</span></span>
-<span id="cb3-75">    value<span class="op" style="color: #5E5E5E;
+<span id="cb3-73">    value<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"All"</span> <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Set default to show all</span></span>
-<span id="cb3-76">  <span class="op" style="color: #5E5E5E;
+<span id="cb3-74">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb3-77"><span class="op" style="color: #5E5E5E;
+<span id="cb3-75"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
+<span id="cb3-76"></span>
+<span id="cb3-77"></span>
 <span id="cb3-78"></span>
 <span id="cb3-79"></span>
-<span id="cb3-80"></span>
-<span id="cb3-81"></span>
-<span id="cb3-82">filtered_match <span class="op" style="color: #5E5E5E;
+<span id="cb3-80">filtered_match <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> councilDropdown <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">===</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"All"</span> </span>
-<span id="cb3-83">  <span class="op" style="color: #5E5E5E;
+<span id="cb3-81">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">?</span> matched_results_ojs </span>
-<span id="cb3-84">  <span class="op" style="color: #5E5E5E;
+<span id="cb3-82">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span> matched_results_ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -637,9 +657,9 @@ background-color: null;
 font-style: inherit;">===</span> councilDropdown<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb3-85">  </span>
-<span id="cb3-86">  </span>
-<span id="cb3-87">```</span></code></pre></div>
+<span id="cb3-83">  </span>
+<span id="cb3-84">  </span>
+<span id="cb3-85">```</span></code></pre></div>
 <div class="cell-output cell-output-error">
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -647,7 +667,7 @@ font-style: inherit;">)</span></span>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-OJS Syntax Error (line 63, column 2)Unterminated regular expression
+OJS Syntax Error (line 61, column 2)Unterminated regular expression
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -661,12 +681,12 @@ OJS Syntax Error (line 63, column 2)Unterminated regular expression
 <h3 class="anchored" data-anchor-id="waffle-plots">Waffle Plots</h3>
 <p>I spent hours trying to make a waffle chart in OJS using R. I needed this snippet to make it work.</p>
 <div class="quarto-ojs-syntax-error">
-<div class="sourceCode" id="cb4" data-startfrom="94" data-syntax-error-position="1" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 93;"><span id="cb4-94">```<span class="op" style="color: #5E5E5E;
+<div class="sourceCode" id="cb4" data-startfrom="91" data-syntax-error-position="1" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 90;"><span id="cb4-91">```<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span>ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb4-95"><span class="op" style="color: #5E5E5E;
+<span id="cb4-92"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">/|</span> eval<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -674,8 +694,8 @@ font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">false</span></span>
-<span id="cb4-96"></span>
-<span id="cb4-97">Plot <span class="op" style="color: #5E5E5E;
+<span id="cb4-93"></span>
+<span id="cb4-94">Plot <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -686,7 +706,7 @@ background-color: null;
 font-style: inherit;">"@observablehq/plot@0.6"</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">)</span></span>
-<span id="cb4-98">```</span></code></pre></div>
+<span id="cb4-95">```</span></code></pre></div>
 <div class="cell-output cell-output-error">
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -694,7 +714,7 @@ font-style: inherit;">)</span></span>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-OJS Syntax Error (line 95, column 2)Unterminated regular expression
+OJS Syntax Error (line 92, column 2)Unterminated regular expression
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -708,12 +728,12 @@ OJS Syntax Error (line 95, column 2)Unterminated regular expression
 <h3 class="anchored" data-anchor-id="tables">Tables</h3>
 <p>Claude help me figure this out I need this to make my tables nice in ojs</p>
 <div class="quarto-ojs-syntax-error">
-<div class="sourceCode" id="cb5" data-startfrom="104" data-syntax-error-position="1" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 103;"><span id="cb5-104">```<span class="op" style="color: #5E5E5E;
+<div class="sourceCode" id="cb5" data-startfrom="101" data-syntax-error-position="1" data-source-offset="9" style="background: #f1f3f5;"><pre class="sourceCode numberSource numberLines java code-with-copy"><code class="sourceCode java" style="counter-reset: source-line 100;"><span id="cb5-101">```<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span>ojs<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb5-105"><span class="op" style="color: #5E5E5E;
+<span id="cb5-102"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">/|</span> eval<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -721,9 +741,9 @@ font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">false</span></span>
-<span id="cb5-106"></span>
-<span id="cb5-107"></span>
-<span id="cb5-108">viewof my_table <span class="op" style="color: #5E5E5E;
+<span id="cb5-103"></span>
+<span id="cb5-104"></span>
+<span id="cb5-105">viewof my_table <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">=</span> <span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -732,7 +752,7 @@ background-color: null;
 font-style: inherit;">=&gt;</span> <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span></span>
-<span id="cb5-109">  <span class="dt" style="color: #AD0000;
+<span id="cb5-106">  <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">const</span> table <span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -747,8 +767,8 @@ background-color: null;
 font-style: inherit;">);</span>  <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">// Use your real data here</span></span>
-<span id="cb5-110"></span>
-<span id="cb5-111">  <span class="fu" style="color: #4758AB;
+<span id="cb5-107"></span>
+<span id="cb5-108">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">setTimeout</span><span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -757,7 +777,7 @@ background-color: null;
 font-style: inherit;">=&gt;</span> <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span></span>
-<span id="cb5-112">    <span class="dt" style="color: #AD0000;
+<span id="cb5-109">    <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">const</span> innerTable <span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -772,7 +792,7 @@ background-color: null;
 font-style: inherit;">"table"</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">);</span></span>
-<span id="cb5-113">    <span class="cf" style="color: #003B4F;
+<span id="cb5-110">    <span class="cf" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">if</span> <span class="op" style="color: #5E5E5E;
@@ -782,7 +802,7 @@ background-color: null;
 font-style: inherit;">)</span> <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">{</span></span>
-<span id="cb5-114">      innerTable<span class="op" style="color: #5E5E5E;
+<span id="cb5-111">      innerTable<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -797,28 +817,28 @@ background-color: null;
 font-style: inherit;">"table-green-header"</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">);</span></span>
-<span id="cb5-115">    <span class="op" style="color: #5E5E5E;
+<span id="cb5-112">    <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">}</span></span>
-<span id="cb5-116">  <span class="op" style="color: #5E5E5E;
+<span id="cb5-113">  <span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">},</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">50</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">);</span></span>
-<span id="cb5-117"></span>
-<span id="cb5-118">  <span class="cf" style="color: #003B4F;
+<span id="cb5-114"></span>
+<span id="cb5-115">  <span class="cf" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">return</span> table<span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">;</span></span>
-<span id="cb5-119"><span class="op" style="color: #5E5E5E;
+<span id="cb5-116"><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">})();</span></span>
-<span id="cb5-120"></span>
-<span id="cb5-121">```</span></code></pre></div>
+<span id="cb5-117"></span>
+<span id="cb5-118">```</span></code></pre></div>
 <div class="cell-output cell-output-error">
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -826,7 +846,7 @@ font-style: inherit;">})();</span></span>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-OJS Syntax Error (line 105, column 2)Unterminated regular expression
+OJS Syntax Error (line 102, column 2)Unterminated regular expression
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -835,14 +855,18 @@ OJS Syntax Error (line 105, column 2)Unterminated regular expression
 </div>
 </div>
 </div>
-<p>The other lesson learned. Reference a separate css sheet rather than in the same document</p>
+<p>The other lesson learned. Reference a separate css sheet rather than in the same document.</p>
+</section>
+<section id="other-lessons" class="level3">
+<h3 class="anchored" data-anchor-id="other-lessons">Other Lessons</h3>
+<p>I was working on a bar graph in OJS and it take over a minute of the graph display. The reason–I had the graph in a tab setting–so it was confused when to render. I moved to the first tab and it worked fine.</p>
 
 
 </section>
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/notes/OJS.html</guid>
-  <pubDate>Wed, 26 Nov 2025 01:24:41 GMT</pubDate>
+  <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
+  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
