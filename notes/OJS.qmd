@@ -17,9 +17,7 @@ Using Observable Tutorial <br> https://quarto.org/docs/computations/ojs.html
 
 ### My filtering question and drop down selection
 
-With Shiny I know a code to select all the values upon inital loading. I need a way to figure this out with OjS. 
-
-
+With Shiny I know a code to select all the values upon inital loading. I need a way to figure this out with OjS.
 
 ```{ojs}
 
@@ -90,7 +88,6 @@ filtered_match = councilDropdown === "All"
 
 I spent hours trying to make a waffle chart in OJS using R. I needed this snippet to make it work.
 
-
 ```{ojs}
 /| eval: false
 
@@ -120,4 +117,8 @@ viewof my_table = (() => {
 
 ```
 
-The other lesson learned. Reference a separate css sheet rather than in the same document
+The other lesson learned. Reference a separate css sheet rather than in the same document.
+
+### Other Lessons
+
+I was working on a bar graph in OJS and it take over a minute of the graph display. The reason–I had the graph in a tab setting–so it was confused when to render. I moved to the first tab and it worked fine.
