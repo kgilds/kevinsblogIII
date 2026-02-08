@@ -1,0 +1,14 @@
+---
+title: "Claude Code"
+format: html
+---
+
+I stumbled upon this conversion on YouTube.
+
+https://www.youtube.com/watch?v=oBho3hZ7MHM
+
+I liked how the use case was focused on automation of TODOs and other items.
+
+First and foremost it got me thinking I have to figure this out fast.
+
+Here is a good starting article: https://www.producttalk.org/claude-code-what-it-is-and-how-its-different/
