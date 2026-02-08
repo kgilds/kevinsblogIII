@@ -10,7 +10,7 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 08 Feb 2026 14:02:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 14:10:18 GMT</lastBuildDate>
 <item>
   <title>Qualtrics</title>
   <link>https://kgilds.rbind.io/notes/qualtrics.html</link>
@@ -33,7 +33,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/qualtrics.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>Music Videos</title>
@@ -81,7 +81,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>Org-Mode</title>
@@ -106,7 +106,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/org-mode.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>Typist</title>
@@ -156,7 +156,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/typist.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>Claude Code</title>
@@ -176,7 +176,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/claude.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
@@ -201,7 +201,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
@@ -261,7 +261,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
@@ -866,7 +866,7 @@ OJS Syntax Error (line 102, column 2)Unterminated regular expression
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:02:20 GMT</pubDate>
+  <pubDate>Sun, 08 Feb 2026 14:10:18 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -309,7 +309,7 @@ My expertise is helping nonprofits collect, manage and analyze their program dat
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jade-valkyrie-e33f95\.netlify\.app");
+        var filterRegex = new RegExp("https:\/\/kgilds\.rbind\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

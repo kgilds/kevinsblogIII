@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>R for Social Good</title>
-<link>https://jade-valkyrie-e33f95.netlify.app/blog.html</link>
-<atom:link href="https://jade-valkyrie-e33f95.netlify.app/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://kgilds.rbind.io/blog.html</link>
+<atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
 <lastBuildDate>Mon, 10 Nov 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>It’s a cycle</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-11-10-chore/</link>
+  <link>https://kgilds.rbind.io/posts/2025-11-10-chore/</link>
   <description><![CDATA[ 
 
 
@@ -51,13 +51,13 @@
 
  ]]></description>
   <category>Productivity</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-11-10-chore/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-11-10-chore/</guid>
   <pubDate>Mon, 10 Nov 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Qualtrics Fun</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-11-05-qualtrics-fun/</link>
+  <link>https://kgilds.rbind.io/posts/2025-11-05-qualtrics-fun/</link>
   <description><![CDATA[ 
 
 
@@ -70,14 +70,14 @@
 
  ]]></description>
   <category>Qualtrics</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-11-05-qualtrics-fun/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-11-05-qualtrics-fun/</guid>
   <pubDate>Wed, 05 Nov 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>An OJS Primer</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin </dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-22-an-ojs-primer/</link>
+  <link>https://kgilds.rbind.io/posts/2025-01-22-an-ojs-primer/</link>
   <description><![CDATA[ 
 
 
@@ -426,14 +426,14 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <category>OJS</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-22-an-ojs-primer/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-01-22-an-ojs-primer/</guid>
   <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Data Equity</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin </dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-21-data-equity/</link>
+  <link>https://kgilds.rbind.io/posts/2025-01-21-data-equity/</link>
   <description><![CDATA[ 
 
 
@@ -446,14 +446,14 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <category>Data Equity</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-21-data-equity/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-01-21-data-equity/</guid>
   <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Process Culture</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin </dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-20-process-culture/</link>
+  <link>https://kgilds.rbind.io/posts/2025-01-20-process-culture/</link>
   <description><![CDATA[ 
 
 
@@ -471,14 +471,14 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <category>Process Culture</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-20-process-culture/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-01-20-process-culture/</guid>
   <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Google Sheets Tables</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin </dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-19-google-sheets-tables/</link>
+  <link>https://kgilds.rbind.io/posts/2025-01-19-google-sheets-tables/</link>
   <description><![CDATA[ 
 
 
@@ -494,14 +494,14 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <category>Google Sheets</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-19-google-sheets-tables/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-01-19-google-sheets-tables/</guid>
   <pubDate>Sun, 19 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Knowledge Work</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin </dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-12-knowledge-work/</link>
+  <link>https://kgilds.rbind.io/posts/2025-01-12-knowledge-work/</link>
   <description><![CDATA[ 
 
 
@@ -518,14 +518,14 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <category>Decision Making</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-12-knowledge-work/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-01-12-knowledge-work/</guid>
   <pubDate>Sun, 12 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Customize Shiny Manger Log In Screen</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin Gilds</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-05-customize-shiny-manger-log-in-screen/</link>
+  <link>https://kgilds.rbind.io/posts/2025-01-05-customize-shiny-manger-log-in-screen/</link>
   <description><![CDATA[ 
 
 
@@ -562,14 +562,14 @@ font-style: inherit;">"Please log in"</span></span>
  ]]></description>
   <category>Shiny</category>
   <category>Claude-AI</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2025-01-05-customize-shiny-manger-log-in-screen/</guid>
+  <guid>https://kgilds.rbind.io/posts/2025-01-05-customize-shiny-manger-log-in-screen/</guid>
   <pubDate>Sun, 05 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Saved by Qualtrics Version Control</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin Gilds</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-12-08-saved-by-qualtrics-version-control/</link>
+  <link>https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/</link>
   <description><![CDATA[ 
 
 
@@ -590,14 +590,14 @@ font-style: inherit;">"Please log in"</span></span>
  ]]></description>
   <category>Qualtrics</category>
   <category>Verison Control</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-12-08-saved-by-qualtrics-version-control/</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-12-08-saved-by-qualtrics-version-control/</guid>
   <pubDate>Sun, 08 Dec 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Elmer</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevin Gilds</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-30-elmer/</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-30-elmer/</link>
   <description><![CDATA[ 
 
 
@@ -613,13 +613,13 @@ font-style: inherit;">"Please log in"</span></span>
  ]]></description>
   <category>LLM</category>
   <category>Shiny</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-30-elmer/</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-30-elmer/</guid>
   <pubDate>Sat, 30 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>RSS Feeds</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-26-rss-feeds/</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-26-rss-feeds/</link>
   <description><![CDATA[ 
 
 
@@ -710,13 +710,13 @@ font-style: inherit;">---</span></span></code></pre></div>
 
  ]]></description>
   <category>RSS</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-26-rss-feeds/</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-26-rss-feeds/</guid>
   <pubDate>Tue, 26 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Shiny Fun</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-17-shiny-fun/</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-17-shiny-fun/</link>
   <description><![CDATA[ 
 
 
@@ -788,13 +788,13 @@ font-style: inherit;"># Close the fluidRow</span></span></code></pre></div>
  ]]></description>
   <category>Shiny</category>
   <category>TLI</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-17-shiny-fun/</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-17-shiny-fun/</guid>
   <pubDate>Sun, 17 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>All Equal()</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-11-All.Equal()/All.Equal().html</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-11-All.Equal()/All.Equal().html</link>
   <description><![CDATA[ 
 
 
@@ -844,13 +844,13 @@ font-style: inherit;">all.equal</span>(df_1, df_2)</span></code></pre></div>
 
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-11-All.Equal()/All.Equal().html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-11-All.Equal()/All.Equal().html</guid>
   <pubDate>Mon, 11 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Cron-Jobs-GHA</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-10-Cron-Jobs-GHA/2024-11-10-Cron-Jobs-GHA.html</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-10-Cron-Jobs-GHA/2024-11-10-Cron-Jobs-GHA.html</link>
   <description><![CDATA[ 
 
 
@@ -863,13 +863,13 @@ font-style: inherit;">all.equal</span>(df_1, df_2)</span></code></pre></div>
 
 
  ]]></description>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-10-Cron-Jobs-GHA/2024-11-10-Cron-Jobs-GHA.html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-10-Cron-Jobs-GHA/2024-11-10-Cron-Jobs-GHA.html</guid>
   <pubDate>Sun, 10 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Stylying a Shiny App</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-10-Style-Shiny-App/2024-11-10-Style-Shiny-App.html</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-10-Style-Shiny-App/2024-11-10-Style-Shiny-App.html</link>
   <description><![CDATA[ 
 
 
@@ -899,13 +899,13 @@ font-style: inherit;"># Your plots and tables here</span></span>
 
  ]]></description>
   <category>-Shiny -TIL</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-10-Style-Shiny-App/2024-11-10-Style-Shiny-App.html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-10-Style-Shiny-App/2024-11-10-Style-Shiny-App.html</guid>
   <pubDate>Sun, 10 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Test Your SQL</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-04-SQL-Test.html</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-04-SQL-Test.html</link>
   <description><![CDATA[ 
 
 
@@ -931,13 +931,13 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
 
  ]]></description>
   <category>SQL</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-04-SQL-Test.html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-04-SQL-Test.html</guid>
   <pubDate>Mon, 04 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Github Actions</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-03-GHA.html</link>
+  <link>https://kgilds.rbind.io/posts/2024-11-03-GHA.html</link>
   <description><![CDATA[ 
 
 
@@ -968,13 +968,13 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
 
  ]]></description>
   <category>GHA</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-11-03-GHA.html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-11-03-GHA.html</guid>
   <pubDate>Sun, 03 Nov 2024 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Links</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-09-22-links/</link>
+  <link>https://kgilds.rbind.io/posts/2024-09-22-links/</link>
   <description><![CDATA[ 
 
 
@@ -1001,13 +1001,13 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
 
  ]]></description>
   <category>Links</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-09-22-links/</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-09-22-links/</guid>
   <pubDate>Sun, 22 Sep 2024 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Flywheels</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-07-25-fly-wheel/fly-wheel.html</link>
+  <link>https://kgilds.rbind.io/posts/2024-07-25-fly-wheel/fly-wheel.html</link>
   <description><![CDATA[ 
 
 
@@ -1025,14 +1025,14 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
 
  ]]></description>
   <category>skills</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-07-25-fly-wheel/fly-wheel.html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-07-25-fly-wheel/fly-wheel.html</guid>
   <pubDate>Thu, 25 Jul 2024 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Playing with Mapboxer Pkg</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
   <dc:creator>Kevn Gilds, MPA</dc:creator>
-  <link>https://jade-valkyrie-e33f95.netlify.app/posts/2024-07-20-maps/2024-07-20-maps.html</link>
+  <link>https://kgilds.rbind.io/posts/2024-07-20-maps/2024-07-20-maps.html</link>
   <description><![CDATA[ 
 
 
@@ -1296,7 +1296,7 @@ font-style: inherit;">"&lt;data-property&gt;"</span>)</span></code></pre></div>
 
  ]]></description>
   <category>maps</category>
-  <guid>https://jade-valkyrie-e33f95.netlify.app/posts/2024-07-20-maps/2024-07-20-maps.html</guid>
+  <guid>https://kgilds.rbind.io/posts/2024-07-20-maps/2024-07-20-maps.html</guid>
   <pubDate>Sat, 20 Jul 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
