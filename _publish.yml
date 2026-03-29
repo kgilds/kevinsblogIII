@@ -1,4 +1,6 @@
 - source: project
   netlify:
+    - id: a6f73ca2-621e-4ac9-94d8-7b5814540b15
+      url: https://kgilds.rbind.io
     - id: 224e0743-bd32-4850-b4ea-2d2bdc5f7c3b
       url: https://jade-valkyrie-e33f95.netlify.app
