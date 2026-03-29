@@ -10,7 +10,7 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 08 Feb 2026 14:50:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 15:00:32 GMT</lastBuildDate>
 <item>
   <title>Qualtrics</title>
   <link>https://kgilds.rbind.io/notes/qualtrics.html</link>
@@ -33,7 +33,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/qualtrics.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>Music Videos</title>
@@ -81,7 +81,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>Org-Mode</title>
@@ -106,7 +106,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/org-mode.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>Typist</title>
@@ -156,7 +156,56 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/typist.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
+</item>
+<item>
+  <title>Movies</title>
+  <link>https://kgilds.rbind.io/notes/Movies.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>name</th>
+<th>Link</th>
+<th>Rating</th>
+<th>Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2026-03-28</td>
+<td>O Brother Where Art thou?</td>
+<td><a href="https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&amp;ref_=tt_ururv_c_1_hd" class="uri">https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&amp;ref_=tt_ururv_c_1_hd</a></td>
+<td>6</td>
+<td>It is a slow movie and I have feeling it is good but had a hard time loving it.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
+ ]]></description>
+  <guid>https://kgilds.rbind.io/notes/Movies.html</guid>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>Claude Code</title>
@@ -176,7 +225,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/claude.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
@@ -201,7 +250,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
@@ -261,7 +310,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
@@ -866,7 +915,7 @@ OJS Syntax Error (line 102, column 2)Unterminated regular expression
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Sun, 08 Feb 2026 14:50:52 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 15:00:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
