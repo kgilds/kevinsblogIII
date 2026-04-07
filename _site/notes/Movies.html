@@ -150,26 +150,38 @@ ul.task-list li input[type="checkbox"] {
 <th>Date</th>
 <th>name</th>
 <th>Link</th>
+<th>Rewatchable Link</th>
 <th>Rating</th>
 <th>Comment</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td>2026-04-04</td>
+<td>Sneakers</td>
+<td><a href="https://www.imdb.com/title/tt0105435/" class="uri">https://www.imdb.com/title/tt0105435/</a></td>
+<td><a href="https://www.youtube.com/watch?v=xQJlUq-Ghuc" class="uri">https://www.youtube.com/watch?v=xQJlUq-Ghuc</a></td>
+<td>7</td>
+<td>Solid movie for the 1990s tries to be too cute.</td>
+</tr>
+<tr class="even">
 <td>2026-03-28</td>
 <td>O Brother Where Art thou?</td>
 <td><a href="https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&amp;ref_=tt_ururv_c_1_hd" class="uri">https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&amp;ref_=tt_ururv_c_1_hd</a></td>
+<td></td>
 <td>6</td>
 <td>It is a slow movie and I have feeling it is good but had a hard time loving it.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/kgilds\.rbind\.io");
+        var filterRegex = new RegExp("https:\/\/kgilds\.rbind\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

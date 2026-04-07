@@ -3,8 +3,9 @@ title: "Movies"
 format: html
 ---
 
-| Date | name | Link | Rating | Comment |
-|---------------|---------------|---------------|---------------|---------------|
-| 2026-03-28 | O Brother Where Art thou? | <https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&ref_=tt_ururv_c_1_hd> | 6 | It is a slow movie and I have feeling it is good but had a hard time loving it. |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Date | name | Link | Rewatchable Link | Rating | Comment |
+|------------|------------|------------|------------|------------|------------|
+| 2026-04-04 | Sneakers | <https://www.imdb.com/title/tt0105435/> | <https://www.youtube.com/watch?v=xQJlUq-Ghuc> | 7 | Solid movie for the 1990s tries to be too cute. |
+| 2026-03-28 | O Brother Where Art thou? | <https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&ref_=tt_ururv_c_1_hd> |  | 6 | It is a slow movie and I have feeling it is good but had a hard time loving it. |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |

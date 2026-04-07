@@ -10,7 +10,7 @@
 <atom:link href="https://kgilds.rbind.io/notes.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 29 Mar 2026 16:39:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 00:55:39 GMT</lastBuildDate>
 <item>
   <title>Qualtrics</title>
   <link>https://kgilds.rbind.io/notes/qualtrics.html</link>
@@ -33,7 +33,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/qualtrics.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Music Videos</title>
@@ -81,7 +81,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/music_videos.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Org-Mode</title>
@@ -106,7 +106,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/org-mode.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Typist</title>
@@ -156,7 +156,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/typist.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Movies</title>
@@ -172,26 +172,38 @@
 <th>Date</th>
 <th>name</th>
 <th>Link</th>
+<th>Rewatchable Link</th>
 <th>Rating</th>
 <th>Comment</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td>2026-04-04</td>
+<td>Sneakers</td>
+<td><a href="https://www.imdb.com/title/tt0105435/" class="uri">https://www.imdb.com/title/tt0105435/</a></td>
+<td><a href="https://www.youtube.com/watch?v=xQJlUq-Ghuc" class="uri">https://www.youtube.com/watch?v=xQJlUq-Ghuc</a></td>
+<td>7</td>
+<td>Solid movie for the 1990s tries to be too cute.</td>
+</tr>
+<tr class="even">
 <td>2026-03-28</td>
 <td>O Brother Where Art thou?</td>
 <td><a href="https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&amp;ref_=tt_ururv_c_1_hd" class="uri">https://www.imdb.com/title/tt0190590/reviews/?featured=rw2182204&amp;ref_=tt_ururv_c_1_hd</a></td>
+<td></td>
 <td>6</td>
 <td>It is a slow movie and I have feeling it is good but had a hard time loving it.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -205,7 +217,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/Movies.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Claude Code</title>
@@ -225,7 +237,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/claude.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Google App Script</title>
@@ -250,7 +262,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/app-script.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Vimwiki &amp; Taskwarrior</title>
@@ -310,7 +322,7 @@
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/vimwiki.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 <item>
   <title>OJS</title>
@@ -915,7 +927,7 @@ OJS Syntax Error (line 102, column 2)Unterminated regular expression
 
  ]]></description>
   <guid>https://kgilds.rbind.io/notes/OJS.html</guid>
-  <pubDate>Sun, 29 Mar 2026 16:39:12 GMT</pubDate>
+  <pubDate>Tue, 07 Apr 2026 00:55:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
