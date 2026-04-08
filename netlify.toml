@@ -4,4 +4,4 @@
 
 [build.environment]
   NODE_VERSION = "22"
-  MISE_GLOBAL_CONFIG = "0"
+  HUGO_VERSION = "0.140.2"
