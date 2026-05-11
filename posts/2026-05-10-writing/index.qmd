@@ -1,0 +1,15 @@
+---
+title: "Sociology"
+author: "Kevin Gilds"
+description: "The Sociological Imagination"
+date: "2026-05-10"
+categories: [Blog Roll]
+---
+
+JA Westenberg writes a weekly column on technology, culture, and philosophy.
+
+<https://www.joanwestenberg.com/about/>
+
+My two cents- the posts display the sociological imagination. The posts connect the "interplay of man and society and the history of self and world" (p. 4).
+
+<https://ratical.org/ratville/AoS/TheSociologicalImagination.pdf>
