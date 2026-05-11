@@ -10,7 +10,30 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Mon, 20 Apr 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sociology</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <dc:creator>Kevin Gilds</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2026-05-10-writing/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>JA Westenberg writes a weekly column on technology, culture, and philosophy.</p>
+<p><a href="https://www.joanwestenberg.com/about/" class="uri">https://www.joanwestenberg.com/about/</a></p>
+<p>My two cents- the posts display the sociological imagination. The posts connect the “interplay of man and society and the history of self and world” (p.&nbsp;4).</p>
+<p><a href="https://ratical.org/ratville/AoS/TheSociologicalImagination.pdf" class="uri">https://ratical.org/ratville/AoS/TheSociologicalImagination.pdf</a></p>
+
+
+
+ ]]></description>
+  <category>Blog Roll</category>
+  <guid>https://kgilds.rbind.io/posts/2026-05-10-writing/</guid>
+  <pubDate>Sun, 10 May 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>What is new</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -1022,30 +1045,6 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
   <category>Links</category>
   <guid>https://kgilds.rbind.io/posts/2024-09-22-links/</guid>
   <pubDate>Sun, 22 Sep 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Flywheels</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-07-25-fly-wheel/fly-wheel.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I liked this (<a href="https://seths.blog/2024/07/the-two-bicycle-errors/" title="Link to post">Post</a>). The insight is that we notice when someone is not very good or great at a skill. This may be overstated but there is some truth to it.</p>
-<p>The same semantic applies when someone assumes someone was born to code or understands data.</p>
-<blockquote class="blockquote">
-<p>I can still feel the awkwardness of learning to code–it felt unnatural.</p>
-</blockquote>
-<p>What is great about learning to code/how computers work there is a the flywheel effect in that once you understand something many concepts fall into place.</p>
-
-
-
- ]]></description>
-  <category>skills</category>
-  <guid>https://kgilds.rbind.io/posts/2024-07-25-fly-wheel/fly-wheel.html</guid>
-  <pubDate>Thu, 25 Jul 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
