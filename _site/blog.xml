@@ -10,7 +10,29 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 10 May 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unreleased Songs</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2026-05-23-unreleased-songs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I am excited to see <a href="https://tylerchildersmusic.com/?srsltid=AfmBOorQsBfqsYq6EQM2wqSVIi-zBIelHZR4rgkmWnFM0K9ue5hzgfk-">Tyler Childers</a> July 15h. I have heard that he often plays songs live that have not been released.</p>
+<p>I like to be prepared.</p>
+<p>Here is a playlist.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YCDCFNDrdkE?si=6EARdOelZfTNvZ3V" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+
+ ]]></description>
+  <category>Tyler Childers</category>
+  <guid>https://kgilds.rbind.io/posts/2026-05-23-unreleased-songs/</guid>
+  <pubDate>Sat, 23 May 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Sociology</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -1012,39 +1034,6 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
   <category>GHA</category>
   <guid>https://kgilds.rbind.io/posts/2024-11-03-GHA.html</guid>
   <pubDate>Sun, 03 Nov 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Links</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-09-22-links/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="weekly-wrap-up" class="level1">
-<h1>Weekly Wrap-up</h1>
-<p>I updated my R version to 4.4.1–I suppressed the pain involved in updates such as re-installing packages. What has been fun is I don’t appear to be able to deploy my Shiny App to ShinyApps.io and it is not clear to me why.</p>
-<section id="items" class="level2">
-<h2 class="anchored" data-anchor-id="items">Items</h2>
-<p>Useful R items:</p>
-<p>I have been waiting for this–How to secure static html files. This link <a href="https://nikitoshina.quarto.pub/quarto_encryption/" class="uri">https://nikitoshina.quarto.pub/quarto_encryption/</a> provides an example on how to do this. The tool to secure the file is JavaScript and it is required to have Node.js installed on your computer. This has the potential to be a game changer.</p>
-<p>Useful R 📦 <a href="https://smach.github.io/newpost/">newpost</a>; it uses the Rstudio API to create a new folder and starts a new post for you. This seems to work a bit better than my add-on.</p>
-<p>Browser based <a href="https://postgres.new/">Postgress</a> database. I am not sure of my use case with this.</p>
-</section>
-</section>
-<section id="fin" class="level1">
-<h1>Fin</h1>
-<p>Working to get back in the habit of posting more.</p>
-
-
-</section>
-
- ]]></description>
-  <category>Links</category>
-  <guid>https://kgilds.rbind.io/posts/2024-09-22-links/</guid>
-  <pubDate>Sun, 22 Sep 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
