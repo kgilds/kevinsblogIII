@@ -1,0 +1,23 @@
+---
+title: "Regression"
+author: ""
+description: "Grinding through the regression"
+date: "2026-05-24"
+categories: [Guitar]
+---
+
+I started coding in R in about 2011 and it was a shock to my system. I had no idea what I was doing or what was happening with my computer. Gradually, I started getting better and understanding more.
+
+The skills I developed learning R compounded. Learning to code improved my computer skills including skills with spreadsheets and swapping out to a Linux box rather than Windows.
+
+When I read this [article](https://www.joanwestenberg.com/nobody-is-destined-for-greatness/), I thought of my journey and I thought of guitar players. About a month ago, I had an itch to buy a guitar. My previous attempts were failures. My uncle told me years ago in essence that if you need lessons you don't have it or at least that is what I took away. I have had a sense that you were born a musician or not. Directionally this may be correct but what we are missing and that what the article is saying is we are missing the effort put forth. That is the born musician still practices and works at their craft.
+
+I researched and became convinced that one could acquire the skill of learning a guitar. My goals were to put my focus on something other than work and to get off the computer/phone.
+
+I started patient with the understanding I would be terrible. Anyway chord changes were a struggle and the app I am using made a recommendation to get at least 30 chord changes before moving on. This was a struggle and then one Saturday I hit 26 clean chord changes.
+
+## Hello regression:
+
+I was feeling good and the next time I practiced I was lucky to get 15 clean chord changes. I started trying too hard and then all the negative thoughts that I was not a born musician came flooding through.
+
+The good news my stakes for guitar playing are low; I have no intention of performing for folks. I love music, and I love the guitar. My main goal was to do an activity that took my focus away from work and computers.

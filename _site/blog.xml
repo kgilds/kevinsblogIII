@@ -10,7 +10,35 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sat, 23 May 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Regression</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2026-05-24-regression/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I started coding in R in about 2011 and it was a shock to my system. I had no idea what I was doing or what was happening with my computer. Gradually, I started getting better and understanding more.</p>
+<p>The skills I developed learning R compounded. Learning to code improved my computer skills including skills with spreadsheets and swapping out to a Linux box rather than Windows.</p>
+<p>When I read this <a href="https://www.joanwestenberg.com/nobody-is-destined-for-greatness/">article</a>, I thought of my journey and I thought of guitar players. About a month ago, I had an itch to buy a guitar. My previous attempts were failures. My uncle told me years ago in essence that if you need lessons you don’t have it or at least that is what I took away. I have had a sense that you were born a musician or not. Directionally this may be correct but what we are missing and that what the article is saying is we are missing the effort put forth. That is the born musician still practices and works at their craft.</p>
+<p>I researched and became convinced that one could acquire the skill of learning a guitar. My goals were to put my focus on something other than work and to get off the computer/phone.</p>
+<p>I started patient with the understanding I would be terrible. Anyway chord changes were a struggle and the app I am using made a recommendation to get at least 30 chord changes before moving on. This was a struggle and then one Saturday I hit 26 clean chord changes.</p>
+<section id="hello-regression" class="level2">
+<h2 class="anchored" data-anchor-id="hello-regression">Hello regression:</h2>
+<p>I was feeling good and the next time I practiced I was lucky to get 15 clean chord changes. I started trying too hard and then all the negative thoughts that I was not a born musician came flooding through.</p>
+<p>The good news my stakes for guitar playing are low; I have no intention of performing for folks. I love music, and I love the guitar. My main goal was to do an activity that took my focus away from work and computers.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Guitar</category>
+  <guid>https://kgilds.rbind.io/posts/2026-05-24-regression/</guid>
+  <pubDate>Sun, 24 May 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Unreleased Songs</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -997,43 +1025,6 @@ Nice confidence boost seeing how much quicker and more efficient I was compared 
   <category>SQL</category>
   <guid>https://kgilds.rbind.io/posts/2024-11-04-SQL-Test.html</guid>
   <pubDate>Mon, 04 Nov 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Github Actions</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-11-03-GHA.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
-<p>I spent the weekend revisiting how to build a GitHub Action to automatically pull data from Clockify. It was a challenging experience that felt like my first time coding due to a series of small, avoidable mistakes. I had to piece together information from multiple sources and use ChatGPT to get my YAML formatted correctly.</p>
-<section id="learning" class="level2">
-<h2 class="anchored" data-anchor-id="learning">Learning</h2>
-<p>The announcement of this <a href="https://r-in-production.org/github-actions.html">book</a> and its chapter on GitHub Actions inspired me to start this project again. I found this <a href="https://github.com/hadley/available-work">project workflow</a> especially helpful.</p>
-<ol type="1">
-<li><p>One useful takeaway was the idea of using a <a href="https://github.com/hadley/available-work/blob/main/DESCRIPTION">DESCRIPTION</a> file for projects, even if they’re not packages. I used an <code>renv</code> workflow, but encountered challenges installing the <code>Rcpp</code> package on the remote machine. I wonder if the setup with a DESCRIPTION file might have prevented some of these issues.</p></li>
-<li><p>If you’re writing data to your repository, you need to provide write permissions. GitHub offers a default token (<code>GITHUB_TOKEN</code>) for GitHub Actions, which simplifies this process. Initially, I tried using my own PAT, but thanks to ChatGPT, I learned to switch to the default <code>GITHUB_TOKEN</code> instead:</p>
-<blockquote class="blockquote">
-<p><strong>Tip</strong>: GitHub provides a default <code>GITHUB_TOKEN</code> for Actions that usually works for most repositories, eliminating the need for a custom PAT. Replace any custom PAT reference in the <code>git-auto-commit-action</code> step with <code>${{ secrets.GITHUB_TOKEN }}</code>.</p>
-</blockquote></li>
-</ol>
-</section>
-<section id="conclusion" class="level2">
-<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<p>I worked through several challenges, and hopefully, the next time I attempt this, it won’t be quite as difficult.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>GHA</category>
-  <guid>https://kgilds.rbind.io/posts/2024-11-03-GHA.html</guid>
-  <pubDate>Sun, 03 Nov 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
