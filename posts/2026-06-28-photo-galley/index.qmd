@@ -1,0 +1,11 @@
+---
+title: "Photo Gallery"
+author: ""
+description: "Quarto Extension to easily set up gallery of photos"
+date: "2026-06-28"
+categories: [Quarto]
+---
+
+Here is a link to handy [Quarto extension](https://andrewheiss.github.io/quarto-static-photo-gallery/) to easily incorporate photo galleries into your site using Quarto.
+
+Pretty easy install, I just forgot to install into my specific directory.

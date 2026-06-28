@@ -10,7 +10,27 @@
 <atom:link href="https://kgilds.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kevin&#39;s notebook</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 24 May 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Photo Gallery</title>
+  <dc:creator>Kevin Gilds, MPA</dc:creator>
+  <link>https://kgilds.rbind.io/posts/2026-06-28-photo-galley/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Here is a link to handy <a href="https://andrewheiss.github.io/quarto-static-photo-gallery/">Quarto extension</a> to easily incorporate photo galleries into your site using Quarto.</p>
+<p>Pretty easy install, I just forgot to install into my specific directory.</p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <guid>https://kgilds.rbind.io/posts/2026-06-28-photo-galley/</guid>
+  <pubDate>Sun, 28 Jun 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Regression</title>
   <dc:creator>Kevin Gilds, MPA</dc:creator>
@@ -993,38 +1013,6 @@ font-style: inherit;"># Your plots and tables here</span></span>
   <category>-Shiny -TIL</category>
   <guid>https://kgilds.rbind.io/posts/2024-11-10-Style-Shiny-App/2024-11-10-Style-Shiny-App.html</guid>
   <pubDate>Sun, 10 Nov 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Test Your SQL</title>
-  <dc:creator>Kevin Gilds, MPA</dc:creator>
-  <link>https://kgilds.rbind.io/posts/2024-11-04-SQL-Test.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
-<p>SQL is on my mind and this looks like an interesting <a href="https://mystery.knightlab.com/">resource</a> to test those SQL skills. I struggle with new data sets so this may be a good challenge.</p>
-<p>I found the resource from this post on bluesky.</p>
-<blockquote class="bluesky-embed blockquote" data-bluesky-uri="at://did:plc:5a3f7iiofypgx5mqbzejok5z/app.bsky.feed.post/3la5llggl5m25" data-bluesky-cid="bafyreihqfk7mr2skvnzbnoykyz5fj4pjxfctsdtmx5l7onggo5s4s33d4i">
-<p lang="en">
-</p><p>Starting my new data analyst job next week and wanted to have a refresh of SQL.</p>
-<p>Ran through the SQL Murder Mystery (mystery.knightlab.com) and SQL Island (sql-island.informatik.uni-kl.de).</p>
-Nice confidence boost seeing how much quicker and more efficient I was compared to a few months ago<br><br><a href="https://bsky.app/profile/did:plc:5a3f7iiofypgx5mqbzejok5z/post/3la5llggl5m25?ref_src=embed">[image or embed]</a>
-<p></p>
-— Tim (<a href="https://bsky.app/profile/did:plc:5a3f7iiofypgx5mqbzejok5z?ref_src=embed"><span class="citation" data-cites="talbtree.bsky.social">@talbtree.bsky.social</span></a>) <a href="https://bsky.app/profile/did:plc:5a3f7iiofypgx5mqbzejok5z/post/3la5llggl5m25?ref_src=embed">November 4, 2024 at 3:46 PM</a>
-</blockquote>
-<script async="" src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-
-</section>
-
- ]]></description>
-  <category>SQL</category>
-  <guid>https://kgilds.rbind.io/posts/2024-11-04-SQL-Test.html</guid>
-  <pubDate>Mon, 04 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
